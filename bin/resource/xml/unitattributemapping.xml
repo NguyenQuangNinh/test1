@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<ID><![CDATA[1]]></ID>
+		<Name><![CDATA[Hồi máu]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[2]]></ID>
+		<Name><![CDATA[Sát thương]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[3]]></ID>
+		<Name><![CDATA[Sinh lực tối đa]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[4]]></ID>
+		<Name><![CDATA[Sức mạnh]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[5]]></ID>
+		<Name><![CDATA[Nhanh nhẹn]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[6]]></ID>
+		<Name><![CDATA[Trí tuệ]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[7]]></ID>
+		<Name><![CDATA[Sinh mệnh]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[401]]></ID>
+		<Name><![CDATA[Kháng ngoại công]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[402]]></ID>
+		<Name><![CDATA[Kháng nội công]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[404]]></ID>
+		<Name><![CDATA[Kháng ngũ hành]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[405]]></ID>
+		<Name><![CDATA[Ngoại công]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[406]]></ID>
+		<Name><![CDATA[Nội công]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[407]]></ID>
+		<Name><![CDATA[Tỉ lệ bạo kích ngoại công]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[408]]></ID>
+		<Name><![CDATA[Tỉ lệ bạo kích nội công]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[409]]></ID>
+		<Name><![CDATA[Bạo kích ngoại công]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[410]]></ID>
+		<Name><![CDATA[Bạo kích nội công]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[411]]></ID>
+		<Name><![CDATA[Độ chính xác]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[412]]></ID>
+		<Name><![CDATA[Kháng đẩy lùi]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[414]]></ID>
+		<Name><![CDATA[Tốc độ di chuyển]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[415]]></ID>
+		<Name><![CDATA[Tốc độ đánh]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[416]]></ID>
+		<Name><![CDATA[Tỉ lệ đỡ]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[417]]></ID>
+		<Name><![CDATA[Tỉ lệ đẩy lùi]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[418]]></ID>
+		<Name><![CDATA[Khoảng cách đẩy lùi]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[419]]></ID>
+		<Name><![CDATA[Kháng đẩy lùi]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[420]]></ID>
+		<Name><![CDATA[Khắc mộc]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[421]]></ID>
+		<Name><![CDATA[Khắc hỏa]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[422]]></ID>
+		<Name><![CDATA[Khắc thổ]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[423]]></ID>
+		<Name><![CDATA[Khắc kim]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[424]]></ID>
+		<Name><![CDATA[Khắc thủy]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[429]]></ID>
+		<Name><![CDATA[Kháng Ngũ Hành]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[430]]></ID>
+		<Name><![CDATA[Kháng Mộc]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[431]]></ID>
+		<Name><![CDATA[Kháng Hỏa]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[432]]></ID>
+		<Name><![CDATA[Kháng Thổ]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[433]]></ID>
+		<Name><![CDATA[Kháng Kim]]></Name>
+	</Data>
+	<Data>
+		<ID><![CDATA[434]]></ID>
+		<Name><![CDATA[Kháng Thủy]]></Name>
+	</Data>
+</Datas>

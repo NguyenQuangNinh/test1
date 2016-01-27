@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<ID><![CDATA[1]]></ID>
+		<Name><![CDATA[Tung Sơn]]></Name>
+		<GameMode><![CDATA[3]]></GameMode>
+		<PosX><![CDATA[245]]></PosX>
+		<PosY><![CDATA[180]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[1000]]></MaxLevelRequirement>
+		<Rewards><![CDATA[187,363,189,364]]></Rewards>
+		<UIButton><![CDATA[hangsonBtn]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[3]]></ID>
+		<Name><![CDATA[Cái Bang Dã Ngoại]]></Name>
+		<GameMode><![CDATA[3]]></GameMode>
+		<PosX><![CDATA[800]]></PosX>
+		<PosY><![CDATA[400]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[10]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[1000]]></MaxLevelRequirement>
+		<Rewards><![CDATA[202,203,204,205]]></Rewards>
+		<UIButton><![CDATA[caibangDaNgoaiBtn]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[4]]></ID>
+		<Name><![CDATA[Biện Kinh Dã Ngoại]]></Name>
+		<GameMode><![CDATA[3]]></GameMode>
+		<PosX><![CDATA[600]]></PosX>
+		<PosY><![CDATA[330]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[20]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[1000]]></MaxLevelRequirement>
+		<Rewards><![CDATA[225,226,227,228,229]]></Rewards>
+		<UIButton><![CDATA[tuongduongDaNgoaiBtn]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[5]]></ID>
+		<Name><![CDATA[Đào Hoa Đảo]]></Name>
+		<GameMode><![CDATA[3]]></GameMode>
+		<PosX><![CDATA[1100]]></PosX>
+		<PosY><![CDATA[440]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[30]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[1000]]></MaxLevelRequirement>
+		<Rewards><![CDATA[1149,1150,1151,1152,1153]]></Rewards>
+		<UIButton><![CDATA[daohoadaoBtn]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[6]]></ID>
+		<Name><![CDATA[Võ Đang Sơn]]></Name>
+		<GameMode><![CDATA[3]]></GameMode>
+		<PosX><![CDATA[400]]></PosX>
+		<PosY><![CDATA[400]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[40]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[1000]]></MaxLevelRequirement>
+		<Rewards><![CDATA[1154,1155,1156,1157,1158]]></Rewards>
+		<UIButton><![CDATA[vodangBtn]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[7]]></ID>
+		<Name><![CDATA[Tuyệt Tình Cốc]]></Name>
+		<GameMode><![CDATA[3]]></GameMode>
+		<PosX><![CDATA[900]]></PosX>
+		<PosY><![CDATA[600]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[50]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[1000]]></MaxLevelRequirement>
+		<Rewards><![CDATA[1738,1739,1744,1741,1742]]></Rewards>
+		<UIButton><![CDATA[tuyetTinhCocBtn]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[8]]></ID>
+		<Name><![CDATA[Đại Lý]]></Name>
+		<GameMode><![CDATA[3]]></GameMode>
+		<PosX><![CDATA[600]]></PosX>
+		<PosY><![CDATA[550]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[60]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[1000]]></MaxLevelRequirement>
+		<Rewards><![CDATA[1738,1739,1744,1741,1742]]></Rewards>
+		<UIButton><![CDATA[daiLyBtn]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[9]]></ID>
+		<Name><![CDATA[Chung Nam Sơn]]></Name>
+		<GameMode><![CDATA[3]]></GameMode>
+		<PosX><![CDATA[300]]></PosX>
+		<PosY><![CDATA[250]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[70]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[1000]]></MaxLevelRequirement>
+		<Rewards><![CDATA[1738,1739,1744,1741,1742]]></Rewards>
+		<UIButton><![CDATA[cnsBtn]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[10]]></ID>
+		<Name><![CDATA[Tửu lâu Ba Lăng Huyện]]></Name>
+		<GameMode><![CDATA[12]]></GameMode>
+		<PosX><![CDATA[0]]></PosX>
+		<PosY><![CDATA[0]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[20]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[29]]></MaxLevelRequirement>
+		<Rewards><![CDATA[]]></Rewards>
+		<UIButton><![CDATA[]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[11]]></ID>
+		<Name><![CDATA[Tửu lâu Giang Tân Thôn]]></Name>
+		<GameMode><![CDATA[12]]></GameMode>
+		<PosX><![CDATA[0]]></PosX>
+		<PosY><![CDATA[0]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[30]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[39]]></MaxLevelRequirement>
+		<Rewards><![CDATA[]]></Rewards>
+		<UIButton><![CDATA[]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[12]]></ID>
+		<Name><![CDATA[Tửu lâu Thạch Cổ Trấn]]></Name>
+		<GameMode><![CDATA[13]]></GameMode>
+		<PosX><![CDATA[0]]></PosX>
+		<PosY><![CDATA[0]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[40]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[49]]></MaxLevelRequirement>
+		<Rewards><![CDATA[]]></Rewards>
+		<UIButton><![CDATA[]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[13]]></ID>
+		<Name><![CDATA[Tửu lâu Long Tuyền Thôn]]></Name>
+		<GameMode><![CDATA[12]]></GameMode>
+		<PosX><![CDATA[0]]></PosX>
+		<PosY><![CDATA[0]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[50]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[59]]></MaxLevelRequirement>
+		<Rewards><![CDATA[]]></Rewards>
+		<UIButton><![CDATA[]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[14]]></ID>
+		<Name><![CDATA[Tửu lâu Vĩnh Lạc Trấn]]></Name>
+		<GameMode><![CDATA[12]]></GameMode>
+		<PosX><![CDATA[0]]></PosX>
+		<PosY><![CDATA[0]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[60]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<Rewards><![CDATA[]]></Rewards>
+		<UIButton><![CDATA[]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[15]]></ID>
+		<Name><![CDATA[Kiếm Các Trung Nguyên]]></Name>
+		<GameMode><![CDATA[3]]></GameMode>
+		<PosX><![CDATA[350]]></PosX>
+		<PosY><![CDATA[250]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[75]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[1000]]></MaxLevelRequirement>
+		<Rewards><![CDATA[2897,2898,2899,2900,2901]]></Rewards>
+		<UIButton><![CDATA[kiemcactrungnguyenBtn]]></UIButton>
+	</Data>
+	<Data>
+		<ID><![CDATA[16]]></ID>
+		<Name><![CDATA[Đông Hải]]></Name>
+		<GameMode><![CDATA[3]]></GameMode>
+		<PosX><![CDATA[350]]></PosX>
+		<PosY><![CDATA[200]]></PosY>
+		<AvgBossPoint><![CDATA[10]]></AvgBossPoint>
+		<LevelRequirement><![CDATA[80]]></LevelRequirement>
+		<MaxLevelRequirement><![CDATA[1000]]></MaxLevelRequirement>
+		<Rewards><![CDATA[2897,2898,2899,2900,2901]]></Rewards>
+		<UIButton><![CDATA[donghaiBtn]]></UIButton>
+	</Data>
+</Datas>

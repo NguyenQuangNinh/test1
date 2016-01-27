@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<flex-config>
+	<target-player>11.1</target-player>
+  <compiler>
+    <source-path append="true">
+      <path-element>src</path-element>
+      <path-element>lib</path-element>
+      <path-element>share</path-element>
+    </source-path>
+    <library-path append="true">
+      <path-element>lib</path-element>
+	  <path-element>assets</path-element>
+	  <path-element>lib/swc</path-element>
+    </library-path>
+	<debug>false</debug>
+	<incremental>true</incremental>
+  </compiler>
+  <!--file-specs>
+    <path-element>src\AppDoc.as</path-element>
+  </file-specs -->
+  <default-background-color>#000000</default-background-color>
+  <default-frame-rate>60</default-frame-rate>
+  <default-size>
+    <width>1300</width>
+    <height>650</height>
+  </default-size>
+</flex-config>

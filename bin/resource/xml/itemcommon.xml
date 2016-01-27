@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<ID><![CDATA[1]]></ID>
+		<Type><![CDATA[12]]></Type>
+		<Name><![CDATA[Binh mau tich luy tieu]]></Name>
+		<Description><![CDATA[Binh mau tich luy 50 HP]]></Description>
+		<MaxStackQuantity><![CDATA[10]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[50]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[1]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/binh_mau.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[2]]></ID>
+		<Type><![CDATA[9]]></Type>
+		<Name><![CDATA[Bí kíp thăng sao]]></Name>
+		<Description><![CDATA[Dùng để thăng cấp sao cho nhân vật. Tìm thấy trong Hoạt động Đưa Thư, Quà May Mắn và Cửa Hàng]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[1]]></LevelRequirement>
+		<FilterType><![CDATA[1]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[3]]></ID>
+		<Type><![CDATA[10]]></Type>
+		<Name><![CDATA[Võ Kinh Toàn Hệ]]></Name>
+		<Description><![CDATA[Dùng để thăng cấp kỹ năng tất cả các hệ. Tìm thấy trong nhiệm vụ Dã Tẩu.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[1]]></LevelRequirement>
+		<FilterType><![CDATA[2]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/vokinhtoanhe.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[4]]></ID>
+		<Type><![CDATA[24]]></Type>
+		<Name><![CDATA[Võ Kinh Hỏa Hệ]]></Name>
+		<Description><![CDATA[Dùng để thăng cấp kỹ năng hệ Hỏa. Tìm thấy trong Tháp Cao Thủ và Cửa Hàng.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[1]]></LevelRequirement>
+		<FilterType><![CDATA[2]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/vokinhhehoa.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[5]]></ID>
+		<Type><![CDATA[27]]></Type>
+		<Name><![CDATA[Võ Kinh Thủy Hệ]]></Name>
+		<Description><![CDATA[Dùng để thăng cấp kỹ năng hệ Thủy. Tìm thấy trong Tháp Cao Thủ và Cửa Hàng.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[1]]></LevelRequirement>
+		<FilterType><![CDATA[2]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/vokinhhethuy.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[6]]></ID>
+		<Type><![CDATA[26]]></Type>
+		<Name><![CDATA[Võ Kinh Kim Hệ]]></Name>
+		<Description><![CDATA[Dùng để thăng cấp kỹ năng hệ Kim. Tìm thấy trong Tháp Cao Thủ và Cửa Hàng.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[1]]></LevelRequirement>
+		<FilterType><![CDATA[2]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/vokinhhekim.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[7]]></ID>
+		<Type><![CDATA[28]]></Type>
+		<Name><![CDATA[Võ Kinh Mộc Hệ]]></Name>
+		<Description><![CDATA[Dùng để thăng cấp kỹ năng hệ Mộc. Tìm thấy trong Tháp Cao Thủ và Cửa Hàng.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[1]]></LevelRequirement>
+		<FilterType><![CDATA[2]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/vokinhhemoc.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[8]]></ID>
+		<Type><![CDATA[25]]></Type>
+		<Name><![CDATA[Võ Kinh Thổ Hệ]]></Name>
+		<Description><![CDATA[Dùng để thăng cấp kỹ năng hệ Thổ. Tìm thấy trong Tháp Cao Thủ và Cửa Hàng.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[1]]></LevelRequirement>
+		<FilterType><![CDATA[2]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/vokinhhetho.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[9]]></ID>
+		<Type><![CDATA[35]]></Type>
+		<Name><![CDATA[Kim Trận - Sách]]></Name>
+		<Description><![CDATA[Dùng để thăng cấp trận hình hệ Kim. Tìm thấy trongTháp Cao Thủ và Cửa Hàng.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[1]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[1]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/item_tranhinh3.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[10]]></ID>
+		<Type><![CDATA[35]]></Type>
+		<Name><![CDATA[Mộc Trận - Sách]]></Name>
+		<Description><![CDATA[Dùng để thăng cấp trận hình hệ Mộc. Tìm thấy trongTháp Cao Thủ và Cửa Hàng.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[1]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/item_tranhinh4.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[11]]></ID>
+		<Type><![CDATA[35]]></Type>
+		<Name><![CDATA[Thủy Trận - Sách]]></Name>
+		<Description><![CDATA[Dùng để thăng cấp trận hình hệ Thủy. Tìm thấy trongTháp Cao Thủ và Cửa Hàng.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[3]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[1]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/item_tranhinh1.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[12]]></ID>
+		<Type><![CDATA[35]]></Type>
+		<Name><![CDATA[Hỏa Trận - Sách]]></Name>
+		<Description><![CDATA[Dùng để thăng cấp trận hình hệ Hỏa. Tìm thấy trongTháp Cao Thủ và Cửa Hàng.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[4]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[1]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/item_tranhinh5.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[13]]></ID>
+		<Type><![CDATA[35]]></Type>
+		<Name><![CDATA[Thổ Trận - Sách]]></Name>
+		<Description><![CDATA[Dùng để thăng cấp trận hình hệ Thổ. Tìm thấy trongTháp Cao Thủ và Cửa Hàng.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[5]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[1]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/item_tranhinh2.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[15]]></ID>
+		<Type><![CDATA[36]]></Type>
+		<Name><![CDATA[Túi Bảo Vật]]></Name>
+		<Description><![CDATA[Tăng 2 lần vật phẩm nhận được khi leo tháp. Tìm thấy trong Cửa Hàng]]></Description>
+		<MaxStackQuantity><![CDATA[100]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[100]]></Value>
+		<LevelRequirement><![CDATA[1]]></LevelRequirement>
+		<FilterType><![CDATA[1]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/icon_tuibaovat2.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[16]]></ID>
+		<Type><![CDATA[46]]></Type>
+		<Name><![CDATA[Loa thường]]></Name>
+		<Description><![CDATA[Loa thông báo thường]]></Description>
+		<MaxStackQuantity><![CDATA[10]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[1]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[2]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/binh_mau.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[17]]></ID>
+		<Type><![CDATA[46]]></Type>
+		<Name><![CDATA[Loa VIP]]></Name>
+		<Description><![CDATA[Loa thông báo xịn]]></Description>
+		<MaxStackQuantity><![CDATA[10]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[2]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/binh_mau.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[18]]></ID>
+		<Type><![CDATA[42]]></Type>
+		<Name><![CDATA[Hoa Hồng]]></Name>
+		<Description><![CDATA[Hoa hồng có thể tìm thấy tại các ải Chiến Dịch]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[3]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/hoahong.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[19]]></ID>
+		<Type><![CDATA[42]]></Type>
+		<Name><![CDATA[Giấy gói]]></Name>
+		<Description><![CDATA[Giấy gói quà dùng gói Bó Hoa Hồng]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[3]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/giaygoihoa.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[20]]></ID>
+		<Type><![CDATA[42]]></Type>
+		<Name><![CDATA[Bó Hoa Hồng]]></Name>
+		<Description><![CDATA[Sử dụng sẽ nhận được phần thưởng!]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[3]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/bohoahong.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[21]]></ID>
+		<Type><![CDATA[42]]></Type>
+		<Name><![CDATA[Nơ]]></Name>
+		<Description><![CDATA[Nơ có thể tìm thấy tại các Anh Hùng Ải]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[3]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/no.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[22]]></ID>
+		<Type><![CDATA[42]]></Type>
+		<Name><![CDATA[Cành Hoa Hồng]]></Name>
+		<Description><![CDATA[Cành Hoa Hồng sử dụng sẽ nhận được phần thưởng !]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[3]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/canhcay.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[23]]></ID>
+		<Type><![CDATA[48]]></Type>
+		<Name><![CDATA[Tiểu Điểu May Mắn]]></Name>
+		<Description><![CDATA[Dùng để giữ chúc phúc thăng sao không bị reset .]]></Description>
+		<MaxStackQuantity><![CDATA[100]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[2]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/giuchucphuc.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[24]]></ID>
+		<Type><![CDATA[42]]></Type>
+		<Name><![CDATA[Cây Thông]]></Name>
+		<Description><![CDATA[Cây Thông dùng để ghép phần thưởng. Nhận được khi đánh các ải trong Chiến Dịch.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[3]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/caythong.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[25]]></ID>
+		<Type><![CDATA[42]]></Type>
+		<Name><![CDATA[Ngôi Sao May Mắn]]></Name>
+		<Description><![CDATA[Dùng để ghép Cây Thông May Mắn, Nhận được khi tham gia Anh Hùng Ải.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[3]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/ngoisao.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[26]]></ID>
+		<Type><![CDATA[42]]></Type>
+		<Name><![CDATA[Hoa Tuyết]]></Name>
+		<Description><![CDATA[Hoa Tuyết dùng để ghép Cây thông an lành. Có thể mua ở cửa hàng.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[3]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/hoatuyet.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[27]]></ID>
+		<Type><![CDATA[49]]></Type>
+		<Name><![CDATA[Tẩy Tủy Kinh]]></Name>
+		<Description><![CDATA[Dùng đổi kỹ năng của nhân vật!]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[2]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/taytuykinh.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[28]]></ID>
+		<Type><![CDATA[42]]></Type>
+		<Name><![CDATA[Lá Gói]]></Name>
+		<Description><![CDATA[Lá gói dùng để ghép bánh tét, bánh chưng ngày tết. Nhận được khi đánh các ải trong Chiến Dịch.]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[3]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/lachuoi.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[29]]></ID>
+		<Type><![CDATA[42]]></Type>
+		<Name><![CDATA[Đậu Xanh]]></Name>
+		<Description><![CDATA[Đậu Xanh có thể tìm thấy tại các Anh Hùng Ải]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[3]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/dauxanh.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[30]]></ID>
+		<Type><![CDATA[42]]></Type>
+		<Name><![CDATA[Thịt Heo]]></Name>
+		<Description><![CDATA[Thịt heo dùng để gói bánh Chưng ngày tết]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[0]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[3]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thitheo.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[31]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Hắc Thiết Thạch]]></Name>
+		<Description><![CDATA[Nguyên liệu thăng cấp thuộc tính thần binh cấp 1]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/hacthietthach.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[32]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Đồng Thiết Thạch]]></Name>
+		<Description><![CDATA[Nguyên liệu thăng cấp thuộc tính thần binh cấp 2]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/dongthietthach.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[33]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Ngân Thiết Thạch]]></Name>
+		<Description><![CDATA[Nguyên liệu thăng cấp thuộc tính thần binh cấp 3]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/nganthietthach.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[34]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Tử Thiết Thạch]]></Name>
+		<Description><![CDATA[Nguyên liệu thăng cấp thuộc tính thần binh cấp 4]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/tuthietthach.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[35]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Kim Thiết Thạch]]></Name>
+		<Description><![CDATA[Nguyên liệu thăng cấp thuộc tính thần binh cấp 5]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/kimthietthach.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[36]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Lam Dương Tinh]]></Name>
+		<Description><![CDATA[Nguyên liệu thăng cấp sao thần binh cấp 1]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/lamduongtinh.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[37]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Xích Dương Tinh]]></Name>
+		<Description><![CDATA[Nguyên liệu thăng cấp sao thần binh cấp 2]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/xichduongtinh.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[38]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Tử Dương Tinh]]></Name>
+		<Description><![CDATA[Nguyên liệu thăng cấp sao thần binh cấp 3]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/tuduongtinh.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[39]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Kim Dương Tinh]]></Name>
+		<Description><![CDATA[Nguyên liệu thăng cấp sao thần binh cấp 4]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/kimduongtinh.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[40]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Thiết Chùy]]></Name>
+		<Description><![CDATA[Nguyên liệu đúc lại thần binh cấp 1]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/thietchuy.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[41]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Đồng Chùy]]></Name>
+		<Description><![CDATA[Nguyên liệu đúc lại thần binh cấp 2]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/dongchuy.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[42]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Ngân Chùy]]></Name>
+		<Description><![CDATA[Nguyên liệu đúc lại thần binh cấp 3]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/nganchuy.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[43]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Xích Chùy]]></Name>
+		<Description><![CDATA[Nguyên liệu đúc lại thần binh cấp 4]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/xichchuy.png]]></IconURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[44]]></ID>
+		<Type><![CDATA[51]]></Type>
+		<Name><![CDATA[Kim Chùy]]></Name>
+		<Description><![CDATA[Nguyên liệu đúc lại thần binh cấp 5]]></Description>
+		<MaxStackQuantity><![CDATA[500]]></MaxStackQuantity>
+		<ExpirationTime><![CDATA[-1]]></ExpirationTime>
+		<Value><![CDATA[2]]></Value>
+		<LevelRequirement><![CDATA[0]]></LevelRequirement>
+		<FilterType><![CDATA[9]]></FilterType>
+		<IconURL><![CDATA[resource/image/item/thanbinh/material/kimchuy.png]]></IconURL>
+	</Data>
+</Datas>

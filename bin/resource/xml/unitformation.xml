@@ -1,0 +1,64 @@
+<!--
+	Config tran hinh nhan vat
+	ID: ID cua tran hinh
+	Name:Ten cua tran hinh
+	Effects: Mang cac hieu qua cua tran hinh
+		Effect: Hieu qua cua tran hinh
+			- RequireElement: Dieu kien kich hoat hieu qua(6 so tuong ung voi 5 pham chat)
+			- BonusAttribute Hieu qua duoc kich hoat-->
+<Datas>
+	<Data>
+		<ID>1</ID>
+		<Name>Thap bat la han tran</Name>
+		<Description>Trận hình cân bằng công thủ, dành cho hệ thổ</Description>
+		<Effects>
+			<Effect>			
+				<RequireElement>0,1,1,1,1,1</RequireElement>
+				<BonusAttributes>1</BonusAttributes>
+			</Effect>
+			<Effect>			
+				<RequireElement>0,1,0,0,0,0</RequireElement>
+				<BonusAttributes>1,2</BonusAttributes>
+			</Effect>
+			<Effect>			
+				<RequireElement>0,1,0,1,0,0</RequireElement>
+				<BonusAttributes>1,2,3</BonusAttributes>
+			</Effect>
+			<Effect>			
+				<RequireElement>0,0,1,0,3,0</RequireElement>
+				<BonusAttributes>1,3</BonusAttributes>
+			</Effect>
+			
+		</Effects>
+	</Data>
+	<Data>
+		<ID>2</ID>
+		<Name>Tam tuyet tran</Name>
+		<Description>Trận hình cân bằng công thủ, dành cho hệ mộc</Description>
+		<Effects>
+			<Effect>			
+				<RequireElement>0,1,0,0,0,0</RequireElement>
+				<BonusAttributes>1,2,3</BonusAttributes>
+			</Effect>
+			<Effect>			
+				<RequireElement>0,1,1,1,1,1</RequireElement>
+				<BonusAttributes>1,2,3</BonusAttributes>
+			</Effect>
+		</Effects>
+	</Data>
+	<Data>
+		<ID>3</ID>
+		<Name>Song sat tran</Name>
+		<Description>Trận hình cân bằng công thủ, dành cho hệ hỏa</Description>
+		<Effects>
+			<Effect>			
+				<RequireElement>0,1,0,0,0,0</RequireElement>
+				<BonusAttributes>1,2,3</BonusAttributes>
+			</Effect>
+			<Effect>			
+				<RequireElement>0,1,1,1,1,1</RequireElement>
+				<BonusAttributes>1,2,3</BonusAttributes>
+			</Effect>
+		</Effects>
+	</Data>
+</Datas>

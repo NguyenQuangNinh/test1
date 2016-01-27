@@ -1,0 +1,3301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<ID><![CDATA[1]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Dụ dỗ 5 ông thầy Thiếu lâm]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[0]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[0]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[0]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1,2,3]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[2]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Tuyển 3 ả đào Nga Mi]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[0]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[0]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[0]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1,2,3]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[3]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Mần thịt 3 con nhím]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[0]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[0]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[0]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1,2,3]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[4]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Tuyển 3 đào Nga Mi tốt nghiệp level lớn hơn hoặc bằng 1]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[0]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[0]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[0]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1,2,3]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[5]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Tuyển 3 đào Nga Mi tốt nghiệp level lớn hơn hoặc bằng 3]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[0]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[0]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[0]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1,2,3]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[6]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Bói mệnh khí 3 lần]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[0]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[0]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[0]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1,2,3]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[7]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA["Kiếm chác" bằng 3 nhiệm vụ Đưa Thư ]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[0]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[0]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[0]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1,2,3]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[8]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Vượt ải Tung Sơn 1]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[24]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[21]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[9]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Bói mệnh khí 1 lần]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[15]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[22]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[10]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA["Kiếm chác" bằng 1 nhiệm vụ Đưa thư]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[20]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[26]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[11]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Truyền công "ịn ịn" 1 lần]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[12]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[27]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[12]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Bói mệnh khí 2 lần]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[15]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[24]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[13]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Bói mệnh khí 3 lần]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[15]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[25]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[14]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Truyền công "ịn ịn" 2 lần]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[12]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[28]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[15]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Truyền công "ịn ịn" 3 lần]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[12]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[29]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[16]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA["Kiếm chác" bằng 2 lần nhiệm vụ Đưa Thư]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[20]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[30]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[17]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA["Kiếm chác" bằng 3 lần nhiệm vụ Đưa Thư]]></Name>
+		<Desc><![CDATA[]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[20]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[31]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[18]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Tung Sơn 1]]></Name>
+		<Desc><![CDATA[Chúc mừng thiếu hiệp đã dụ dỗ được Quách Tĩnh mua đoạn clip Maria Olala với giá hời. Mau mau khám phá Tung Sơn để mở rộng tầm mắt.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[21]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[250,31,1212,1932]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[20]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Truyền công "ịn ịn" 1 lần]]></Name>
+		<Desc><![CDATA[Hãy kiếm đối tượng vào khu vực luyện công cùng nhau... xếp hình tăng tầng kinh nghiệm]]></Desc>
+		<QuestIDRequirement><![CDATA[18]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[56]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[253,254]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[21]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Tung Sơn 2]]></Name>
+		<Desc><![CDATA[Diệt quái Tung Sơn 2 ]]></Desc>
+		<QuestIDRequirement><![CDATA[18]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[57]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[256,257,1211]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[22]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Tung Sơn 3]]></Name>
+		<Desc><![CDATA[Diệt quái Tung Sơn 3]]></Desc>
+		<QuestIDRequirement><![CDATA[21]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[58]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[259,1213,1887,1338,1339]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[23]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Tung Sơn 4]]></Name>
+		<Desc><![CDATA[Diệt quái Tung Sơn 4]]></Desc>
+		<QuestIDRequirement><![CDATA[22]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[59]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[260,261,1331,1340,1341]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[24]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Tung Sơn 5]]></Name>
+		<Desc><![CDATA[Diệt quái Tung Sơn 5]]></Desc>
+		<QuestIDRequirement><![CDATA[23]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[60]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[262,263,1332,1333]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[25]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Tung Sơn 6]]></Name>
+		<Desc><![CDATA[Diệt quái Tung Sơn 6]]></Desc>
+		<QuestIDRequirement><![CDATA[24]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[266,267,268,269,270]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[61]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[264,265,1334,1335]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[26]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Tung Sơn 7]]></Name>
+		<Desc><![CDATA[Diệt quái Tung Sơn 7]]></Desc>
+		<QuestIDRequirement><![CDATA[25]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[62]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[271,272,1336]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[27]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Tung Sơn 8]]></Name>
+		<Desc><![CDATA[Diệt quái Tung Sơn 8]]></Desc>
+		<QuestIDRequirement><![CDATA[26]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[63]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[273,274]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[28]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Tung Sơn 9]]></Name>
+		<Desc><![CDATA[Diệt quái Tung Sơn 9]]></Desc>
+		<QuestIDRequirement><![CDATA[27]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[64]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[275,276]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[29]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Tung Sơn 10]]></Name>
+		<Desc><![CDATA[Diệt quái Tung Sơn 10]]></Desc>
+		<QuestIDRequirement><![CDATA[28]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[206,207,210,211,214]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[65]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[277,278]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[30]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Kết nạp 1 bé đội viên Cái Bang]]></Name>
+		<Desc><![CDATA[Hãy về đội của anh, Cái Bang viên]]></Desc>
+		<QuestIDRequirement><![CDATA[29]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[291,292,293,294,295]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[66]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[289,290]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[31]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Tham quan Cái bang Dã Ngoại]]></Name>
+		<Desc><![CDATA[Giang hồ hiểm ác anh không sợ, chỉ sợ đường về nhà em lắm phân heo. Thiếu hiệp mau mau đến đây dọn phân heo!]]></Desc>
+		<QuestIDRequirement><![CDATA[29]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[139]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[296,297]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[32]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Thăng cấp nhân vật lên 1 sao]]></Name>
+		<Desc><![CDATA[Học hành vất vả kết quả vãi vồn! Thăng cấp lên 1 sao học thêm kỹ năng môn phái.]]></Desc>
+		<QuestIDRequirement><![CDATA[20]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[128]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[298,299,1255]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[33]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 2]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 2]]></Desc>
+		<QuestIDRequirement><![CDATA[31]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[69]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[300,301]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[34]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 3]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 3]]></Desc>
+		<QuestIDRequirement><![CDATA[33]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[70]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[302,303]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[35]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 4]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 4]]></Desc>
+		<QuestIDRequirement><![CDATA[34]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[71]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[302,303]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[36]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Bói mệnh khí ]]></Name>
+		<Desc><![CDATA[Vào mệnh khí, tích cực quay tay vận may sẽ tới!]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[15]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[306,307,308,309,310]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[72]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[304,305]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[37]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 5]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 5]]></Desc>
+		<QuestIDRequirement><![CDATA[35]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[73]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[311,312]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[38]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Cái bang ngoại hoang dã]]></Name>
+		<Desc><![CDATA[Tiêu diệt chó và heo rừng trong Cái bang ngoại hoang dã]]></Desc>
+		<QuestIDRequirement><![CDATA[37]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[140,141]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[313,314]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[39]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 7]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 7]]></Desc>
+		<QuestIDRequirement><![CDATA[38]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[75]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[315,316]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[40]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 8]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 8]]></Desc>
+		<QuestIDRequirement><![CDATA[39]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[76]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[317,318]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[41]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 9]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 9]]></Desc>
+		<QuestIDRequirement><![CDATA[40]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[321,322,323,324,325]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[77]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[319,320]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[42]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Ăn mày buôn lậu phân heo]]></Name>
+		<Desc><![CDATA[Ăn mày nhưng rất lưu manh, chuyên rải phân heo làm ô nhiễm môi trường, tụi này trốn ở khu vực Cái bang 10. Chó hoang ở Cái bang 2]]></Desc>
+		<QuestIDRequirement><![CDATA[41]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[142,143]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[326,328]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[43]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 11]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 11]]></Desc>
+		<QuestIDRequirement><![CDATA[42]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[79]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[329,330]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[44]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 12]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 12]]></Desc>
+		<QuestIDRequirement><![CDATA[43]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[80]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[331,332]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[45]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 13]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 13]]></Desc>
+		<QuestIDRequirement><![CDATA[44]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[81]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[333,334]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[46]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 14]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 14]]></Desc>
+		<QuestIDRequirement><![CDATA[45]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[82]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[335,336]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[47]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Đưa thư hàng cấm, tắm trong bạc vàng]]></Name>
+		<Desc><![CDATA[Vào giao diện Đưa thư, hành sự 1 lần cho thỏa mãn.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[20]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[206,207,210,211,214]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[26]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[337,338]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[48]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Bắt đệ tử Bạch Doanh Doanh]]></Name>
+		<Desc><![CDATA[Thu nhận Ngũ Độc để hoàn thành nhiệm vụ]]></Desc>
+		<QuestIDRequirement><![CDATA[46]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[83]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[349,350]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[49]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Trùm ăn mày buôn lậu phân heo]]></Name>
+		<Desc><![CDATA[Nhìn hắn rất xấu nhưng có gấu rất xinh, lại còn là đệ tử của Hồng Công Công! Thiệt là nguy hiểm quá đê!.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[1691,1692,1693,1694,1695]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[144]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[351,352]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[50]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Hoàn thành 1 nhiệm vụ Dã Tẩu]]></Name>
+		<Desc><![CDATA[Xong nhiệm vụ Dã Tẩu dẫn nhau đi nhậu]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[255,368,369,370,371]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[85]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[366,367]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[51]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 1]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 1]]></Desc>
+		<QuestIDRequirement><![CDATA[49]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[86]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[372,373]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[52]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 2]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 2]]></Desc>
+		<QuestIDRequirement><![CDATA[51]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[87]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[374,375]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[53]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 3]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 3]]></Desc>
+		<QuestIDRequirement><![CDATA[51]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[88]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[376,377]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[54]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 4]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 4]]></Desc>
+		<QuestIDRequirement><![CDATA[53]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[380,381,382,383,384]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[89]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[378,379]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[55]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 5]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 5]]></Desc>
+		<QuestIDRequirement><![CDATA[54]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[90]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[385,386]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[56]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 6]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 6]]></Desc>
+		<QuestIDRequirement><![CDATA[55]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[389,390,391,392,393]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[91]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[387,388]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[57]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 7]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 7]]></Desc>
+		<QuestIDRequirement><![CDATA[56]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[92]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[394,395]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[58]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 8]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 8]]></Desc>
+		<QuestIDRequirement><![CDATA[57]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[398,399,400,401,402]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[93]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[396,397]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[59]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 9]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 9]]></Desc>
+		<QuestIDRequirement><![CDATA[57]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[94]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[403,404]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[60]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 10]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 10]]></Desc>
+		<QuestIDRequirement><![CDATA[59]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[407,408,409,410,411]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[95]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[405,406]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[61]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 11]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 11]]></Desc>
+		<QuestIDRequirement><![CDATA[60]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[96]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[412,413]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[62]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 12]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 12]]></Desc>
+		<QuestIDRequirement><![CDATA[61]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[416,417,418,419,420]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[97]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[414,415]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[63]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 13]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 13]]></Desc>
+		<QuestIDRequirement><![CDATA[62]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[98]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[421,422]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[64]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Lệnh bài chinh phạt]]></Name>
+		<Desc><![CDATA[Lệnh bài vô bị ông, ông không xài, ông để 35 cái đổi vé massage!]]></Desc>
+		<QuestIDRequirement><![CDATA[18]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[5]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[99]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[423,424]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[65]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Kết 1 bằng hữu nhận ngay chai dầu.]]></Name>
+		<Desc><![CDATA[Click vào tên Thiếu hiệp yêu mến trong khung tán gẫu, sẽ hiển thị giao diện kết bằng hữu. Kết nghĩa huynh đệ khệ nệ dầu ăn]]></Desc>
+		<QuestIDRequirement><![CDATA[64]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[100]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[430,431]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[66]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 14]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 14]]></Desc>
+		<QuestIDRequirement><![CDATA[63]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[488,489,490,491,492]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[111]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[466,467]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[67]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 15]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 15]]></Desc>
+		<QuestIDRequirement><![CDATA[66]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[112]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[468,469]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[68]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Ông già đánh cá phá hoại]]></Name>
+		<Desc><![CDATA[Đánh cá không lo đánh cá mà lo quậy phá sút ngay 1 đá, cho đi gặp má.?]]></Desc>
+		<QuestIDRequirement><![CDATA[67]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[483,484,485,486,487]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[112]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[470,471]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[69]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 17]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 17]]></Desc>
+		<QuestIDRequirement><![CDATA[68]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[114]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[472,473]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[70]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 18]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 18]]></Desc>
+		<QuestIDRequirement><![CDATA[68]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[478,479,480,481,482]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[115]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[474,475]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[71]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 19]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 19]]></Desc>
+		<QuestIDRequirement><![CDATA[70]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[116]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[493,494]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[72]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 20]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 20]]></Desc>
+		<QuestIDRequirement><![CDATA[71]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[497,498,499,500,501]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[117]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[495,496]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[73]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 21]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 21]]></Desc>
+		<QuestIDRequirement><![CDATA[72]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[118]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[502,503]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[74]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 22]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 22]]></Desc>
+		<QuestIDRequirement><![CDATA[73]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[506,507,508,509,510]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[119]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[504,505]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[75]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 23]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 23]]></Desc>
+		<QuestIDRequirement><![CDATA[74]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[120]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[511,512]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[76]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 24]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 24]]></Desc>
+		<QuestIDRequirement><![CDATA[75]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[515,516,517,518,519]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[121]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[513,514]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[77]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 25]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 25]]></Desc>
+		<QuestIDRequirement><![CDATA[76]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[122]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[520,521]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[78]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 26]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 26]]></Desc>
+		<QuestIDRequirement><![CDATA[77]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[524,525,526,527,528]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[123]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[522,523]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[79]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 27]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 27]]></Desc>
+		<QuestIDRequirement><![CDATA[78]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[124]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[529,530]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[80]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 28]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 28]]></Desc>
+		<QuestIDRequirement><![CDATA[79]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[533,534,535,536,537]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[125]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[531,532]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[81]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 29]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 29]]></Desc>
+		<QuestIDRequirement><![CDATA[80]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[126]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[538,539]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[82]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 30]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 30]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[21]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[1696,1697,1698,1699,1700]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[127]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[540,541]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[83]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Ải Tung Sơn 2]]></Name>
+		<Desc><![CDATA[Diệt quái Ải Tung Sơn 2]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[24]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[57]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[84]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Ải Tung Sơn 3]]></Name>
+		<Desc><![CDATA[Diệt quái Ải Tung Sơn 3]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[24]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[58]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[85]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Ải Tung Sơn 4]]></Name>
+		<Desc><![CDATA[Diệt quái Ải Tung Sơn 4]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[24]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[59]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[86]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Ải Tung Sơn 5]]></Name>
+		<Desc><![CDATA[Diệt quái Ải Tung Sơn 5]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[24]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[60]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[87]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 1]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Ngoại 1]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[12]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[67]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[88]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Đại Náo Hoa Sơn Luận Kiếm]]></Name>
+		<Desc><![CDATA[Phàm là Thiếu hiệp trong giang hồ, ai cũng muốn thoát kiếm FA. Vào Hoa Sơn tỉ thí kiếm vài tiểu muội.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[20]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[145]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[374,375]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[89]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Chinh chiến Hoa Sơn]]></Name>
+		<Desc><![CDATA[Vào Hoa Sơn đập phá 10 trận trước 0h chủ nhật hàng tuần. Bạn sẽ trở thành Thiếu Hiệp 1 tay gác 5 tiểu muội.]]></Desc>
+		<QuestIDRequirement><![CDATA[88]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[20]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[146]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[374,375]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[90]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Tiêu diệt lũ cá chép hoành hành]]></Name>
+		<Desc><![CDATA[Từ ngày ông Táo lên Võ Lâm Minh Chủ, bọn cá chép dựa hơi quậy phá dân làng, mau mau đồ sát chúng.]]></Desc>
+		<QuestIDRequirement><![CDATA[57]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[398,399,400,401,402]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[147]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[396,397]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[91]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Chinh chiến Hoa Sơn 2]]></Name>
+		<Desc><![CDATA[Khi đã thành Thiếu Hiệp, vào Hoa Sơn đập phá 10 trận trước 0h chủ nhật hàng tuần. Bạn sẽ trở thành thiếu hiệp 1 tay gác 5 kỹ nữ]]></Desc>
+		<QuestIDRequirement><![CDATA[89]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[20]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[148]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[374,375]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[92]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 25]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 25]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[36]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[122]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[93]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 26]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 26]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[36]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[524,525,526,527,528]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[123]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[94]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 27]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 27]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[36]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[124]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[95]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 28]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 28]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[36]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[533,534,535,536,537]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[125]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[96]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 29]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 29]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[36]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[126]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[97]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 2]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 2]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[25]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[69]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[98]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 3]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 3]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[25]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[31]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[70]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[99]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 4]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 4]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[25]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[71]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[100]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Cái Bang Ngoại 5]]></Name>
+		<Desc><![CDATA[Dọn dẹp phân heo trong Cái Bang Dã Ngoại 5]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[25]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[73]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[101]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 1]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 1]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[32]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[86]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[102]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 2]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 2]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[32]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[87]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[103]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 3]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 3]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[32]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[88]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[104]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 4]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 4]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[32]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[89]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[105]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái ải Biện Kinh Dã 5]]></Name>
+		<Desc><![CDATA[Tiêu diệt ông già đánh cá và con cá vàng trong Biện Kinh Dã 5]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[32]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[90]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[106]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Leo tháp tầng 1]]></Name>
+		<Desc><![CDATA[Leo tháp tầng 1]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[12]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[150]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[107]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Thăng cấp nhân vật lên 5 sao]]></Name>
+		<Desc><![CDATA[Mỗi phái có 3 kỹ năng trấn phái cực kỳ uy lực. Ngoại trừ nhân vật chính có thể học cả 3 kỹ năng này, các nhân vật khác sẽ học ngẫu nhiên 1 trong 3 kỹ năng. Luyện thi cho nhân vật bất kỳ lên 5 sao để học kỹ năng trấn phái ở lớp 1.]]></Desc>
+		<QuestIDRequirement><![CDATA[190]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[153]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1251,1252,1256]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[108]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Thăng cấp nhân vật lên 9 sao]]></Name>
+		<Desc><![CDATA[Luyện thi nhân vật bất kỳ lên 9 sao để học tiếp tầng 2 của kỹ năng trấn phái.]]></Desc>
+		<QuestIDRequirement><![CDATA[193]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[154]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1253,1254,1257]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[109]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Lệnh bài chinh phạt 2]]></Name>
+		<Desc><![CDATA[Lệnh bài vô bị ông, ông không xài, ông để 45 cái đổi vé Thảo Cầm Viên]]></Desc>
+		<QuestIDRequirement><![CDATA[64]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[5]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[155]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[423,1258]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[110]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Lệnh bài chinh phạt 3]]></Name>
+		<Desc><![CDATA[Lệnh bài vô bị ông, ông không xài, ông để 60 cái đổi vé Công viên nước]]></Desc>
+		<QuestIDRequirement><![CDATA[109]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[5]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[156]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[423,1258]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[111]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Đạt cấp độ 15]]></Name>
+		<Desc><![CDATA[Thiếu hiệp phấn đấu làm thanh niên nghiêm túc đạt cấp độ 15 để hoàn thành nhiệm vụ.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[15]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[157]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1259,1260]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[112]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Đạt cấp độ 20]]></Name>
+		<Desc><![CDATA[Thiếu hiệp phấn đấu làm thanh niên nghiêm túc đạt cấp độ 20 để hoàn thành nhiệm vụ.]]></Desc>
+		<QuestIDRequirement><![CDATA[111]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[15]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[158]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1259,1260]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[113]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Đạt cấp độ 25]]></Name>
+		<Desc><![CDATA[Thiếu hiệp phấn đấu làm thanh niên nghiêm túc đạt cấp độ 25 để hoàn thành nhiệm vụ.]]></Desc>
+		<QuestIDRequirement><![CDATA[112]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[15]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[159]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1261,1262]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[114]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Đạt cấp độ 30]]></Name>
+		<Desc><![CDATA[Thiếu hiệp phấn đấu làm thanh niên nghiêm túc đạt cấp độ 30 để hoàn thành nhiệm vụ.]]></Desc>
+		<QuestIDRequirement><![CDATA[113]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[15]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[160]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1261,1262]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[115]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Đạt cấp độ 35]]></Name>
+		<Desc><![CDATA[Thiếu hiệp phấn đấu làm thanh niên nghiêm túc đạt cấp độ 35 để hoàn thành nhiệm vụ.]]></Desc>
+		<QuestIDRequirement><![CDATA[114]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[15]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[161]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1263,1264]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[116]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Đạt cấp độ 40]]></Name>
+		<Desc><![CDATA[Thiếu hiệp phấn đấu làm thanh niên nghiêm túc đạt cấp độ 40 để hoàn thành nhiệm vụ.]]></Desc>
+		<QuestIDRequirement><![CDATA[115]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[15]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[162]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1264,1265]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[117]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Đạt cấp độ 45]]></Name>
+		<Desc><![CDATA[Thiếu hiệp phấn đấu làm thanh niên nghiêm túc đạt cấp độ 45 để hoàn thành nhiệm vụ.]]></Desc>
+		<QuestIDRequirement><![CDATA[116]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[15]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[163]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1266,1267]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[118]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Đưa thư tình 1 lần]]></Name>
+		<Desc><![CDATA[Vào Đưa Thư, trút bầu tâm sự 1 lần để thỏa mãn. Mỗi ngày giới hạn 1 lượt. Thiếu hiệp trở thành VIP có thể nhận thêm số lượt.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[16]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[26]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1268,1269]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[119]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Thăng cấp kỹ năng]]></Name>
+		<Desc><![CDATA[Sau khi lĩnh hội được kỹ năng, thiếu hiệp có thể sử dụng bí kíp kỹ năng để nâng cao hiệu quả và kỹ năng chém gió. Thăng cấp kỹ năng trong giao diện : Luyện công -> Kỹ năng .]]></Desc>
+		<QuestIDRequirement><![CDATA[32]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[164]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1268,1269,1701]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[120]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Đưa thư 5 lần]]></Name>
+		<Desc><![CDATA[Vào Đưa thư, hành sự 5 lần để thỏa mãn]]></Desc>
+		<QuestIDRequirement><![CDATA[118]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[16]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[165]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1268,1269]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[121]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[0]]></Quality>
+		<Name><![CDATA[Uy danh giang hồ]]></Name>
+		<Desc><![CDATA[Uy danh giang hồ dùng để chiêu mộ các đại hiệp ở NPC Chiêu Mộ Đại Hiệp. Uy danh kiếm được thông qua Hoa Sơn Luận Kiếm, Độ Năng động, Dã tẩu.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[27]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[166]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1270,1271]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[122]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Chiêu mộ Triệu Chí Kính]]></Name>
+		<Desc><![CDATA[Nội công uy lực, dạy dỗ Dương Quá bá đạo giang hồ, Thiếu hiệp nên nhanh tay chiêu mộ.]]></Desc>
+		<QuestIDRequirement><![CDATA[121]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[25]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[167]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1270,1271]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[123]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Tháp cao thủ]]></Name>
+		<Desc><![CDATA[Là nơi tập họp ngũ đại phái "bem" nhau liên tục. Thiếp hiệp "bem" càng nhiều, vượt càng cao thì phần phần thưởng càng bự.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[30]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[168]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1270,1271]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[124]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Quay lại tháp cao thủ tiếp tục "bem" ]]></Name>
+		<Desc><![CDATA[Mỗi ngày thiếu hiệp chỉ được vô đây "bem" 1 lần, nếu thất bại thì về nhà nghỉ ngơi, ngày mai quay lại nhé!.]]></Desc>
+		<QuestIDRequirement><![CDATA[123]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[30]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[168]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1270,1271]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[125]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 1]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 1.]]></Desc>
+		<QuestIDRequirement><![CDATA[82]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[169]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1272,1273,1274]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[126]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 2]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 2.]]></Desc>
+		<QuestIDRequirement><![CDATA[125]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[170]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1272,1273]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[127]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 3]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 3.]]></Desc>
+		<QuestIDRequirement><![CDATA[126]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[171]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1272,1273,1275]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[128]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 4]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 4.]]></Desc>
+		<QuestIDRequirement><![CDATA[127]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[172]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1272,1273]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[129]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 5]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 5.]]></Desc>
+		<QuestIDRequirement><![CDATA[128]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[173]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1272,1273,1276]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[130]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 6]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 6.]]></Desc>
+		<QuestIDRequirement><![CDATA[129]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[174]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1272,1273]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[131]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 7]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 7.]]></Desc>
+		<QuestIDRequirement><![CDATA[130]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[175]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1272,1273,1277]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[132]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 8]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 8.]]></Desc>
+		<QuestIDRequirement><![CDATA[131]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[176]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1272,1273]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[133]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 9]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 9.]]></Desc>
+		<QuestIDRequirement><![CDATA[132]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[177]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1272,1273,1278]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[134]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Kẻ gây náo loạn Đào Hoa Đảo]]></Name>
+		<Desc><![CDATA[Yêu nhền nhện và Ninja hẹn hò. Đào Hoa Đảo chủ ngăn cấm . Mau đuổi chúng ra khỏi đảo.]]></Desc>
+		<QuestIDRequirement><![CDATA[133]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[1279,1280,1281,1282,1283]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[178,179]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1272,1273]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[135]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Phá hoại Đào Hoa Đảo]]></Name>
+		<Desc><![CDATA[Càng ngăn cấm, chúng càng điên cuồng yêu đương, phải thật mạnh tay...]]></Desc>
+		<QuestIDRequirement><![CDATA[134]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[1284,1285,1286,1287,1288]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[180,181]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1272,1273]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[136]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Phá hoại Đào Hoa Đảo 2]]></Name>
+		<Desc><![CDATA[Càng ngăn cấm, chúng càng điên cuồng yêu đương, ném chúng ngay ra khỏi đảo.]]></Desc>
+		<QuestIDRequirement><![CDATA[135]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[1284,1285,1286,1287,1288]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[182,183]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1273,1289]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[137]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Anh Hùng Ải]]></Name>
+		<Desc><![CDATA[Anh Hùng Ải là nơi thử thách các vị thiếu hiệp. Mỗi ngày , mỗi thiếu hiệp chỉ được tham gia mỗi Anh Hùng Ải 1 lần, chiến thắng có thể chiêu mộ được các đại hiệp cấp cao các phái.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[21]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[184]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1273,1289]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[138]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Anh Hùng Ải 2 ]]></Name>
+		<Desc><![CDATA[Anh Hùng Ải là nơi thử thách các vị thiếu hiệp. Mỗi ngày , mỗi thiếu hiệp chỉ được tham gia mỗi Anh Hùng Ải 1 lần, chiến thắng có thể chiêu mộ được các đại hiệp cấp cao các phái.]]></Desc>
+		<QuestIDRequirement><![CDATA[137]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[21]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[184]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1273,1289]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[139]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Anh Hùng Ải 3 ]]></Name>
+		<Desc><![CDATA[Anh Hùng Ải là nơi thử thách các vị thiếu hiệp. Mỗi ngày , mỗi thiếu hiệp chỉ được tham gia mỗi Anh Hùng Ải 1 lần, chiến thắng có thể chiêu mộ được các đại hiệp cấp cao các phái.]]></Desc>
+		<QuestIDRequirement><![CDATA[138]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[21]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[1290,1291,1292,1293,1294]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[184]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1273,1289]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[140]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 16]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 16]]></Desc>
+		<QuestIDRequirement><![CDATA[136]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[1284,1285,1286,1287,1288]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[185]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1273,1289]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[141]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 17]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 17]]></Desc>
+		<QuestIDRequirement><![CDATA[140]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[186]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1273,1289]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[142]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Quái vật Đào Hoa Đảo]]></Name>
+		<Desc><![CDATA[Yêu nhền nhện và Ninja sinh quý tử tu luyện tà đạo võ công, suốt ngày quậy phá, hái hoa Đào cài tóc.]]></Desc>
+		<QuestIDRequirement><![CDATA[141]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[1295,1296,1297,1298,1299]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[187,188]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1273,1289]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[143]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 20]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 20.]]></Desc>
+		<QuestIDRequirement><![CDATA[142]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[189]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1273,1289]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[144]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 21]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 21.]]></Desc>
+		<QuestIDRequirement><![CDATA[143]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[190]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1273,1289]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[145]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Quái vật Đào Hoa Đảo 2]]></Name>
+		<Desc><![CDATA[Diệt lũ quái trên Đào Hoa Đảo.]]></Desc>
+		<QuestIDRequirement><![CDATA[144]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[1300,1301,1302,1303,1304]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[191,192]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1273,1289]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[146]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 24]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 24.]]></Desc>
+		<QuestIDRequirement><![CDATA[145]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[193]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1273,1289]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[147]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 25]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 25.]]></Desc>
+		<QuestIDRequirement><![CDATA[146]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[194]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1273,1289]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[148]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Lũ trộm kinh thư]]></Name>
+		<Desc><![CDATA[Tuyệt học Tố Nữ Kinh được Đào Hoa Đảo chủ luyện hằng ngày cùng vợ mình, bọn nhền nhện và Ninja lăm le trộng, suốt ngày quậy phá. ]]></Desc>
+		<QuestIDRequirement><![CDATA[147]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[1307,1308,1309,1310,1311]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[195,196]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1305,1306]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[149]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 28]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 28.]]></Desc>
+		<QuestIDRequirement><![CDATA[148]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[197]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1305,1306]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[150]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 29]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 29.]]></Desc>
+		<QuestIDRequirement><![CDATA[149]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[198]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1305,1306]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[151]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 30]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 30.]]></Desc>
+		<QuestIDRequirement><![CDATA[150]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[1312,1313,1314,1315,1316]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[199]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1305,1306]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[152]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 1]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 1.]]></Desc>
+		<QuestIDRequirement><![CDATA[151]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[200]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[153]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 2]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 2.]]></Desc>
+		<QuestIDRequirement><![CDATA[152]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[201]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[154]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 3]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 3.]]></Desc>
+		<QuestIDRequirement><![CDATA[153]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[202]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[155]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Quái vật Võ Đang Sơn ]]></Name>
+		<Desc><![CDATA[Tiêu diệt quái vật ở núi Võ Đang.]]></Desc>
+		<QuestIDRequirement><![CDATA[154]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[203,204]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[156]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Mật đạo]]></Name>
+		<Desc><![CDATA[Mỗi ngày 3 cử 10h,15h, 20h trong Mật Đạo xuất hiện sao JAV, tham gia tiêu diệt sẽ nhận được phần thưởng cực đã và Cao Nhân Truyền Công.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[30]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[205]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[157]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 6]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 6.]]></Desc>
+		<QuestIDRequirement><![CDATA[155]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[206]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[158]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 7]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 7.]]></Desc>
+		<QuestIDRequirement><![CDATA[157]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[207]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[159]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Quái vật Võ Đang Sơn 2]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 2.]]></Desc>
+		<QuestIDRequirement><![CDATA[158]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[208,209]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[160]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 10]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 10.]]></Desc>
+		<QuestIDRequirement><![CDATA[159]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[210]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[161]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 11]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 11.]]></Desc>
+		<QuestIDRequirement><![CDATA[160]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[211]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[162]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 12]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 12.]]></Desc>
+		<QuestIDRequirement><![CDATA[161]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[212]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[163]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 13]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 13.]]></Desc>
+		<QuestIDRequirement><![CDATA[162]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[213]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[164]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 14]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 14.]]></Desc>
+		<QuestIDRequirement><![CDATA[163]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[214]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[165]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 15]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 15.]]></Desc>
+		<QuestIDRequirement><![CDATA[164]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[215]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[166]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Quái vật Võ Đang Sơn 3]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 3.Bắt cọp, chém chim ở núi Võ Đang 3]]></Desc>
+		<QuestIDRequirement><![CDATA[165]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[216,217]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[167]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 18]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 18.]]></Desc>
+		<QuestIDRequirement><![CDATA[166]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[218]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[168]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 19]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 19.]]></Desc>
+		<QuestIDRequirement><![CDATA[167]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[219]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[169]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 20]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 20.]]></Desc>
+		<QuestIDRequirement><![CDATA[168]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[220]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[170]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 21]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 21.]]></Desc>
+		<QuestIDRequirement><![CDATA[169]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[221]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[171]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 22]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 22.Bắt cọp, chém chim ở núi Võ Đang 22]]></Desc>
+		<QuestIDRequirement><![CDATA[170]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[222]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[172]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 23]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 23.]]></Desc>
+		<QuestIDRequirement><![CDATA[171]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[223]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[173]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Solo tụi cướp núi Võ Đang]]></Name>
+		<Desc><![CDATA[Một mình Thiếu Hiệp chấp cả bọn cướp.]]></Desc>
+		<QuestIDRequirement><![CDATA[172]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[224,225]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[174]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Tam hùng kỳ hiệp]]></Name>
+		<Desc><![CDATA[Là nơi các cao thủ võ lâm tề tựu . Thiếu hiệp sẽ cùng 2 hảo hữu tung hoành, tỷ thí võ công với các nhóm khác. Mỗi ngày mở cửa lúc 9 giờ, 14 giờ, 19 giờ.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[30]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[226]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[175]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Võ lâm minh chủ]]></Name>
+		<Desc><![CDATA[Mỗi ngày 8 giờ, 13 giờ, 18 giờ các cao thủ sẽ tề tựu, tỷ thí võ công. Hạng càng cao càng nhận được nhiều phần thưởng cực đã.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[34]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[227]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[176]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 26]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 26.]]></Desc>
+		<QuestIDRequirement><![CDATA[173]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[228]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[177]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 27]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 27.]]></Desc>
+		<QuestIDRequirement><![CDATA[176]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[229]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[178]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Phản đồ võ đang]]></Name>
+		<Desc><![CDATA[Diệt phản đồ võ đang để nhận thưởng.]]></Desc>
+		<QuestIDRequirement><![CDATA[177]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[230,231]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[179]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 30]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 30.]]></Desc>
+		<QuestIDRequirement><![CDATA[178]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[232]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1318,1319]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[180]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Tỷ thí Doãn Chí Bình]]></Name>
+		<Desc><![CDATA[Chiến thắng Doãn Chí Bình trong Giang Hồ Đại Hiệp để hoàn thành nhiệm vụ.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[26]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[315]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1355]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[181]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 1]]></Name>
+		<Desc><![CDATA[Diệtyêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa Đảo 1.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[40]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[169]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1272,1273,1274]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[182]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 1]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 1.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[200]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[183]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 2]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 2.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[201]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[184]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Võ Đang Sơn 3]]></Name>
+		<Desc><![CDATA[Bắt cọp, chém chim ở núi Võ Đang 3.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[202]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1306,1317]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[185]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Truyền công "ịn ịn" 1 lần]]></Name>
+		<Desc><![CDATA[Truyền công "ịn ịn" 1 lần]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[12]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[27]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[186]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Truyền công 2 lần]]></Name>
+		<Desc><![CDATA[Truyền công "ịn ịn" 2 lần]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[12]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[28]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[187]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Truyền công 3 lần]]></Name>
+		<Desc><![CDATA[Truyền công "ịn ịn" 3 lần]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[12]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[29]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[188]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Thăng cấp nhân vật lên 2 sao]]></Name>
+		<Desc><![CDATA[Thăng cấp 1 nhân vật bất kỳ lên 2 sao]]></Desc>
+		<QuestIDRequirement><![CDATA[32]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[535]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1251,1252,1701]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[189]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Thăng cấp nhân vật lên 3 sao]]></Name>
+		<Desc><![CDATA[Thăng cấp 1 nhân vật bất kỳ lên 3 sao]]></Desc>
+		<QuestIDRequirement><![CDATA[188]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[536]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1251,1568,1702]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[190]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[0]]></Quality>
+		<Name><![CDATA[Thăng cấp nhân vật lên 4 sao]]></Name>
+		<Desc><![CDATA[Thăng cấp 1 nhân vật bất kỳ lên 4 sao]]></Desc>
+		<QuestIDRequirement><![CDATA[189]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[537]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1251,1568,1703]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[0]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[191]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Thăng cấp nhân vật lên 6 sao]]></Name>
+		<Desc><![CDATA[Thăng cấp 1 nhân vật bất kỳ lên 6 sao]]></Desc>
+		<QuestIDRequirement><![CDATA[107]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[541]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1251,1568,1704]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[192]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Thăng cấp nhân vật lên 7 sao]]></Name>
+		<Desc><![CDATA[Thăng cấp 1 nhân vật bất kỳ lên 7 sao]]></Desc>
+		<QuestIDRequirement><![CDATA[191]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[542]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1251,1568,1705]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[193]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Thăng cấp nhân vật lên 8 sao]]></Name>
+		<Desc><![CDATA[Thăng cấp 1 nhân vật bất kỳ lên 8 sao]]></Desc>
+		<QuestIDRequirement><![CDATA[192]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[543]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1251,1568,1706]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[194]]></ID>
+		<Type><![CDATA[3]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Diệt quái Đào Hoa Đảo 1]]></Name>
+		<Desc><![CDATA[Diệt yêu nhền nhện và cáo 3 đuôi bảo vệ Đào Hoa đảo 1.]]></Desc>
+		<QuestIDRequirement><![CDATA[-1]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[-1]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[40]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[169]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[195]]></ID>
+		<Type><![CDATA[2]]></Type>
+		<Quality><![CDATA[1]]></Quality>
+		<Name><![CDATA[Thăng cấp nhân vật lên 4 sao]]></Name>
+		<Desc><![CDATA[Thăng cấp 1 nhân vật bất kỳ lên 4 sao]]></Desc>
+		<QuestIDRequirement><![CDATA[189]]></QuestIDRequirement>
+		<QuestTypeRequirement><![CDATA[2]]></QuestTypeRequirement>
+		<MinLevelRequirement><![CDATA[1]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[100]]></MaxLevelRequirement>
+		<OptionalReward><![CDATA[]]></OptionalReward>
+		<ArrConditionsFinish><![CDATA[537]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[1251,1568,1703]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+</Datas>

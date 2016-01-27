@@ -1,0 +1,4203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<ID><![CDATA[1]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 2 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[15]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[50]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[2]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 2 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[15]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[51]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[3]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 2 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[15]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[52]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[4]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 2 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[15]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[53]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[5]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 2 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[10]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[15]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[54]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[6]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 3 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[16]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[18]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[101]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[7]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 3 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[16]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[18]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[102]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[8]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 3 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[16]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[18]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[103]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[9]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 3 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[16]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[18]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[104]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[10]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 3 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[16]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[18]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[105]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[11]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 4 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[19]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[21]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[106]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[12]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 4 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[19]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[21]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[107]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[13]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 4 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[19]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[21]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[108]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[14]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 4 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[19]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[21]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[109]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[15]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 4 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[19]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[21]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[110]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[16]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 5 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[19]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[22]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[133]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[17]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 5 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[19]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[22]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[129]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[18]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 5 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[19]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[22]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[130]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[19]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 5 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[19]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[22]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[131]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[20]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 5 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[19]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[22]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[132]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[21]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 6 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[22]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[24]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[138]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[22]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 6 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[22]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[24]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[134]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[23]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 6 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[22]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[24]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[135]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[24]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 6 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[22]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[24]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[136]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[25]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 6 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[22]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[24]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[137]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[26]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 7 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[23]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[26]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[245]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[27]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 7 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[23]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[26]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[246]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[28]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 7 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[23]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[26]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[247]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[29]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 7 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[23]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[26]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[248]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[30]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 7 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[23]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[26]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[249]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[31]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 8 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[24]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[27]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[250]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[32]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 8 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[24]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[27]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[251]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[33]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 8 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[24]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[27]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[252]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[34]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 8 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[24]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[27]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[253]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[35]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 8 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[24]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[27]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[254]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[36]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 9 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[25]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[29]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[255]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[37]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 9 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[25]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[29]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[256]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[38]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 9 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[25]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[29]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[257]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[39]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 9 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[25]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[29]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[258]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[40]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 9 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[25]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[29]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[259]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[41]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 10 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[27]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[30]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[260]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[42]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 10 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[27]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[30]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[261]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[43]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 10 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[27]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[30]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[262]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[44]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 10 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[27]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[30]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[263]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[45]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 10 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[27]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[30]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[264]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[46]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 11 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[27]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[30]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[265]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[47]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 11 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[27]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[30]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[266]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[48]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 11 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[27]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[30]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[267]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[49]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 11 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[27]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[30]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[268]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[50]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 11 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[27]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[30]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[269]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[51]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 12 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[29]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[33]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[270]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[52]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 12 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[29]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[33]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[271]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[53]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 12 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[29]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[33]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[272]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[54]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 12 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[29]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[33]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[273]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[55]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 12 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[29]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[33]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[274]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[56]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 13 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[30]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[33]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[275]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[57]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 13 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[30]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[33]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[276]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[58]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 13 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[30]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[33]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[277]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[59]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 13 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[30]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[33]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[278]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[60]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 13 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[30]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[33]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[279]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[61]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 14 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[31]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[34]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[280]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[62]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 14 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[31]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[34]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[281]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[63]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 14 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[31]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[34]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[282]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[64]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 14 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[31]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[34]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[283]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[65]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 14 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[31]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[34]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[284]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[66]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 15 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[32]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[36]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[285]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[67]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 15 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[32]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[36]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[286]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[68]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 15 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[32]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[36]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[287]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[69]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 15 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[32]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[36]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[288]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[70]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 15 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[32]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[36]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[289]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[71]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 16 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[33]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[38]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[290]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[72]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 16 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[33]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[38]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[291]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[73]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 16 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[33]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[38]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[292]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[74]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 16 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[33]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[38]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[293]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[75]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 16 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[33]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[38]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[294]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[76]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 17 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[34]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[39]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[295]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[77]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 17 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[34]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[39]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[296]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[78]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 17 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[34]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[39]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[297]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[79]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 17 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[34]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[39]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[298]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[80]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 17 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[34]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[39]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[299]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[81]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 18 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[34]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[40]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[300]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[82]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 18 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[34]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[40]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[301]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[83]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 18 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[34]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[40]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[302]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[84]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 18 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[34]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[40]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[303]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[85]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 18 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[34]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[40]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[304]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[86]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 19 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[35]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[42]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[305]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[87]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 19 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[35]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[42]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[306]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[88]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 19 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[35]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[42]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[307]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[89]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 19 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[35]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[42]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[308]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[90]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 19 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[35]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[42]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[309]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[91]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 20 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[37]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[43]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[310]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[92]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 20 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[37]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[43]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[311]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[93]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 20 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[37]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[43]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[312]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[94]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 20 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[37]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[43]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[313]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[95]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 20 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[37]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[43]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[314]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[96]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 21 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[38]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[45]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[347]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[97]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 21 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[38]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[45]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[348]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[98]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 21 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[38]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[45]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[349]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[99]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 21 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[38]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[45]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[350]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[100]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 21 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[38]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[45]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[351]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[101]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 22 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[39]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[46]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[352]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[102]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 22 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[39]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[46]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[353]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[103]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 22 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[39]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[46]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[354]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[104]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 22 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[39]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[46]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[355]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[105]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 22 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[39]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[46]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[356]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[106]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 23 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[40]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[48]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[357]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[107]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 23 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[40]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[48]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[358]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[108]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 23 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[40]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[48]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[359]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[109]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 23 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[40]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[48]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[360]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[110]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 23 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[40]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[48]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[361]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[111]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 24 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[41]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[49]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[362]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[112]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 24 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[41]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[49]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[363]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[113]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 24 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[41]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[49]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[364]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[114]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 24 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[41]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[49]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[365]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[115]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 24 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[41]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[49]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[366]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[116]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 25 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[42]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[49]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[367]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[117]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 25 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[42]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[49]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[368]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[118]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 25 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[42]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[49]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[369]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[119]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 25 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[42]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[49]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[370]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[120]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 25 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[42]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[49]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[371]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[121]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 26 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[43]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[51]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[372]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[122]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 26 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[43]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[51]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[373]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[123]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 26 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[43]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[51]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[374]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[124]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 26 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[43]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[51]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[375]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[125]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 26 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[43]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[51]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[376]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[126]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 27 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[44]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[51]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[377]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[127]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 27 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[44]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[51]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[378]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[128]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 27 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[44]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[51]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[379]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[129]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 27 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[44]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[51]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[380]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[130]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 27 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[44]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[51]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[381]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[131]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 28 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[46]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[53]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[382]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[132]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 28 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[46]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[53]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[383]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[133]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 28 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[46]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[53]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[384]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[134]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 28 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[46]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[53]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[385]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[135]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 28 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[46]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[53]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[386]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[136]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 29 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[47]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[53]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[387]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[137]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 29 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[47]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[53]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[388]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[138]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 29 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[47]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[53]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[389]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[139]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 29 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[47]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[53]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[390]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[140]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 29 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[47]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[53]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[391]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[141]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 30 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[48]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[55]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[392]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[142]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 30 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[48]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[55]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[393]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[143]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 30 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[48]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[55]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[394]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[144]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 30 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[48]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[55]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[395]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[145]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 30 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[48]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[55]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[396]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[146]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 31 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[49]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[56]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[397]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[147]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 31 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[49]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[56]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[398]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[148]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 31 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[49]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[56]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[399]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[149]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 31 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[49]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[56]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[400]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[150]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 31 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[49]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[56]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[401]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[151]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 32 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[56]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[402]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[152]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 32 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[56]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[403]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[153]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 32 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[56]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[404]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[154]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 32 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[56]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[405]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[155]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 32 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[56]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[406]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[156]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 33 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[57]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[407]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[157]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 33 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[57]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[408]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[158]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 33 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[57]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[409]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[159]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 33 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[57]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[410]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[160]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 33 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[57]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[411]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[161]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 34 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[58]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[412]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[162]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 34 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[58]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[413]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[163]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 34 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[58]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[414]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[164]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 34 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[58]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[415]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[165]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 34 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[50]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[58]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[416]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[166]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 35 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[59]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[417]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[167]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 35 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[59]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[418]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[168]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 35 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[59]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[419]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[169]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 35 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[59]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[420]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[170]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 35 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[59]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[421]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[171]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 36 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[59]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[422]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[172]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 36 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[59]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[423]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[173]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 36 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[59]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[424]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[174]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 36 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[59]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[425]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[175]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 36 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[59]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[426]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[176]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 37 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[60]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[427]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[177]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 37 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[60]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[428]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[178]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 37 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[60]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[429]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[179]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 37 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[60]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[430]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[180]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 37 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[52]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[60]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[431]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[181]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 38 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[54]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[61]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[432]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[182]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 38 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[54]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[61]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[433]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[183]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 38 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[54]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[61]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[434]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[184]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 38 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[54]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[61]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[435]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[185]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 38 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[54]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[61]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[436]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[186]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 39 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[54]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[62]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[437]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[187]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 39 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[54]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[62]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[438]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[188]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 39 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[54]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[62]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[439]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[189]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 39 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[54]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[62]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[440]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[190]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 39 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[54]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[62]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[441]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[191]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 40 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[56]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[63]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[442]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[192]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 40 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[56]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[63]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[443]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[193]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 40 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[56]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[63]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[444]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[194]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 40 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[56]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[63]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[445]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[195]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 40 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[56]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[63]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[446]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[196]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 41 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[56]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[64]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[447]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[197]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 41 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[56]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[64]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[448]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[198]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 41 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[56]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[64]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[449]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[199]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 41 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[56]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[64]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[450]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[200]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 41 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[56]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[64]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[451]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[201]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 42 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[57]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[65]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[452]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[202]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 42 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[57]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[65]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[453]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[203]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 42 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[57]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[65]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[454]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[204]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 42 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[57]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[65]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[455]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[205]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 42 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[57]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[65]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[456]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[206]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 43 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[57]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[66]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[457]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[207]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 43 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[57]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[66]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[458]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[208]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 43 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[57]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[66]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[459]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[209]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 43 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[57]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[66]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[460]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[210]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 43 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[57]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[66]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[461]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[211]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 44 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[58]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[67]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[462]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[212]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 44 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[58]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[67]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[463]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[213]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 44 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[58]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[67]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[464]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[214]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 44 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[58]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[67]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[465]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[215]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 44 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[58]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[67]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[466]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[216]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 45 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[58]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[68]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[467]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[217]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 45 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[58]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[68]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[468]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[218]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 45 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[58]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[68]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[469]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[219]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 45 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[58]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[68]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[470]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[220]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 45 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[58]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[68]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[471]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[221]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 46 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[59]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[69]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[472]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[222]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 46 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[59]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[69]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[473]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[223]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 46 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[59]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[69]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[474]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[224]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 46 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[59]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[69]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[475]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[225]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 46 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[59]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[69]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[476]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[226]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 47 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[60]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[70]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[477]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[227]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 47 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[60]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[70]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[478]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[228]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 47 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[60]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[70]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[479]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[229]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 47 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[60]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[70]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[480]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[230]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 47 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[60]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[70]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[481]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[231]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 48 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[60]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[72]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[482]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[232]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 48 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[60]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[72]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[483]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[233]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 48 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[60]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[72]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[484]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[234]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 48 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[60]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[72]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[485]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[235]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 48 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[60]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[72]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[486]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[236]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 49 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[61]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[73]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[487]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[237]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 49 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[61]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[73]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[488]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[238]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 49 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[61]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[73]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[489]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[239]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 49 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[61]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[73]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[490]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[240]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 49 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[61]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[73]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[491]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[241]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 50 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[61]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[74]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[492]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[242]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 50 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[61]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[74]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[493]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[243]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 50 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[61]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[74]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[494]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[244]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 50 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[61]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[74]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[495]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[245]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 50 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[61]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[74]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[496]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[246]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 51 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[62]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[75]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[497]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[247]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 51 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[62]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[75]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[498]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[248]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 51 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[62]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[75]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[499]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[249]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 51 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[62]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[75]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[500]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[250]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 51 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[62]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[75]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[501]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[251]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 52 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[63]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[502]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[252]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 52 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[63]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[503]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[253]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 52 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[63]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[504]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[254]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 52 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[63]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[505]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[255]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 52 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[63]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[506]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[256]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 53 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[64]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[507]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[257]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 53 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[64]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[508]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[258]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 53 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[64]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[509]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[259]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 53 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[64]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[510]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[260]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 53 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[64]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[511]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[261]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 54 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[64]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[512]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[262]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 54 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[64]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[513]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[263]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 54 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[64]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[514]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[264]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 54 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[64]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[515]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[265]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 54 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[64]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[516]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[266]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 55 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[65]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[517]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[267]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 55 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[65]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[518]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[268]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 55 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[65]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[519]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[269]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 55 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[65]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[520]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[270]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 55 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[65]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[521]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[271]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 56 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[66]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[522]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[272]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 56 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[66]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[523]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[273]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 56 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[66]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[524]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[274]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 56 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[66]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[525]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[275]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 56 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[66]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[526]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[276]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Thiếu Lâm]]></Name>
+		<Desc><![CDATA[Nhân vật Thiếu Lâm có 57 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[67]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[527]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[277]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Nga My]]></Name>
+		<Desc><![CDATA[Nhân vật Nga My có 57 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[67]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[528]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[278]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Cái Bang]]></Name>
+		<Desc><![CDATA[Nhân vật Cái Bang có 57 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[67]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[529]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[279]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Ngũ Độc]]></Name>
+		<Desc><![CDATA[Nhân vật Ngũ Độc có 57 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[67]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[530]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+	<Data>
+		<ID><![CDATA[280]]></ID>
+		<Type><![CDATA[1]]></Type>
+		<Name><![CDATA[Đưa thư đến Võ Đang]]></Name>
+		<Desc><![CDATA[Nhân vật Võ Đang có 57 tầng công lực trở lên]]></Desc>
+		<MaxUnit><![CDATA[1]]></MaxUnit>
+		<MinLevelRequirement><![CDATA[67]]></MinLevelRequirement>
+		<MaxLevelRequirement><![CDATA[121]]></MaxLevelRequirement>
+		<ArrConditionsActiveQuest><![CDATA[531]]></ArrConditionsActiveQuest>
+		<ArrConditionsFinish><![CDATA[16]]></ArrConditionsFinish>
+		<ArrConditionsReceive><![CDATA[]]></ArrConditionsReceive>
+		<FixRewards><![CDATA[]]></FixRewards>
+		<RandomRewards><![CDATA[]]></RandomRewards>
+		<Enable><![CDATA[1]]></Enable>
+	</Data>
+</Datas>

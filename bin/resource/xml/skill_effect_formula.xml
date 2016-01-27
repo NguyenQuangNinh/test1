@@ -1,0 +1,2544 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<Data>
+		<ID>1</ID>
+		<Name>Cái Bang - Khất Thiên Thảo Địa (basic passive) - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="45"></Var>	
+	</Data>
+	<Data>
+		<ID>2</ID>
+		<Name>Cái Bang - Khất Thiên Thảo Địa (basic passive) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.3"></Var>	
+	</Data>
+	<Data>
+		<ID>3</ID>
+		<Name>Cái Bang - Khất Thiên Thảo Địa (basic passive) - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="12"></Var>		
+	</Data>
+	<Data>
+		<ID>4</ID>
+		<Name>Cái Bang - Túy Điệp Cuồng Vũ (Bổng passive) - + base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value</Formula>
+		<Var name="value" value="60"></Var>		
+	</Data>
+	<Data>
+		<ID>5</ID>
+		<Name>Cái Bang - Túy Điệp Cuồng Vũ (Bổng passive) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.3"></Var>	
+	</Data>
+	<Data>
+		<ID>6</ID>
+		<Name>Cái Bang - Túy Điệp Cuồng Vũ (Bổng passive) - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="30"></Var>		
+	</Data>
+	<Data>
+		<ID>7</ID>
+		<Name>Cái Bang - Tiêu Diêu Công (Chưởng passive) - + base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value</Formula>
+		<Var name="value" value="200"></Var>		
+	</Data>
+	<Data>
+		<ID>8</ID>
+		<Name>Cái Bang - Tiêu Diêu Công (Chưởng passive) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.2"></Var>	
+	</Data>
+	<Data>
+		<ID>9</ID>
+		<Name>Cái Bang - Tiêu Diêu Công (Chưởng passive) - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="25"></Var>		
+	</Data>
+	<Data>
+		<ID>10</ID>
+		<Name>Nga Mi -  Băng Cơ Ngọc Cốt (basic passive) - + base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value</Formula>
+		<Var name="value" value="100"></Var>		
+	</Data>
+	<Data>
+		<ID>11</ID>
+		<Name>Nga Mi -  Băng Cơ Ngọc Cốt (basic passive) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.15"></Var>	
+	</Data>
+	<Data>
+		<ID>12</ID>
+		<Name>Nga Mi -  Băng Cơ Ngọc Cốt (basic passive) - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="20"></Var>		
+	</Data>
+	<Data>
+		<ID>13</ID>
+		<Name>Nga Mi -  Thanh Âm Phạn Xượng (Khí Passive) - + base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value</Formula>
+		<Var name="value" value="800"></Var>		
+	</Data>
+	<Data>
+		<ID>14</ID>
+		<Name>Nga Mi -  Thanh Âm Phạn Xượng (Khí Passive)) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.12"></Var>	
+	</Data>
+	<Data>
+		<ID>15</ID>
+		<Name>Nga Mi -  Thanh Âm Phạn Xượng (Khí Passive) - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="35"></Var>		
+	</Data>
+	<Data>
+		<ID>16</ID>
+		<Name>Nga Mi -  Lưu Thủy Ngọc Cốt (Kiếm Passive) - + base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value</Formula>
+		<Var name="value" value="2400"></Var>		
+	</Data>
+	<Data>
+		<ID>17</ID>
+		<Name>Nga Mi -  Lưu Thủy Ngọc Cốt (Kiếm Passive) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.24"></Var>	
+	</Data>
+	<Data>
+		<ID>18</ID>
+		<Name>Nga Mi -  Lưu Thủy Ngọc Cốt (Kiếm Passive) - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="60"></Var>		
+	</Data>
+	<Data>
+		<ID>19</ID>
+		<Name>Võ Đang -  Tọa Vọng Vô Ngã (basic passive) - + basic value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula>value</Formula>
+		<Var name="value" value="1"></Var>		
+	</Data>
+	<Data>
+		<ID>20</ID>
+		<Name>Võ Đang -  Tọa Vọng Vô Ngã (basic passive) - + level add</Name>
+		<Color>#00FF00</Color>
+		<Formula>lvl*add</Formula>
+		<Var name="add" value="1"></Var>		
+	</Data>
+	<Data>
+		<ID>21</ID>
+		<Name>Võ Đang -  Thiên Địa Vô Cực (Kiếm passive) - + basic value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula>value</Formula>
+		<Var name="value" value="1"></Var>		
+	</Data>
+	<Data>
+		<ID>22</ID>
+		<Name>Võ Đang -  Thiên Địa Vô Cực (Kiếm passive) - + level add</Name>
+		<Color>#00FF00</Color>
+		<Formula>lvl*add</Formula>
+		<Var name="add" value="0.008"></Var>		
+	</Data>
+	<Data>
+		<ID>23</ID>
+		<Name>Võ Đang -  Thái Cực Thần Công (Khí passive) - + basic value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula>value</Formula>
+		<Var name="value" value="30"></Var>		
+	</Data>
+	<Data>
+		<ID>24</ID>
+		<Name>Võ Đang -  Thái Cực Thần Công (Khí passive) - + level add</Name>
+		<Color>#00FF00</Color>
+		<Formula>lvl*add</Formula>
+		<Var name="add" value="0.2"></Var>		
+	</Data>
+	<Data>
+		<ID>25</ID>
+		<Name>Thiếu Lâm - Hỗn Thiên Công (basic passive) - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1"></Var>	
+	</Data>
+	<Data>
+		<ID>26</ID>
+		<Name>Thiếu Lâm - Hỗn Thiên Công (basic passive) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.0004"></Var>	
+	</Data>
+	<Data>
+		<ID>27</ID>
+		<Name>Thiếu Lâm - Hỗn Thiên Công (basic passive) - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>		
+	</Data>
+	<Data>
+		<ID>28</ID>
+		<Name>Thiếu Lâm - Dịch Cân Kinh (Côn passive) - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1"></Var>	
+	</Data>
+	<Data>
+		<ID>29</ID>
+		<Name>Thiếu Lâm - Dịch Cân Kinh (Côn passive) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.0004"></Var>	
+	</Data>
+	<Data>
+		<ID>30</ID>
+		<Name>Thiếu Lâm - Dịch Cân Kinh (Côn passive) - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>		
+	</Data>
+	<Data>
+		<ID>31</ID>
+		<Name>Ngũ Độc - Thánh Hỏa Phân Tâm (basic passive) - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="0.25"></Var>	
+	</Data>
+	<Data>
+		<ID>32</ID>
+		<Name>Ngũ Độc - Thánh Hỏa Phân Tâm (basic passive) - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="0.01"></Var>		
+	</Data>
+	<Data>
+		<ID>33</ID>
+		<Name>Thiếu Lâm - Skill Nhập Môn - Thiết Ngưu Công - gain armor - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="100"></Var>	
+	</Data>
+	<Data>
+		<ID>34</ID>
+		<Name>Thiếu Lâm - Skill Nhập Môn - Thiết Ngưu Công - gain armor - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.35"></Var>	
+	</Data>
+	<Data>
+		<ID>35</ID>
+		<Name>Thiếu Lâm - Skill Nhập Môn - Thiết Ngưu Công - gain armor - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="5"></Var>		
+	</Data>
+	<Data>
+		<ID>36</ID>
+		<Name>Thiếu Lâm - Skill Nhập Môn - Thiết Ngưu Công - self heal - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="440"></Var>	
+	</Data>
+	<Data>
+		<ID>37</ID>
+		<Name>Thiếu Lâm - Skill Nhập Môn - Thiết Ngưu Công - self heal - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.24"></Var>	
+	</Data>
+	<Data>
+		<ID>38</ID>
+		<Name>Thiếu Lâm - Skill Nhập Môn - Thiết Ngưu Công - self heal - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="20"></Var>		
+	</Data>
+	<Data>
+		<ID>39</ID>
+		<Name>Nga Mi - Phong Hoa Tuyết Nguyệt (basic passive) - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="880"></Var>	
+	</Data>
+	<Data>
+		<ID>40</ID>
+		<Name>Nga Mi - Phong Hoa Tuyết Nguyệt (basic passive) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.48"></Var>	
+	</Data>
+	<Data>
+		<ID>41</ID>
+		<Name>Nga Mi - Phong Hoa Tuyết Nguyệt (basic passive) - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="24"></Var>		
+	</Data>
+	<Data>
+		<ID>42</ID>
+		<Name>Cái Bang - Skill Nhập Môn - Bạt Thảo Tầm Xà - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="950"></Var>	
+	</Data>
+	<Data>
+		<ID>43</ID>
+		<Name>Cái Bang - Skill Nhập Môn - Bạt Thảo Tầm Xà - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.25"></Var>	
+	</Data>
+	<Data>
+		<ID>44</ID>
+		<Name>Cái Bang - Skill Nhập Môn - Bạt Thảo Tầm Xà - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="25"></Var>		
+	</Data>
+	<Data>
+		<ID>45</ID>
+		<Name>Võ Đang/Ngũ Độc - Skill Nhập Môn - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="600"></Var>	
+	</Data>
+	<Data>
+		<ID>46</ID>
+		<Name>Võ Đang/Ngũ Độc - Skill Nhập Môn - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.25"></Var>	
+	</Data>
+	<Data>
+		<ID>47</ID>
+		<Name>Võ Đang/Ngũ Độc - Skill Nhập Môn - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="25"></Var>		
+	</Data>
+	<Data>
+		<ID>48</ID>
+		<Name>Doãn Chí Bình - Lưỡng Nghi Kiếm - Crit Chance - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="35"></Var>	
+	</Data>
+	<Data>
+		<ID>49</ID>
+		<Name>Doãn Chí Bình - Lưỡng Nghi Kiếm - Crit Chance - lv</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>	
+	<Data>
+		<ID>50</ID>
+		<Name>Doãn Chí Bình - add dmg - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3600"></Var>	
+	</Data>
+	<Data>
+		<ID>51</ID>
+		<Name>Doãn Chí Bình - add dmg - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.6"></Var>	
+	</Data>
+	<Data>
+		<ID>52</ID>
+		<Name>Doãn Chí Bình - add dmg - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="80"></Var>	
+	</Data>	
+	<Data>
+		<ID>53</ID>
+		<Name>Nga Mi Kiếm - Thôi Song Vọng Nguyệt - Thức 1 - Absord Dmg - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1200"></Var>	
+	</Data>
+	<Data>
+		<ID>54</ID>
+		<Name>Nga Mi Kiếm - Thôi Song Vọng Nguyệt - Thức 1 - Absord Dmg - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.5"></Var>	
+	</Data>
+	<Data>
+		<ID>55</ID>
+		<Name>Nga Mi Kiếm - Thôi Song Vọng Nguyệt - Thức 1 - Absord Dmg - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="60"></Var>	
+	</Data>	
+	<Data>
+		<ID>56</ID>
+		<Name>Nga Mi Kiếm - Thôi Song Vọng Nguyệt - Thức 2 - selfHealing % - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="30"></Var>	
+	</Data>
+	<Data>
+		<ID>57</ID>
+		<Name>Nga Mi Kiếm - Thôi Song Vọng Nguyệt - Thức 2 - selfHealing % - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>58</ID>
+		<Name>Nga Mi Kiếm - Thôi Song Vọng Nguyệt - Thức 2 - selfHealing %- + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>	
+	</Data>	
+	<Data>
+		<ID>59</ID>
+		<Name>Nga Mi Kiếm - Thôi Song Vọng Nguyệt - Thức 3 - return DMG - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="30"></Var>	
+	</Data>
+	<Data>
+		<ID>60</ID>
+		<Name>Nga Mi Kiếm - Thôi Song Vọng Nguyệt - Thức 3 - return DMG - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>61</ID>
+		<Name>Nga Mi Kiếm - Thôi Song Vọng Nguyệt - Thức 3 - return DMG - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>	
+	</Data>
+	<Data>
+		<ID>62</ID>
+		<Name>Nga Mi Kiếm - Bất Diệt Bất Tuyệt - Thức 1 - selfHealing - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="12000"></Var>	
+	</Data>
+	<Data>
+		<ID>63</ID>
+		<Name>Nga Mi Kiếm - Bất Diệt Bất Tuyệt - Thức 1 - selfHealing - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="1.50"></Var>	
+	</Data>
+	<Data>
+		<ID>64</ID>
+		<Name>Nga Mi Kiếm - Bất Diệt Bất Tuyệt - Thức 1 - selfHealing - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="180"></Var>	
+	</Data>
+	<Data>
+		<ID>65</ID>
+		<Name>Nga Mi Kiếm - Tam Nga Tế Nguyệt - Thức 1 - DMG/bullet - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3000"></Var>	
+	</Data>
+	<Data>
+		<ID>66</ID>
+		<Name>Nga Mi Kiếm - Tam Nga Tế Nguyệt - Thức 1 - DMG/bullet - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.65"></Var>	
+	</Data>
+	<Data>
+		<ID>67</ID>
+		<Name>Nga Mi Kiếm - Tam Nga Tế Nguyệt - Thức 1 - DMG/bullet - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="75"></Var>	
+	</Data>
+	<Data>
+		<ID>68</ID>
+		<Name>Nga Mi Kiếm - Tam Nga Tế Nguyệt - Thức 2 - debuff DMG - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="2800"></Var>	
+	</Data>
+	<Data>
+		<ID>69</ID>
+		<Name>Nga Mi Kiếm - Tam Nga Tế Nguyệt - Thức 2 - debuff DMG - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.7"></Var>	
+	</Data>
+	<Data>
+		<ID>70</ID>
+		<Name>Nga Mi Kiếm - Tam Nga Tế Nguyệt - Thức 2 - debuff DMG - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="50"></Var>	
+	</Data>
+	<Data>
+		<ID>71</ID>
+		<Name>Nga Mi Kiếm - Tam Nga Tế Nguyệt - Thức 3 - selfHealing - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="8600"></Var>	
+	</Data>
+	<Data>
+		<ID>72</ID>
+		<Name>Nga Mi Kiếm - Tam Nga Tế Nguyệt - Thức 3 - selfHealing - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.9"></Var>	
+	</Data>
+	<Data>
+		<ID>73</ID>
+		<Name>Nga Mi Kiếm - Tam Nga Tế Nguyệt - Thức 3 - selfHealing - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="180"></Var>	
+	</Data>
+	<Data>
+		<ID>74</ID>
+		<Name>Nga Mi Đàn - Đào Đào Chi Yêu - Thức 1 - Healing team - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3600"></Var>	
+	</Data>
+	<Data>
+		<ID>75</ID>
+		<Name>Nga Mi Đàn - Đào Đào Chi Yêu - Thức 1 - Healing team - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.8"></Var>	
+	</Data>
+	<Data>
+		<ID>76</ID>
+		<Name>Nga Mi Đàn - Đào Đào Chi Yêu - Thức 1 - Healing team - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="80"></Var>	
+	</Data>
+	<Data>
+		<ID>77</ID>
+		<Name>Nga Mi Đàn - Đào Đào Chi Yêu - Thức 2 - Healing per sec - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="2400"></Var>	
+	</Data>
+	<Data>
+		<ID>78</ID>
+		<Name>Nga Mi Đàn - Đào Đào Chi Yêu - Thức 2 - Healing per sec - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.3"></Var>	
+	</Data>
+	<Data>
+		<ID>79</ID>
+		<Name>Nga Mi Đàn - Đào Đào Chi Yêu - Thức 2 - Healing per sec - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="90"></Var>	
+	</Data>
+	<Data>
+		<ID>80</ID>
+		<Name>Nga Mi Đàn - Đào Đào Chi Yêu - Thức 3 - buff Armor and Magic Resist - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="2000"></Var>	
+	</Data>
+	<Data>
+		<ID>81</ID>
+		<Name>Nga Mi Đàn - Đào Đào Chi Yêu - Thức 3 - buff Armor and Magic Resist - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.2"></Var>	
+	</Data>
+	<Data>
+		<ID>82</ID>
+		<Name>Nga Mi Đàn - Đào Đào Chi Yêu - Thức 3 - buff Armor and Magic Resist - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="20"></Var>	
+	</Data>
+	<Data>
+		<ID>83</ID>
+		<Name>Nga Mi Đàn - Hữu Sở Tư - T1 - Buff ngoại công - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1800"></Var>	
+	</Data>
+	<Data>
+		<ID>84</ID>
+		<Name>Nga Mi Đàn - Hữu Sở Tư - T1 - Buff ngoại công - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.24"></Var>	
+	</Data>
+	<Data>
+		<ID>85</ID>
+		<Name>Nga Mi Đàn - Hữu Sở Tư - T1 - Buff ngoại công - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="40"></Var>	
+	</Data>
+	<Data>
+		<ID>86</ID>
+		<Name>Nga Mi Đàn - Hữu Sở Tư - T1 - Buff nội công - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3600"></Var>	
+	</Data>
+	<Data>
+		<ID>87</ID>
+		<Name>Nga Mi Đàn - Hữu Sở Tư - T1 - Buff nội công - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.36"></Var>	
+	</Data>
+	<Data>
+		<ID>88</ID>
+		<Name>Nga Mi Đàn - Hữu Sở Tư - T1 - Buff nội công - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="80"></Var>	
+	</Data>
+	<Data>
+		<ID>89</ID>
+		<Name>Nga Mi Đàn - Hữu Sở Tư - T2 - Buff crit and skill crit chance - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="15"></Var>	
+	</Data>
+	<Data>
+		<ID>90</ID>
+		<Name>Nga Mi Đàn - Hữu Sở Tư - T2 - Buff crit and skill crit chance - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>91</ID>
+		<Name>Nga Mi Đàn - Hữu Sở Tư - T2 - Buff crit and skill crit chance - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>92</ID>
+		<Name>Nga Mi Đàn - Hữu Sở Tư - T3 - Buff crit and skill crit DMG - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="30"></Var>	
+	</Data>
+	<Data>
+		<ID>93</ID>
+		<Name>Nga Mi Đàn - Hữu Sở Tư - T3 - Buff crit and skill crit DMG - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>94</ID>
+		<Name>Nga Mi Đàn - Hữu Sở Tư - T3 - Buff crit and skill crit DMG - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>95</ID>
+		<Name>Nga Mi Đàn - Thiên Âm Trấn Ma Khúc - T1 - DMG all Enemies - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1200"></Var>	
+	</Data>
+	<Data>
+		<ID>96</ID>
+		<Name>Nga Mi Đàn - Thiên Âm Trấn Ma Khúc - T1 - DMG all Enemies - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="1"></Var>	
+	</Data>
+	<Data>
+		<ID>97</ID>
+		<Name>Nga Mi Đàn - Thiên Âm Trấn Ma Khúc - T1 - DMG all Enemies - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="60"></Var>
+	</Data>
+	<Data>
+		<ID>98</ID>
+		<Name>Nga Mi Đàn - Thiên Âm Trấn Ma Khúc - T1 - Healing Team - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1000"></Var>	
+	</Data>
+	<Data>
+		<ID>99</ID>
+		<Name>Nga Mi Đàn - Thiên Âm Trấn Ma Khúc - T1 - Healing Team - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="1.5"></Var>	
+	</Data>
+	<Data>
+		<ID>100</ID>
+		<Name>Nga Mi Đàn - Thiên Âm Trấn Ma Khúc - T1 - Healing Team - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="50"></Var>
+	</Data>
+	<Data>
+		<ID>101</ID>
+		<Name>Nga Mi Đàn - Thiên Âm Trấn Ma Khúc - T3 - kháng đánh bật - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="10"></Var>	
+	</Data>
+	<Data>
+		<ID>102</ID>
+		<Name>Nga Mi Đàn - Thiên Âm Trấn Ma Khúc - T3 - kháng đánh bật - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>103</ID>
+		<Name>Nga Mi Đàn - Thiên Âm Trấn Ma Khúc - T3 - kháng đánh bật - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>104</ID>
+		<Name>Cái Bang Bổng - Bổng Đả Ác Cẩu - T1 - DMG - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3500"></Var>	
+	</Data>
+	<Data>
+		<ID>105</ID>
+		<Name>Cái Bang Bổng - Bổng Đả Ác Cẩu - T1 - DMG - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.35"></Var>	
+	</Data>
+	<Data>
+		<ID>106</ID>
+		<Name>Cái Bang Bổng - Bổng Đả Ác Cẩu - T1 - DMG - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="66"></Var>
+	</Data>
+	<Data>
+		<ID>107</ID>
+		<Name>Cái Bang Bổng - Bổng Đả Ác Cẩu - T2 - xuất huyết - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="400"></Var>	
+	</Data>
+	<Data>
+		<ID>108</ID>
+		<Name>Cái Bang Bổng - Bổng Đả Ác Cẩu - T2 - xuất huyết - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.1"></Var>	
+	</Data>
+	<Data>
+		<ID>109</ID>
+		<Name>Cái Bang Bổng - Bổng Đả Ác Cẩu - T2 - xuất huyết - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="22"></Var>
+	</Data>
+	<Data>
+		<ID>110</ID>
+		<Name>Cái Bang Bổng - Bát Cẩu Triều Thiên - T1 - DMG - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="5000"></Var>	
+	</Data>
+	<Data>
+		<ID>111</ID>
+		<Name>Cái Bang Bổng - Bát Cẩu Triều Thiên - T1 - DMG - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="1"></Var>	
+	</Data>
+	<Data>
+		<ID>112</ID>
+		<Name>Cái Bang Bổng - Bát Cẩu Triều Thiên - T1 - DMG - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="100"></Var>
+	</Data>
+	<Data>
+		<ID>113</ID>
+		<Name>Cái Bang Bổng - Bát Cẩu Triều Thiên - T3 - kháng đẩy lùi - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="25"></Var>	
+	</Data>
+	<Data>
+		<ID>114</ID>
+		<Name>Cái Bang Bổng - Bát Cẩu Triều Thiên - T3 - kháng đẩy lùi - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>115</ID>
+		<Name>Cái Bang Bổng - Bát Cẩu Triều Thiên - T3 - kháng đẩy lùi - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>116</ID>
+		<Name>Cái Bang Bổng - Thiên Hạ Vô Cẩu - T1 - DMG all enemies - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3000"></Var>	
+	</Data>
+	<Data>
+		<ID>117</ID>
+		<Name>Cái Bang Bổng - Thiên Hạ Vô Cẩu - T1 - DMG all enemies - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.3"></Var>	
+	</Data>
+	<Data>
+		<ID>118</ID>
+		<Name>Cái Bang Bổng - Thiên Hạ Vô Cẩu - T1 - DMG all enemies - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="60"></Var>
+	</Data>
+	<Data>
+		<ID>119</ID>
+		<Name>Cái Bang Chưởng - Phi Long Tại Thiên - T1 - DMG 1st target - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="4500"></Var>	
+	</Data>
+	<Data>
+		<ID>120</ID>
+		<Name>Cái Bang Chưởng - Phi Long Tại Thiên - T1 - DMG 1st enemies - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.2"></Var>	
+	</Data>
+	<Data>
+		<ID>121</ID>
+		<Name>Cái Bang Chưởng - Phi Long Tại Thiên - T1 - DMG 1st enemies - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="70"></Var>
+	</Data>
+	<Data>
+		<ID>122</ID>
+		<Name>Cái Bang Chưởng - Phi Long Tại Thiên - T1 - DMG nổ lan - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1500"></Var>	
+	</Data>
+	<Data>
+		<ID>123</ID>
+		<Name>Cái Bang Chưởng - Phi Long Tại Thiên - T1 - DMG nổ lan - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.2"></Var>	
+	</Data>
+	<Data>
+		<ID>124</ID>
+		<Name>Cái Bang Chưởng - Phi Long Tại Thiên - T1 - DMG nổ lan - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="25"></Var>
+	</Data>
+	<Data>
+		<ID>125</ID>
+		<Name>Cái Bang Chưởng - Phi Long Tại Thiên - T2 - DMG 2nd Target - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="6000"></Var>	
+	</Data>
+	<Data>
+		<ID>126</ID>
+		<Name>Cái Bang Chưởng - Phi Long Tại Thiên - T2 - DMG 2nd Target - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.3"></Var>	
+	</Data>
+	<Data>
+		<ID>127</ID>
+		<Name>Cái Bang Chưởng - Phi Long Tại Thiên - T2 - DMG 2nd Target - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="140"></Var>
+	</Data>
+	<Data>
+		<ID>128</ID>
+		<Name>Cái Bang Chưởng - Phi Long Tại Thiên - T3 - DMG 3rd Target - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="10000"></Var>	
+	</Data>
+	<Data>
+		<ID>129</ID>
+		<Name>Cái Bang Chưởng - Phi Long Tại Thiên - T3 - DMG 3rd Target - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.5"></Var>	
+	</Data>
+	<Data>
+		<ID>130</ID>
+		<Name>Cái Bang Chưởng - Phi Long Tại Thiên - T3 - DMG 3rd Target - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="360"></Var>
+	</Data>
+	<Data>
+		<ID>131</ID>
+		<Name>Cái Bang Chưởng - Kháng Long Hữu Hối - T1 - DMG aoe - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="2200"></Var>	
+	</Data>
+	<Data>
+		<ID>132</ID>
+		<Name>Cái Bang Chưởng - Kháng Long Hữu Hối - T1 - DMG aoe - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.25"></Var>	
+	</Data>
+	<Data>
+		<ID>133</ID>
+		<Name>Cái Bang Chưởng - Kháng Long Hữu Hối - T1 - DMG aoe - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="60"></Var>
+	</Data>
+	<Data>
+		<ID>134</ID>
+		<Name>Cái Bang Chưởng - Kháng Long Hữu Hối - T2 - DMG aoe lần 2- base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="4400"></Var>	
+	</Data>
+	<Data>
+		<ID>135</ID>
+		<Name>Cái Bang Chưởng - Kháng Long Hữu Hối - T2 - DMG aoe lần 2 - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.25"></Var>	
+	</Data>
+	<Data>
+		<ID>136</ID>
+		<Name>Cái Bang Chưởng - Kháng Long Hữu Hối - T2 - DMG aoe lần 2- + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="135"></Var>
+	</Data>
+	<Data>
+		<ID>137</ID>
+		<Name>Cái Bang Chưởng - Thần Long Bãi Vĩ - T1 - DMG lần 1- base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3150"></Var>	
+	</Data>
+	<Data>
+		<ID>138</ID>
+		<Name>Cái Bang Chưởng - Thần Long Bãi Vĩ - T1 - DMG lần 1 - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.5"></Var>	
+	</Data>
+	<Data>
+		<ID>139</ID>
+		<Name>Cái Bang Chưởng - Thần Long Bãi Vĩ - T1 - DMG lần 1 - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="66"></Var>
+	</Data>
+	<Data>
+		<ID>140</ID>
+		<Name>Cái Bang Chưởng - Thần Long Bãi Vĩ - T3 - DPS - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="800"></Var>	
+	</Data>
+	<Data>
+		<ID>141</ID>
+		<Name>Cái Bang Chưởng - Thần Long Bãi Vĩ - T3 - DPS - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.16"></Var>	
+	</Data>
+	<Data>
+		<ID>142</ID>
+		<Name>Cái Bang Chưởng - Thần Long Bãi Vĩ - T3 - DPS - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="80"></Var>
+	</Data>
+	<Data>
+		<ID>143</ID>
+		<Name>Võ Đang Kiếm - Tam Hoàn Sáo Nguyệt - T1 - DMG aoe - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3200"></Var>	
+	</Data>
+	<Data>
+		<ID>144</ID>
+		<Name>Võ Đang Kiếm - Tam Hoàn Sáo Nguyệt - T1 - DMG aoe - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.9"></Var>	
+	</Data>
+	<Data>
+		<ID>145</ID>
+		<Name>Võ Đang Kiếm - Tam Hoàn Sáo Nguyệt - T1 - DMG aoe - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="55"></Var>
+	</Data>
+	<Data>
+		<ID>146</ID>
+		<Name>Võ Đang Kiếm - Thái cực kiếm vũ - DMG per bullet - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3000"></Var>	
+	</Data>
+	<Data>
+		<ID>147</ID>
+		<Name>Võ Đang Kiếm - Thái cực kiếm vũ - DMG per bullet - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.25"></Var>	
+	</Data>
+	<Data>
+		<ID>148</ID>
+		<Name>Võ Đang Kiếm - Thái cực kiếm vũ - DMG per bullet - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="60"></Var>
+	</Data>
+	<Data>
+		<ID>149</ID>
+		<Name>Võ Đang Kiếm - Nhân kiếm hợp nhất - T1 - + Crit Chance - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="25"></Var>	
+	</Data>
+	<Data>
+		<ID>150</ID>
+		<Name>Võ Đang Kiếm - Nhân kiếm hợp nhất - T1 - + Crit Chance - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>151</ID>
+		<Name>Võ Đang Kiếm - Nhân kiếm hợp nhất - T1 - + Crit Chance - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>152</ID>
+		<Name>Võ Đang Kiếm - Nhân kiếm hợp nhất - T1 - + MS - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="30"></Var>	
+	</Data>
+	<Data>
+		<ID>153</ID>
+		<Name>Võ Đang Kiếm - Nhân kiếm hợp nhất - T1 - + MS - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>154</ID>
+		<Name>Võ Đang Kiếm - Nhân kiếm hợp nhất - T1 - + MS - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="0"></Var>
+	</Data>
+	<Data>
+		<ID>155</ID>
+		<Name>Võ Đang Kiếm - Nhân kiếm hợp nhất - T1 - + Dodge - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1000"></Var>	
+	</Data>
+	<Data>
+		<ID>156</ID>
+		<Name>Võ Đang Kiếm - Nhân kiếm hợp nhất - T1 - + Dodge - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="1.0"></Var>	
+	</Data>
+	<Data>
+		<ID>157</ID>
+		<Name>Võ Đang Kiếm - Nhân kiếm hợp nhất - T1 - + Dodge - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="20"></Var>
+	</Data>
+	<Data>
+		<ID>158</ID>
+		<Name>Võ Đang Kiếm - Nhân kiếm hợp nhất - T3 - + crit DMG - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1"></Var>	
+	</Data>
+	<Data>
+		<ID>159</ID>
+		<Name>Võ Đang Kiếm - Nhân kiếm hợp nhất - T3 - + crit DMG - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>160</ID>
+		<Name>Võ Đang Kiếm - Nhân kiếm hợp nhất - T3 - + crit DMG - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="2"></Var>
+	</Data>
+	<Data>
+		<ID>161</ID>
+		<Name>Võ Đang Khí - Võ Đang miên chưởng - T1 - DMG per bullet - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="2800"></Var>	
+	</Data>
+	<Data>
+		<ID>162</ID>
+		<Name>Võ Đang Khí - Võ Đang miên chưởng - T1 - DMG per bullet - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.8"></Var>	
+	</Data>
+	<Data>
+		<ID>163</ID>
+		<Name>Võ Đang Khí - Võ Đang miên chưởng - T1 - DMG per bullet - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="50"></Var>
+	</Data>
+	<Data>
+		<ID>164</ID>
+		<Name>Võ Đang Khí - Võ Đang miên chưởng - T3 - DMG per bullet - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="10000"></Var>	
+	</Data>
+	<Data>
+		<ID>165</ID>
+		<Name>Võ Đang Khí - Võ Đang miên chưởng - T3 - DMG per bullet - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="1.2"></Var>	
+	</Data>
+	<Data>
+		<ID>166</ID>
+		<Name>Võ Đang Khí - Võ Đang miên chưởng - T3 - DMG per bullet - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="200"></Var>
+	</Data>
+	<Data>
+		<ID>167</ID>
+		<Name>Võ Đang Khí - Bát Quái Chưởng - T1 - DMG AOE - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1600"></Var>	
+	</Data>
+	<Data>
+		<ID>168</ID>
+		<Name>Võ Đang Khí - Bát Quái Chưởng - T1 - DMG AOE - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="1.6"></Var>	
+	</Data>
+	<Data>
+		<ID>169</ID>
+		<Name>Võ Đang Khí - Bát Quái Chưởng - T1 - DMG AOE - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="60"></Var>
+	</Data>
+	<Data>
+		<ID>170</ID>
+		<Name>Võ Đang Khí - Thái Thanh Thần Khí - T2 - + Crit chance - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1"></Var>	
+	</Data>
+	<Data>
+		<ID>171</ID>
+		<Name>Võ Đang Khí - Thái Thanh Thần Khí - T2 - + Crit chance - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>172</ID>
+		<Name>Võ Đang Khí - Thái Thanh Thần Khí - T2 - + Crit chance - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>173</ID>
+		<Name>Võ Đang Khí - Thái Thanh Thần Khí - T3 - xuyên giáp - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1500"></Var>	
+	</Data>
+	<Data>
+		<ID>174</ID>
+		<Name>Võ Đang Khí - Thái Thanh Thần Khí - T3 - xuyên giáp - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.2"></Var>	
+	</Data>
+	<Data>
+		<ID>175</ID>
+		<Name>Võ Đang Khí - Thái Thanh Thần Khí - T3 - xuyên giáp - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="90"></Var>
+	</Data>
+	<Data>
+		<ID>176</ID>
+		<Name>Thiếu Lâm Côn - Sư Tử Hống - T1 - DMG all enemies - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3000"></Var>	
+	</Data>
+	<Data>
+		<ID>177</ID>
+		<Name>Thiếu Lâm Côn - Sư Tử Hống - T1 - DMG all enemies - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.4"></Var>	
+	</Data>
+	<Data>
+		<ID>178</ID>
+		<Name>Thiếu Lâm Côn - Sư Tử Hống - T1 - DMG all enemies - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="100"></Var>
+	</Data>
+	<Data>
+		<ID>179</ID>
+		<Name>Thiếu Lâm Côn - Sư Tử Hống - T2 - Bleeding - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="200"></Var>	
+	</Data>
+	<Data>
+		<ID>180</ID>
+		<Name>Thiếu Lâm Côn - Sư Tử Hống - T2 - Bleeding - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.1"></Var>	
+	</Data>
+	<Data>
+		<ID>181</ID>
+		<Name>Thiếu Lâm Côn - Sư Tử Hống - T2 - Bleeding - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="50"></Var>
+	</Data>
+	<Data>
+		<ID>182</ID>
+		<Name>Thiếu Lâm Côn - Sư Tử Hống - T3 - + Armor/Magic Res - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1000"></Var>	
+	</Data>
+	<Data>
+		<ID>183</ID>
+		<Name>Thiếu Lâm Côn - Sư Tử Hống - T3 - + Armor/Magic Res - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.25"></Var>	
+	</Data>
+	<Data>
+		<ID>184</ID>
+		<Name>Thiếu Lâm Côn - Sư Tử Hống - T3 - + Armor/Magic Res - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="35"></Var>
+	</Data>
+	<Data>
+		<ID>185</ID>
+		<Name>Thiếu Lâm Côn - Sư Tử Hống - T3 - + khắc 5 hành - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="50"></Var>	
+	</Data>
+	<Data>
+		<ID>186</ID>
+		<Name>Thiếu Lâm Côn - Sư Tử Hống - T3 - + khắc 5 hành - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>187</ID>
+		<Name>Thiếu Lâm Côn - Sư Tử Hống - T3 - + khắc 5 hành - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>188</ID>
+		<Name>Thiếu Lâm Côn - Xá Thân Quyết - T1 - Charge DMG - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="2500"></Var>	
+	</Data>
+	<Data>
+		<ID>189</ID>
+		<Name>Thiếu Lâm Côn - Xá Thân Quyết - T1 - Charge DMG - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.6"></Var>	
+	</Data>
+	<Data>
+		<ID>190</ID>
+		<Name>Thiếu Lâm Côn - Xá Thân Quyết - T1 - Charge DMG - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="90"></Var>
+	</Data>
+	<Data>
+		<ID>191</ID>
+		<Name>Thiếu Lâm Côn - Xá Thân Quyết - T3 - reduce enemies' DMG - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="2000"></Var>	
+	</Data>
+	<Data>
+		<ID>192</ID>
+		<Name>Thiếu Lâm Côn - Xá Thân Quyết - T3 - reduce enemies' DMG - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.35"></Var>	
+	</Data>
+	<Data>
+		<ID>193</ID>
+		<Name>Thiếu Lâm Côn - Xá Thân Quyết - T3 - reduce enemies' DMG - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="150"></Var>
+	</Data>
+	<Data>
+		<ID>194</ID>
+		<Name>Thiếu Lâm Côn - Kim Cương Bất Hoại - T1 - + Armor - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="800"></Var>	
+	</Data>
+	<Data>
+		<ID>195</ID>
+		<Name>Thiếu Lâm Côn - Kim Cương Bất Hoại - T1 - + Armor - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.2"></Var>	
+	</Data>
+	<Data>
+		<ID>196</ID>
+		<Name>Thiếu Lâm Côn - Kim Cương Bất Hoại - T1 - + Armor - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="40"></Var>
+	</Data>
+	<Data>
+		<ID>197</ID>
+		<Name>Thiếu Lâm Côn - Kim Cương Bất Hoại - T1 - + khắc 5 hành - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="5"></Var>	
+	</Data>
+	<Data>
+		<ID>198</ID>
+		<Name>Thiếu Lâm Côn - Kim Cương Bất Hoại - T1 - + khắc 5 hành - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>199</ID>
+		<Name>Thiếu Lâm Côn - Kim Cương Bất Hoại - T1 - + khắc 5 hành - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>200</ID>
+		<Name>Thiếu Lâm Côn - Kim Cương Bất Hoại - T2 - dmg per sec - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="500"></Var>	
+	</Data>
+	<Data>
+		<ID>201</ID>
+		<Name>Thiếu Lâm Côn - Kim Cương Bất Hoại - T2 - dmg per sec - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.5"></Var>	
+	</Data>
+	<Data>
+		<ID>202</ID>
+		<Name>Thiếu Lâm Côn - Kim Cương Bất Hoại - T2 - dmg per sec - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="50"></Var>
+	</Data>
+	<Data>
+		<ID>203</ID>
+		<Name>Ngũ Độc Đao - Mộc Hỏa Liên Trảm - T1 - DMG bước 1 và 2 - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="5500"></Var>	
+	</Data>
+	<Data>
+		<ID>204</ID>
+		<Name>Ngũ Độc Đao - Mộc Hỏa Liên Trảm - T1 - DMG bước 1 và 2 - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.5"></Var>	
+	</Data>
+	<Data>
+		<ID>205</ID>
+		<Name>Ngũ Độc Đao - Mộc Hỏa Liên Trảm - T1 - DMG bước 1 và 2 - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="100"></Var>
+	</Data>
+	<Data>
+		<ID>206</ID>
+		<Name>Ngũ Độc Đao - Mộc Hỏa Liên Trảm - T2 - DMG bước 3 - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="8000"></Var>	
+	</Data>
+	<Data>
+		<ID>207</ID>
+		<Name>Ngũ Độc Đao - Mộc Hỏa Liên Trảm - T2 - DMG bước 3 - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.5"></Var>	
+	</Data>
+	<Data>
+		<ID>208</ID>
+		<Name>Ngũ Độc Đao - Mộc Hỏa Liên Trảm - T2 - DMG bước 3 - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="150"></Var>
+	</Data>
+	<Data>
+		<ID>209</ID>
+		<Name>Ngũ Độc Đao - Mộc Hỏa Liên Trảm - T3 - DMG bước 4 - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="12000"></Var>	
+	</Data>
+	<Data>
+		<ID>210</ID>
+		<Name>Ngũ Độc Đao - Mộc Hỏa Liên Trảm - T3 - DMG bước 4 - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.6"></Var>	
+	</Data>
+	<Data>
+		<ID>211</ID>
+		<Name>Ngũ Độc Đao - Mộc Hỏa Liên Trảm - T3 - DMG bước 4 - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="200"></Var>
+	</Data>
+	<Data>
+		<ID>212</ID>
+		<Name>Ngũ Độc Đao - Mộc Hỏa Liên Trảm - T3 - absorb dmg - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="4000"></Var>	
+	</Data>
+	<Data>
+		<ID>213</ID>
+		<Name>Ngũ Độc Đao - Mộc Hỏa Liên Trảm - T3 - absorb dmg - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.15"></Var>	
+	</Data>
+	<Data>
+		<ID>214</ID>
+		<Name>Ngũ Độc Đao - Mộc Hỏa Liên Trảm - T3 - absorb dmg - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="80"></Var>
+	</Data>
+	<Data>
+		<ID>215</ID>
+		<Name>Ngũ Độc Đao - Âm Dương Quyết - T1, T2, T3 - %Stat - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="35"></Var>	
+	</Data>
+	<Data>
+		<ID>216</ID>
+		<Name>Ngũ Độc Đao - Âm Dương Quyết - T1, T2, T3 - %Stat - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>217</ID>
+		<Name>Ngũ Độc Đao - Âm Dương Quyết - T1, T2, T3 - %Stat - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="0.2"></Var>
+	</Data>
+	<Data>
+		<ID>218</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T1 - buff DMG - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="8500"></Var>	
+	</Data>
+	<Data>
+		<ID>219</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T1 - buff DMG - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.5"></Var>	
+	</Data>
+	<Data>
+		<ID>220</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T1 - buff DMG - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="150"></Var>
+	</Data>
+	<Data>
+		<ID>221</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T1 - buff MS - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="30"></Var>	
+	</Data>
+	<Data>
+		<ID>222</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T1 - buff MS - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>223</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T1 - buff MS - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="0"></Var>
+	</Data>
+	<Data>
+		<ID>224</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T1 - buff ARMOR - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1000"></Var>	
+	</Data>
+	<Data>
+		<ID>225</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T1 - buff ARMOR - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.3"></Var>	
+	</Data>
+	<Data>
+		<ID>226</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T1 - buff ARMOR - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="40"></Var>
+	</Data>
+	<Data>
+		<ID>227</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T2 - % phản DMG - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="10"></Var>	
+	</Data>
+	<Data>
+		<ID>228</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T2 - % phản DMG - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>229</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T2 - % phản DMG - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>230</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T3 - % hồi HP - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="15"></Var>	
+	</Data>
+	<Data>
+		<ID>231</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T3 - % hồi HP - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>232</ID>
+		<Name>Ngũ Độc Đao - Huyết Hoa Cuồng Loạn Đao - T3 - % hồi HP - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>233</ID>
+		<Name>Ngũ Độc Bùa - Thâu Hồn Thuật - T1 - dmg per sec - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1200"></Var>	
+	</Data>
+	<Data>
+		<ID>234</ID>
+		<Name>Ngũ Độc Bùa - Thâu Hồn Thuật - T1 - dmg per sec - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.8"></Var>	
+	</Data>
+	<Data>
+		<ID>235</ID>
+		<Name>Ngũ Độc Bùa - Thâu Hồn Thuật - T1 - dmg per sec - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="80"></Var>
+	</Data>
+	<Data>
+		<ID>236</ID>
+		<Name>Ngũ Độc Bùa - Thâu Hồn Thuật - T2, T3 - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="30"></Var>	
+	</Data>
+	<Data>
+		<ID>237</ID>
+		<Name>Ngũ Độc Bùa - Thâu Hồn Thuật - T2, T3 - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>238</ID>
+		<Name>Ngũ Độc Bùa - Thâu Hồn Thuật - T2, T3 - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>239</ID>
+		<Name>Ngũ Độc Bùa - Cửu U Tử Trạch - T1 - DOT - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="600"></Var>	
+	</Data>
+	<Data>
+		<ID>240</ID>
+		<Name>Ngũ Độc Bùa - Cửu U Tử Trạch - T1 - DOT - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.3"></Var>	
+	</Data>
+	<Data>
+		<ID>241</ID>
+		<Name>Ngũ Độc Bùa - Cửu U Tử Trạch - T1 - DOT - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="20"></Var>
+	</Data>
+	<Data>
+		<ID>242</ID>
+		<Name>Ngũ Độc Bùa - Cửu U Tử Trạch - T3 -  -fury point - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="200"></Var>	
+	</Data>
+	<Data>
+		<ID>243</ID>
+		<Name>Ngũ Độc Bùa - Cửu U Tử Trạch - T3 - -fury point - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>244</ID>
+		<Name>Ngũ Độc Bùa - Cửu U Tử Trạch - T3 - -fury point - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="2"></Var>
+	</Data>
+	<Data>
+		<ID>245</ID>
+		<Name>Ngũ Độc Bùa - Mãn Thiên Huyết Hoa Vũ - T1 - DOT - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="800"></Var>	
+	</Data>
+	<Data>
+		<ID>246</ID>
+		<Name>Ngũ Độc Bùa - Mãn Thiên Huyết Hoa Vũ - T1 - DOT - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.6"></Var>	
+	</Data>
+	<Data>
+		<ID>247</ID>
+		<Name>Ngũ Độc Bùa - Mãn Thiên Huyết Hoa Vũ - T1 - DOT - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="60"></Var>
+	</Data>
+	<Data>
+		<ID>248</ID>
+		<Name>Ngũ Độc Bùa - Mãn Thiên Huyết Hoa Vũ - T2 - nổ %dmg - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="30"></Var>	
+	</Data>
+	<Data>
+		<ID>249</ID>
+		<Name>Ngũ Độc Bùa - Mãn Thiên Huyết Hoa Vũ - T2 - nổ %dmg - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>250</ID>
+		<Name>Ngũ Độc Bùa - Mãn Thiên Huyết Hoa Vũ - T2 - nổ %dmg - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>251</ID>
+		<Name>Ngũ Độc Bùa - Mãn Thiên Huyết Hoa Vũ - T3 - nổ %dmg - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="50"></Var>	
+	</Data>
+	<Data>
+		<ID>252</ID>
+		<Name>Ngũ Độc Bùa - Mãn Thiên Huyết Hoa Vũ - T3 - nổ %dmg - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>253</ID>
+		<Name>Ngũ Độc Bùa - Mãn Thiên Huyết Hoa Vũ - T3 - nổ %dmg - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="2"></Var>
+	</Data>
+	<Data>
+		<ID>254</ID>
+		<Name>Triệu Chí Kính - Thái Ất Kiếm - + Critical Chance - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="10"></Var>	
+	</Data>
+	<Data>
+		<ID>255</ID>
+		<Name>Triệu Chí Kính - Thái Ất Kiếm - + Critical Chance - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>256</ID>
+		<Name>Triệu Chí Kính - Thái Ất Kiếm - + Critical Chance - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="0.3"></Var>
+	</Data>
+	<Data>
+		<ID>257</ID>
+		<Name>Toàn Chân Tâm Pháp - + Né, chính xác, ngoại công - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1"></Var>	
+	</Data>
+	<Data>
+		<ID>258</ID>
+		<Name>Toàn Chân Tâm Pháp - + Né, chính xác, ngoại công - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>259</ID>
+		<Name>Toàn Chân Tâm Pháp - + Né, chính xác, ngoại công - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>260</ID>
+		<Name>Doãn Chí Bình - Lưỡng Nghi Kiếm - 100% attack speed - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="100"></Var>	
+	</Data>
+	<Data>
+		<ID>261</ID>
+		<Name>Đạt Nhĩ Ba - Thiên Thạch Cân - DMG aoe - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3000"></Var>	
+	</Data>
+	<Data>
+		<ID>262</ID>
+		<Name>Đạt Nhĩ Ba - Thiên Thạch Cân - DMG aoe - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="2.5"></Var>	
+	</Data>
+	<Data>
+		<ID>263</ID>
+		<Name>Đạt Nhĩ Ba - Thiên Thạch Cân - DMG aoe - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="100"></Var>
+	</Data>
+	<Data>
+		<ID>264</ID>
+		<Name>Hoắc Đô - Hắc Phiến Khởi Phong - DMG aoe - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="2400"></Var>	
+	</Data>
+	<Data>
+		<ID>265</ID>
+		<Name>Hoắc Đô - Hắc Phiến Khởi Phong - DMG aoe - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="2.2"></Var>	
+	</Data>
+	<Data>
+		<ID>266</ID>
+		<Name>Hoắc Đô - Hắc Phiến Khởi Phong - DMG aoe - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="120"></Var>
+	</Data>
+	<Data>
+		<ID>267</ID>
+		<Name>Kha Trấn Ác - Huyết Độc Bức - DOT - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1200"></Var>	
+	</Data>
+	<Data>
+		<ID>268</ID>
+		<Name>Kha Trấn Ác - Huyết Độc Bức - DOT - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.6"></Var>	
+	</Data>
+	<Data>
+		<ID>269</ID>
+		<Name>Kha Trấn Ác - Huyết Độc Bức - DOT - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="60"></Var>
+	</Data>
+	<Data>
+		<ID>270</ID>
+		<Name>Toàn Chân Tâm Pháp - Passive + né / chính xác / ngoại công - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1"></Var>	
+	</Data>
+	<Data>
+		<ID>271</ID>
+		<Name>Toàn Chân Tâm Pháp - Passive + né / chính xác / ngoại công - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>272</ID>
+		<Name>Toàn Chân Tâm Pháp - Passive + né / chính xác / ngoại công - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>273</ID>
+		<Name>Thiết Trụ - Passive - Tăng HP vĩnh viễn - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1500"></Var>	
+	</Data>
+	<Data>
+		<ID>274</ID>
+		<Name>Thiết Trụ - Passive - Tăng HP vĩnh viễn - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="3"></Var>	
+	</Data>
+	<Data>
+		<ID>275</ID>
+		<Name>Thiết Trụ - Passive - Tăng HP vĩnh viễn - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="200"></Var>
+	</Data>
+	<Data>
+		<ID>276</ID>
+		<Name>Hắc Phiến Tâm Công - Passive - Tăng DMG theo 1% HP đã mất - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="15"></Var>	
+	</Data>
+	<Data>
+		<ID>277</ID>
+		<Name>Hắc Phiến Tâm Công - Passive - Tăng DMG theo 1% HP đã mất - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>278</ID>
+		<Name>Hắc Phiến Tâm Công - Passive - Tăng DMG theo 1% HP đã mất - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>279</ID>
+		<Name>Vọng Thanh Phát Kình - Passive - Tăng chính xác vĩnh viễn - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1000"></Var>	
+	</Data>
+	<Data>
+		<ID>280</ID>
+		<Name>Vọng Thanh Phát Kình - Passive - Tăng chính xác vĩnh viễn - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.3"></Var>	
+	</Data>
+	<Data>
+		<ID>281</ID>
+		<Name>Vọng Thanh Phát Kình - Passive - Tăng chính xác vĩnh viễn - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="50"></Var>
+	</Data>
+	<Data>
+		<ID>282</ID>
+		<Name>Vọng Thanh Phát Kình - Passive - Tăng dmg vĩnh viễn - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="300"></Var>	
+	</Data>
+	<Data>
+		<ID>283</ID>
+		<Name>Vọng Thanh Phát Kình - Passive - Tăng dmg vĩnh viễn - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.5"></Var>	
+	</Data>
+	<Data>
+		<ID>284</ID>
+		<Name>Vọng Thanh Phát Kình - Passive - Tăng dmg vĩnh viễn - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="30"></Var>
+	</Data>
+	<Data>
+		<ID>285</ID>
+		<Name>Càn Khôn Đại Na Di - Passive tăng dmg theo % lost HP - Base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="10"></Var>	
+	</Data>
+	<Data>
+		<ID>286</ID>
+		<Name>Càn Khôn Đại Na Di - Passive tăng dmg theo % lost HP - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.001"></Var>	
+	</Data>
+	<Data>
+		<ID>287</ID>
+		<Name>Càn Khôn Đại Na Di - Passive tăng dmg theo % lost HP - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="2"></Var>
+	</Data>
+	<Data>
+		<ID>288</ID>
+		<Name>Thánh Hỏa Thần Công - Passive MG Chưởng - Base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="200"></Var>	
+	</Data>
+	<Data>
+		<ID>289</ID>
+		<Name>Thánh Hỏa Thần Công - Passive MG Chưởng - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.6"></Var>	
+	</Data>
+	<Data>
+		<ID>290</ID>
+		<Name>Thánh Hỏa Thần Công - Passive MG Chưởng - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="66"></Var>
+	</Data>
+	<Data>
+		<ID>291</ID>
+		<Name>Võ Đang Khí - Thái Thanh Thần Khí - T1 - %passive - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1"></Var>	
+	</Data>
+	<Data>
+		<ID>292</ID>
+		<Name>Võ Đang Khí - Thái Thanh Thần Khí - T1 - %passive - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>293</ID>
+		<Name>Võ Đang Khí - Thái Thanh Thần Khí - T1 - %passive - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="1"></Var>
+	</Data>
+	<Data>
+		<ID>294</ID>
+		<Name>Cừu Thiên Xích - Tiêu Giáp Công - -Armor/MagRes - Basic Value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1000"></Var>	
+	</Data>
+	<Data>
+		<ID>295</ID>
+		<Name>Cừu Thiên Xích - Tiêu Giáp Công - -Armor/MagRes - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>296</ID>
+		<Name>Cừu Thiên Xích - Tiêu Giáp Công - -Armor/MagRes - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="50"></Var>
+	</Data>
+	<Data>
+		<ID>297</ID>
+		<Name>Cừu Thiên Xích - Dưỡng Lực Công - +dmg - Basic Value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="300"></Var>	
+	</Data>
+	<Data>
+		<ID>298</ID>
+		<Name>Cừu Thiên Xích - Dưỡng Lực Công - +dmg - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>299</ID>
+		<Name>Cừu Thiên Xích - Dưỡng Lực Công - +dmg - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="6"></Var>
+	</Data>
+	<Data>
+		<ID>300</ID>
+		<Name>Cừu Thiên Xích - Dưỡng Lực Công - Limit DMG - Basic Value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="5000"></Var>	
+	</Data>
+	<Data>
+		<ID>301</ID>
+		<Name>Cừu Thiên Xích - Dưỡng Lực Công - Limit DMG - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>302</ID>
+		<Name>Cừu Thiên Xích - Dưỡng Lực Công - Limit DMG - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="100"></Var>
+	</Data>
+	<Data>
+		<ID>303</ID>
+		<Name>Cừu Thiên Xích - Loạn Tiêu Đoạt Mệnh - DMG skill - Basic Value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3000"></Var>	
+	</Data>
+	<Data>
+		<ID>304</ID>
+		<Name>Cừu Thiên Xích - Loạn Tiêu Đoạt Mệnh - DMG skill - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.9"></Var>	
+	</Data>
+	<Data>
+		<ID>305</ID>
+		<Name>Cừu Thiên Xích - Loạn Tiêu Đoạt Mệnh - DMG skill - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="65"></Var>
+	</Data>
+	<Data>
+		<ID>306</ID>
+		<Name>Công Tôn Chỉ - Huyết Đao - dmg on %currentHP - Basic Value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1"></Var>	
+	</Data>
+	<Data>
+		<ID>307</ID>
+		<Name>Công Tôn Chỉ - Huyết Đao - dmg on %currentHP - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>308</ID>
+		<Name>Công Tôn Chỉ - Huyết Đao - dmg on %currentHP - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="0.05"></Var>
+	</Data>
+	<Data>
+		<ID>309</ID>
+		<Name>Công Tôn Chỉ - Hoạt Đao - % xảy ra dmg aoe - Basic Value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="5"></Var>	
+	</Data>
+	<Data>
+		<ID>310</ID>
+		<Name>Công Tôn Chỉ - Hoạt Đao - % xảy ra dmg aoe - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>311</ID>
+		<Name>Công Tôn Chỉ - Hoạt Đao - % xảy ra dmg aoe - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="0.3"></Var>
+	</Data>
+	<Data>
+		<ID>312</ID>
+		<Name>Công Tôn Chỉ - Tuyệt Tình Trảm - Skill dmg - Basic Value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="4000"></Var>	
+	</Data>
+	<Data>
+		<ID>313</ID>
+		<Name>Công Tôn Chỉ - Tuyệt Tình Trảm - Skill dmg - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.8"></Var>	
+	</Data>
+	<Data>
+		<ID>314</ID>
+		<Name>Công Tôn Chỉ - Tuyệt Tình Trảm - Skill dmg - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="135"></Var>
+	</Data>
+	<Data>
+		<ID>315</ID>
+		<Name>Kha Trấn Ác - Huyết Độc Bức - drainHP - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="400"></Var>	
+	</Data>
+	<Data>
+		<ID>316</ID>
+		<Name>Kha Trấn Ác - Huyết Độc Bức - drainHP - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.2"></Var>	
+	</Data>
+	<Data>
+		<ID>317</ID>
+		<Name>Kha Trấn Ác - Huyết Độc Bức - drainHP - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="20"></Var>
+	</Data>
+	<Data>
+		<ID>318</ID>
+		<Name>Nhân Kiếm Hợp Nhất - T2 + dmg - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="1000"></Var>	
+	</Data>
+	<Data>
+		<ID>319</ID>
+		<Name>Nhân Kiếm Hợp Nhất - T2 + dmg - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.25"></Var>	
+	</Data>
+	<Data>
+		<ID>320</ID>
+		<Name>Nhân Kiếm Hợp Nhất - T2 + dmg - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="20"></Var>
+	</Data>
+	<Data>
+		<ID>321</ID>
+		<Name>Gia Luật Tề - Phất Bổng áp cẩu - dmg - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="7000"></Var>	
+	</Data>
+	<Data>
+		<ID>322</ID>
+		<Name>Gia Luật Tề - Phất Bổng áp cẩu - dmg - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.75"></Var>	
+	</Data>
+	<Data>
+		<ID>323</ID>
+		<Name>Gia Luật Tề - Phất Bổng áp cẩu - dmg - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="125"></Var>
+	</Data>
+	<Data>
+		<ID>324</ID>
+		<Name>Gia Luật Tề - Khóa Cẩu nhất thức - DOT - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="200"></Var>	
+	</Data>
+	<Data>
+		<ID>325</ID>
+		<Name>Gia Luật Tề - Khóa Cẩu nhất thức - DOT - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.5"></Var>	
+	</Data>
+	<Data>
+		<ID>326</ID>
+		<Name>Gia Luật Tề - Khóa Cẩu nhất thức - DOT - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="60"></Var>
+	</Data>
+	<Data>
+		<ID>327</ID>
+		<Name>Gia Luật Tề - Khóa Cẩu nhất thức - giam No khi - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="10"></Var>	
+	</Data>
+	<Data>
+		<ID>328</ID>
+		<Name>Gia Luật Tề - Khóa Cẩu nhất thức - giam No khi - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>329</ID>
+		<Name>Gia Luật Tề - Khóa Cẩu nhất thức - giam No khi - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="0.5"></Var>
+	</Data>
+	<Data>
+		<ID>330</ID>
+		<Name>Gia Luật Tề - Khóa Cẩu nhị thức - giam né tránh - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="2500"></Var>	
+	</Data>
+	<Data>
+		<ID>331</ID>
+		<Name>Gia Luật Tề - Khóa Cẩu nhị thức - giam né tránh - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0"></Var>	
+	</Data>
+	<Data>
+		<ID>332</ID>
+		<Name>Gia Luật Tề - Khóa Cẩu nhị thức - giam né tránh - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="25"></Var>
+	</Data>
+	<Data>
+		<ID>333</ID>
+		<Name>Gia Luật Tề - Khóa Cẩu nhị thức - sát thương nổ - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="5000"></Var>	
+	</Data>
+	<Data>
+		<ID>334</ID>
+		<Name>Gia Luật Tề - Khóa Cẩu nhị thức - sát thương nổ - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.7"></Var>	
+	</Data>
+	<Data>
+		<ID>335</ID>
+		<Name>Gia Luật Tề - Khóa Cẩu nhị thức - sát thương nổ - + value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="70"></Var>
+	</Data>
+	<Data>
+		<ID>336</ID>
+		<Name>Khưu Xứ Cơ - Thất Tinh Kiếm (Active skill) - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="8000"></Var>	
+	</Data>
+	<Data>
+		<ID>337</ID>
+		<Name>Khưu Xứ Cơ - Thất Tinh Kiếm (Active skill) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="3"></Var>	
+	</Data>
+	<Data>
+		<ID>338</ID>
+		<Name>Khưu Xứ Cơ - Thất Tinh Kiếm (Active skill) - value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="300"></Var>	
+	</Data>
+	<Data>
+		<ID>339</ID>
+		<Name>Châu Tinh Tinh - Như Lai Thần Chưởng (Active skill) - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3000"></Var>	
+	</Data>
+	<Data>
+		<ID>340</ID>
+		<Name>Châu Tinh Tinh - Như Lai Thần Chưởng (Active skill) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.4"></Var>	
+	</Data>
+	<Data>
+		<ID>341</ID>
+		<Name>Châu Tinh Tinh - Như Lai Thần Chưởng (Active skill) - value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="60"></Var>	
+	</Data>
+	<Data>
+		<ID>342</ID>
+		<Name>Châu Tinh Tinh - Tiếu Di Lặc Thần Công (Passive skill) - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="200"></Var>	
+	</Data>
+	<Data>
+		<ID>343</ID>
+		<Name>Châu Tinh Tinh - Tiếu Di Lặc Thần Công (Passive skill) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.05"></Var>	
+	</Data>
+	<Data>
+		<ID>344</ID>
+		<Name>Châu Tinh Tinh - Tiếu Di Lặc Thần Công (Passive skill) - value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="5"></Var>	
+	</Data>
+	<Data>
+		<ID>345</ID>
+		<Name>Châu Tinh Tinh - Tiếu Di Lặc Thần Công (Passive skill) - thức 2 - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="400"></Var>	
+	</Data>
+	<Data>
+		<ID>346</ID>
+		<Name>Châu Tinh Tinh - Tiếu Di Lặc Thần Công (Passive skill) - thức 2 - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.1"></Var>	
+	</Data>
+	<Data>
+		<ID>347</ID>
+		<Name>Châu Tinh Tinh - Tiếu Di Lặc Thần Công (Passive skill) - thức 2 - value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="10"></Var>	
+	</Data>
+	<Data>
+		<ID>348</ID>
+		<Name>Châu Tinh Tinh - Như Lai Thần Chưởng (Active skill) - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="0.5"></Var>	
+	</Data>
+	<Data>
+		<ID>349</ID>
+		<Name>Châu Tinh Tinh - Như Lai Thần Chưởng (Active skill) - value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="0.5"></Var>	
+	</Data>
+	<Data>
+		<ID>350</ID>
+		<Name>Hoàng Dung - Bổng Đả Song Khuyển (Active skill) - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3000"></Var>	
+	</Data>
+	<Data>
+		<ID>351</ID>
+		<Name>Hoàng Dung - Bổng Đả Song Khuyển (Active skill) - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.4"></Var>	
+	</Data>
+	<Data>
+		<ID>352</ID>
+		<Name>Hoàng Dung - Bổng Đả Song Khuyển (Active skill) - value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="60"></Var>	
+	</Data>
+	<Data>
+		<ID>353</ID>
+		<Name>Hoàng Dung - Bổng Đả Song Khuyển (Active skill) - thức 2 - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="20"></Var>	
+	</Data>
+	<Data>
+		<ID>354</ID>
+		<Name>Hoàng Dung - Bổng Đả Song Khuyển (Active skill) - thức 2 - value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="0.5"></Var>	
+	</Data>
+	<Data>
+		<ID>355</ID>
+		<Name>Hoàng Dung - Bổng Đả Song Khuyển (Active skill) - thức 3 - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="500"></Var>	
+	</Data>
+	<Data>
+		<ID>356</ID>
+		<Name>Hoàng Dung - Bổng Đả Song Khuyển (Active skill) - thức 3 - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.1"></Var>	
+	</Data>
+	<Data>
+		<ID>357</ID>
+		<Name>Hoàng Dung - Bổng Đả Song Khuyển (Active skill) - thức 3 - value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="10"></Var>	
+	</Data>
+	<Data>
+		<ID>358</ID>
+		<Name>Hoàng Dung - Tĩnh Tâm Quyết (Passive skill) - thức 1 - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="3000"></Var>	
+	</Data>
+	<Data>
+		<ID>359</ID>
+		<Name>Hoàng Dung - Tĩnh Tâm Quyết (Passive skill) - thức 1 - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.3"></Var>	
+	</Data>
+	<Data>
+		<ID>360</ID>
+		<Name>Hoàng Dung - Tĩnh Tâm Quyết (Passive skill) - thức 1 - value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="50"></Var>	
+	</Data>
+	<Data>
+		<ID>361</ID>
+		<Name>Hoàng Dung - Tĩnh Tâm Quyết (Passive skill) - thức 2 - base value</Name>
+		<Color>#FFFFFF</Color>
+		<Formula> value </Formula>
+		<Var name="value" value="2000"></Var>	
+	</Data>
+	<Data>
+		<ID>362</ID>
+		<Name>Hoàng Dung - Tĩnh Tâm Quyết (Passive skill) - thức 2 - AP ratio</Name>
+		<Color>#FF0000</Color>
+		<Formula> ap * ratio </Formula>
+		<Var name="ratio" value="0.2"></Var>	
+	</Data>
+	<Data>
+		<ID>363</ID>
+		<Name>Hoàng Dung - Tĩnh Tâm Quyết (Passive skill) - thức 2 - value*LVL</Name>
+		<Color>#00FF00</Color>
+		<Formula> lvl * add</Formula>
+		<Var name="add" value="30"></Var>	
+	</Data>
+</data>

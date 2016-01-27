@@ -1,0 +1,2364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<ID><![CDATA[1]]></ID>
+		<Name><![CDATA[Vị Ương Kiếm Pháp]]></Name>
+		<Description><![CDATA[Hấp thụ sát thương, phục hồi phần trăm sinh lực bản thân, trả lại sát thương lên đối phương.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/ngami1_skill1.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[35,36,37]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[40]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Tạo khiên, hấp thụ {53}(+{54})(+{55}) sát thương ngoại công trong 6 giây. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Hồi phục sinh lực bản thân dựa trên {56}%(+{58}%) sát thương khiên đã chặn được. Hiệu quả tăng theo cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Sau khi hết hiệu lực, khiên nổ gây sát thương lên đối phương xung quanh, dựa trên {59}%(+{61}%) sát thương đã chắn được. Hiệu quả tăng theo cấp kỹ năng.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[2]]></ID>
+		<Name><![CDATA[Nhu Vân Kiếm Pháp]]></Name>
+		<Description><![CDATA[Hồi phục sinh lực bản thân, mọi trạng thái bất lợi không thể xâm phạm. Ở tầng cao nhất, có thể miễn nhiễm sát thương ngoại công.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/ngami1_skill2.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[29,30,31,32]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[44,45,46]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Tự phục hồi {62}(+{63})(+{64}) sinh lực. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Lập tức thanh tẩy các hiệu ứng bất lợi, đồng thời tạo khiên ngăn mọi loại hiệu ứng bất lợi trong 8 giây tiếp theo.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Tạo thêm một lớp khiên, giúp Nga Mi Kiếm miễn nhiễm sát thương ngoại công trong 2.5 giây]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[3]]></ID>
+		<Name><![CDATA[Vạn Tướng Thần Công]]></Name>
+		<Description><![CDATA[Chiêu số tối thượng của Nga Mi Kiếm Tông, gây sát thương lên đối phương, đồng thời giảm sát thương ngoại công của nạn nhân. Ở tầng cao nhất còn có thể hồi phục sinh lực bản thân.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương và giảm ngoại công của đối phương]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_ngami_tamngatenguyet.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[5,33,34]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[8,234,235]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Phóng 3 luồng kiếm khí, mỗi luồng gây {65}(+{66})(+{67}) sát thương lên mục tiêu, đẩy lùi mục tiêu đó. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Thức 1 xảy ra lần thứ 2. Đồng thời, giảm sát thương ngoại công của đối phương trúng chiêu đi {68}(+{69})(+{70}) điểm trong 5 giây. ]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Thức 1 xảy ra lần thứ 3, đồng thời hồi phục bản thân {71}(+{72})(+{73}) sinh lực.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[4]]></ID>
+		<Name><![CDATA[Dư Âm Nhiễu Lương]]></Name>
+		<Description><![CDATA[Chiêu số giúp Nga Mi hồi phục Sinh Lực cho bản thân và đồng đội, tăng kháng ngoại công và kháng nội công.]]></Description>
+		<InGameDescription><![CDATA[Hồi phục sinh lực cho bản thân và đồng đội, tăng kháng ngoại công, kháng nội công]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/ngami2_skill1.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[19,20,21]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[1,2,3]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Hồi phục {74}(+{75})(+{76}) sinh lực cho tất cả thành viên. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Hồi phục {77}(+{78})(+{79}) sinh lực mỗi giây trong 3 giây cho tất cả thành viên. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Tăng {80}(+{81})(+{82}) kháng ngoại và nội công cho tất cả thành viên trong 5 giây. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[5]]></ID>
+		<Name><![CDATA[Mê Tâm Phiêu Hương Khúc]]></Name>
+		<Description><![CDATA[Tuyệt khúc đàn, giúp đồng đội tăng sát thương, tỷ lệ chí mạng, sát thương chí mạng ngoại công và nội công.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/ngami2_skill2.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[33,34,35]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[33,34,35]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Tăng {83}(+{84})(+{85}) ngoại công và {86}(+{87})(+{88}) nội công cho toàn đội trong 5 giây. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Tăng {89}% tỷ lệ bạo kích ngoại công và kỹ năng cho toàn đội trong 5 giây.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Tăng {92}%(+{94}%) sát thương bạo kích ngoại công và kỹ năng cho toàn đội trong 5 giây. Hiệu quả tăng theo cấp kỹ năng.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[6]]></ID>
+		<Name><![CDATA[Nguyệt Thực Khúc]]></Name>
+		<Description><![CDATA[Sát thương đối phương, hồi phục sinh lực đồng đội, giảm khoảng cách bị đánh bật.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/ngami2_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[25,26,27,28]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[36,38,39]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Tiếng đàn gây {95}(+{96})(+{97}) sát thương cho toàn bộ đối phương, đồng thời hồi phục {98}(+{99})(+{100}) sinh lực toàn đội.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Gây thêm 1 lần sát thương như thức thứ 1. Đồng thời ngay lập tức thanh tẩy các hiệu ứng bất lợi : Choáng, câm lặng, mù, làm chậm, giảm ngoại công cho đồng đội.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Hiệu ứng gây sát thương của thức 1 nhảy lần thứ 3. Đồng thời giảm khoảng cách bị đánh bật cho toàn đội đi {101}(+{103}) đơn vị trong 4 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[7]]></ID>
+		<Name><![CDATA[Đả Cẩu Côn Pháp]]></Name>
+		<Description><![CDATA[Tuyệt học trấn phái, nằm trong bổng pháp Đả Cẩu Bổng, gây sát thương đối phương ở phía trước, kèm hiệu ứng xuất huyết và làm choáng.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương và làm choáng đối phương trước mặt]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_caibang_bongdaaccau.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[16]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[47]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Đâm bổng, gây {104}(+{105})(+{106}) sát thương lên đối phương phía trước mặt, đồng thời đánh bật lùi. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Gây xuất huyết, sát thương {107}(+{108})(+{109}) mỗi giây trong 6 giây cho đối phương trúng chiêu. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Sau khi đánh bật đối phương (thức 1), đối phương sẽ bị choáng trong vòng 3 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[8]]></ID>
+		<Name><![CDATA[Du Long Chuyển Phụng]]></Name>
+		<Description><![CDATA[Một chiêu trong Đả Cẩu Bổng Pháp. Gây sát thương lên 4 vùng ngẫu nhiên, kèm theo hiệu ứng tăng chính xác và giảm khoảng cách bị đẩy lùi cho bản thân.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương và làm choáng trên các vùng ngẫu nhiên]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_caibang_batcautrieuthien.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[15]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[51,53,54]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Tạo 4 bổng rơi xuống, gây {110}(+{111})(+{112}) sát thương toàn bộ mục tiêu trong 4 vùng ngẫu nhiên. Kèm hiệu ứng choáng nhẹ 0.5 giây.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Tăng chính xác bản thân lên 100% trong vòng 5 giây. Tạo thêm 4 bổng rơi xuống , gây sát thương như thức 1.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Giảm khoảng cách bị đẩy lùi khi trúng chiêu đi {113}(+{114}) đơn vị trong vòng 5 giây. Thức 1 diễn ra lần thứ 3.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[9]]></ID>
+		<Name><![CDATA[Thâu Thiên Hoán Nhật]]></Name>
+		<Description><![CDATA[Một chiêu thức trong Đả Cẩu Bổng Pháp. Phóng bổng, gây sát thương và làm chậm toàn bộ đối phương.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương và làm chậm toàn bộ mục tiêu]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_caibang_thienhavocau.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[17,18]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[55,58]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Phóng bổng, gây {116}(+{117})(+{118}) sát thương và đánh lui toàn bộ đối phương. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Làm chậm tốc độ di chuyển của đối phương trúng chiêu đi 50% trong 3 giây.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Phóng bổng thứ 2, sát thươn bằng 300% bổng thứ 1 (ở thức 1).]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[10]]></ID>
+		<Name><![CDATA[Phi Long Tại Thiên]]></Name>
+		<Description><![CDATA[Tuyệt học trấn phái, nằm trong bộ chưởng pháp Hàng Long Thập Bát Chưởng. Chưởng kình phát thẳng ra, khuếch đại sát thương ở điểm phát nổ, đẩy lùi đối phương.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương lên một mục tiêu, đồng thời nổ lan sang các mục tiêu xung quanh]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_caibang_philongtaithien.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[6,7]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[9,10,11]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Chưởng ra một rồng, trúng mục tiêu đầu tiên, gây {119}(+{120})(+{121}) sát thương, đẩy lùi mục tiêu. Tại điểm nổ, nổ lan gây {122}(+{123})(+{124}) sát thương lên các mục tiêu lân cận. Hiệu quả tăng theo nội công và cấp kỹ năng]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Gây thêm 1 lần sát thương, với {125}(+{126})(+{127}) sát thương lên một mục tiêu, đẩy lùi. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Gây thêm 1 lần sát thương, với {128}(+{129})(+{130}) sát thương lên một mục tiêu, đẩy lùi. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[11]]></ID>
+		<Name><![CDATA[Kháng Long Hữu Hối]]></Name>
+		<Description><![CDATA[Tuyệt học trấn phái, nằm trong bộ chưởng pháp Hàng Long Thập Bát Chưởng. Gây sát thương lên vùng chỉ định, khi thuần thục còn gây ra thêm hiệu ứng làm choáng đối phương.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương lên vùng chỉ định, khi thuần thục còn gây ra thêm hiệu ứng làm choáng đối phương.]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_caibang_khanglonghuuhoi.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[1]]></TargetType>
+		<Radius><![CDATA[350]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[13]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[4]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Gây {131}(+{132})(+{133}) sát thương lên tất cả đối phương trong vùng chỉ định. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Gây thêm 1 lần sát thương, với {134}(+{135})(+{136}) điểm. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Gây thêm 1 lần sát thương, với {134}(+{135})(+{136}) điểm. Gây choáng mục tiêu trúng chiêu trong 3 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[12]]></ID>
+		<Name><![CDATA[Thần Long Bái Vĩ]]></Name>
+		<Description><![CDATA[Gây sát thương lên toàn bộ đối phương, đánh bật, giảm khắc hỏa.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương lên toàn bộ đối phương, đánh bật, giảm khắc hỏa.]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_caibang_thanlongbaivi.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[14]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[60]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Phát chưởng, gây {137}(+{138})(+{139}) sát thương và đánh bật tất cả đối phương trên đường bay. Đồng thời, giảm 40% khắc hỏa trong vòng 2.5 giây tiếp theo. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Gây thêm 1 lần sát thương bạo kích nội công trên mỗi mục tiêu trúng chiêu.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Gây xuất huyết {140}(+{141})(+{142}) sát thương mỗi giây trong vòng 5 giây cho các mục tiêu trúng chiêu. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[13]]></ID>
+		<Name><![CDATA[Kim Cang Phục Ma]]></Name>
+		<Description><![CDATA[Gầm lên tiếng thét của sư tử bằng toàn bộ nội công vốn có. Gây sát thương cho đối phương, đồng thời tăng sức chống chịu và khắc ngũ hành cho bản thân.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương và làm choáng toàn bộ đối phương]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/icon_thieulam_skill1.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[11,104]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[12,13,14]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Gầm lớn, gây {176}(+{177})(+{178}) sát thương và choáng bộ toàn bộ đối phương trong 0.5 giây. Hiệu quả tăng theo nội công và tầng kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Nạn nhân bị xuất huyết, nhận {179}(+{180})(+{181}) sát thương mỗi giây trong 4 giây.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Tạo lá chắn, tăng {182}(+{183})(+{184}) kháng ngoại công và nội công, đồng thời tăng {185}%(+{187}%) khắc ngũ hành cho bản thân trong 6 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[14]]></ID>
+		<Name><![CDATA[Hoành Tảo Lục Hợp]]></Name>
+		<Description><![CDATA[Nếu ta không vào địa ngục thì ai vào địa ngục. Xông thẳng vào đối phương, đẩy lùi, kèm hiệu ứng giảm sát thương của đối phương.]]></Description>
+		<InGameDescription><![CDATA[Xông thẳng lên, gây sát thương, đồng thời đẩy lùi toàn bộ đối phương]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/icon_thieulam_skill2.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[5,6,7]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Xông tới với tốc độ lớn, gây {188}(+{189})(+{190}) sát thương và đánh bật lùi toàn bộ đối phương trên đường xông tới. Bản thân miễn nhiễm sát thương và đánh bật. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Làm chậm tốc độ di chuyển của đối phương đi 35% trong vòng 4 giây.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Giảm ngoại công của đối phương trúng chiêu đi {191}(+{192})(+{193}) điểm trong vòng 4 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[15]]></ID>
+		<Name><![CDATA[Thiết Bố Sam]]></Name>
+		<Description><![CDATA[Thân thể cường tráng, bất khả xâm phạm. Tạo vùng ảnh hướng, tăng sức chống chịu cho đồng đội, đồng thời gây sát thương lên đối phương.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/icon_thieulam_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[9,10,12]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[31]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Vận khí lan tỏa xung quanh, tăng {194}(+{195})(+{196}) kháng ngoại công, {197}%(+{198}%) khắc ngũ hành cho bản thân và đồng đội trong 6 giây.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Luồng khí này gây {200}(+{201})(+{202}) sát thương mỗi giây lên kẻ địch trong vùng ảnh hưởng.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Luồng khí làm chậm tốc độ di chuyển của đối phương 40%.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[22]]></ID>
+		<Name><![CDATA[Bách Độc Xuyên Tâm]]></Name>
+		<Description><![CDATA[Như đốm lửa xanh trong đêm đen, lao tới đoạt mạng đối phương.]]></Description>
+		<InGameDescription><![CDATA[Nhảy về phía trước, chém và gây choáng nhẹ đối thủ]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_mochoalientram.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[38,39]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[237,241]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Chém 1 luồng đao khí về phía trước, gây {203}(+{204})(+{205}) sát thương cho mục tiêu phía trước trúng phải và gây choáng 1 giây..]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Luồng đao khí tiếp tục xuyên qua trúng mục tiêu tiếp theo, gây sát thương như thức 1.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Luồng đao khí xuyên qua trúng mục tiêu tiếp theo, gây {209}(+{210})(+{211}) sát thương. Đồng thời, tạo cho bản thân một lớp khiên, hấp thụ {212}(+{213})(+{214}) sát thương trong 4 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[23]]></ID>
+		<Name><![CDATA[Triệu Hồn Thuật]]></Name>
+		<Description><![CDATA[Ranh giới Âm Dương mỏng manh, sống và chết là vô thường. Triệu hồi từ bóng tối, sức mạnh không tưởng.]]></Description>
+		<InGameDescription><![CDATA[Triệu hồi bóng trợ giúp trong chiến trận]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_amduongquyet.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[66,67,68]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[73,74,75]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Tạo ra phân thân ảnh thứ nhất, chỉ số bằng {215}%(+{217}%) của bản chủ. Tồn tại tối đa 4 giây.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Tạo phân thân ảnh thứ hai, chỉ số như bóng thứ nhất. Sát thương của bóng hồi phục sinh lực cho bản chủ. Tồn tại tối đa 4 giây.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Tạo phân thân ảnh thứ ba, chỉ số như bóng thứ nhất. Nhận toàn bộ sát thương trong thời gian tồn tại.Tồn tại tối đa 4 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[24]]></ID>
+		<Name><![CDATA[Thiên Ma Nhập Thể]]></Name>
+		<Description><![CDATA[Tắm mình trong bể máu, múa đao loang loáng dưới biển huyết hoa. Đưa bản thân vào trạng thái cuồng loạn, tăng sát thương, phản sát thương nhận phải.]]></Description>
+		<InGameDescription><![CDATA[Tăng sát thương cho bản thân, đồng thời phản lại sát thương nhận phải]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_huyethoacuongloandao.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[69]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[76,77]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Thanh thẩy mọi hiệu ứng bất lợi, đưa bản thân vào trạng thái cuồng loạn 4 giây. Tăng {218}(+{219})(+{220}) ngoại công, {221} tốc chạy, {224}(+{225})(+{226}) kháng ngoại và nội công]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Khi nhận sát thương, sẽ phản lại {227}%(+{229}%) sát thương, tối đa phản lại 60% sát thương nhận vào.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Kết thúc trạng thái, nhân vật sẽ được phục hồi sinh lực dựa trên {230}%(+{232}%) tổng sát thương đã gây ra trong trạng thái cuồng loạn. Tối đa 75%.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[25]]></ID>
+		<Name><![CDATA[Vô Hình Độc]]></Name>
+		<Description><![CDATA[Nhiếp hồn đối thủ, gây sát thương theo thời gian, đồng thời làm đối thủ yếu đi, hồi phục sinh lực cho bản thân.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương theo thời gian, làm đối thủ yếu đi, hồi phục sinh lực cho bản thân.]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thauhonthuat.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[46,52]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[102]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Phát ra niệm khí, ám bóng ma vào đối phương đầu tiên trúng phải, gây {233}(+{234})(+{235}) sát thương mỗi giây trong vòng 3 giây, đồng thời làm câm lặng và giảm 50% khắc Mộc của đối phương.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Sau khi kết thúc thức 1, bóng ma đang ám sẽ phát nổ gây {236}%(+{238}%) sát thương từ tất cả các nguồn mà kẻ bị ám nhận phải trong thời gian bị ám.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Hồi phục cho nhân vật một lượng sinh lực theo {236}%(+{238}%) sát thương nổ của thức 2.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[26]]></ID>
+		<Name><![CDATA[Thiên Cương Địa Sát]]></Name>
+		<Description><![CDATA[Tạo ra đầm lầy chết chóc, gây sát thương theo thời gian, làm chậm và trừ nộ khí của đối phương đi ngang qua.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_cuuututrach.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[1]]></TargetType>
+		<Radius><![CDATA[500]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[45]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[106]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Tạo ra vùng độc theo chỉ định. Đối phương đi trên đó sẽ chịu {239}(+{240})(+{241}) sát thương mỗi giây. Bãi độc tồn tại 15 giây.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Vùng độc làm chậm 25% tốc độ di chuyển của đối phương đi trên đó.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Vùng độc trừ {242}(+{244}) nộ khí của đối phương mỗi giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[27]]></ID>
+		<Name><![CDATA[Âm Phong Thực Cốt]]></Name>
+		<Description><![CDATA[Mưa máu bay ngợp trời, chỉ có máu mới gột rửa được nhơ nhớp của thế gian.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương lên toàn bộ mục tiêu]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_manthienhuyethoavu.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[51,57]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[110]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Niệm bùa chú, làm huyết hoa bay rợp trời. Toàn bộ đối phương sẽ bị rút máu {245}(+{246})(+{247}) mỗi giây trong 3 giây.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Sau khi mưa huyết hoa kết thúc, đối phương nhận thêm một lần sát thương bằng {248}%(+{250}%) tổng sát thương nhận phải từ thức 1.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Kích hoạt thêm một lần thức 2, sát thương {251}%(+{253}%) tổng sát thương từ thức 1.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[28]]></ID>
+		<Name><![CDATA[Chân Vũ Thất Tiệt Kiếm]]></Name>
+		<Description><![CDATA[Gây sát thương lên vùng chỉ định, sát thương tăng lên theo nội công và tầng kỹ năng. Ở cấp độ nhất định còn có tỷ lệ làm mù đối phương.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương lên vùng chỉ định, ở cấp cao còn làm mù đối phương]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_tamhoanhsaonguyet.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[1]]></TargetType>
+		<Radius><![CDATA[350]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[42,43]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[80]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Phóng Kiếm khí, gây {143}(+{144})(+{145}) sát thương lên vùng chỉ định. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Sát thương thức 1 nhảy thêm 3 lần. Làm mù đối phương trúng chiêu trong vòng 2 giây.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Sát thương thức 1 nhảy thêm 3 lần.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[29]]></ID>
+		<Name><![CDATA[Kiếm Phi Kinh Thiên]]></Name>
+		<Description><![CDATA[Kiếm chiêu luân chuyển, bay ngợp trời đất]]></Description>
+		<InGameDescription><![CDATA[Sát thương nhiều mục tiêu đồng thời đẩy lùi]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thaicuckiemvu.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[8]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[84,85,86]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Tạo 7 thanh kiếm phía trước mặt, từng thanh rớt xuống, gây {146}(+{147})(+{148}) sát thương đồng thời đẩy lùi bất kỳ đối phương nào trúng phải.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Tạo thêm 2 thanh kiếm, tổng cộng 9 thanh kiếm.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Tạo thêm 3 thanh kiếm, tổng cộng 12 thanh kiếm.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[30]]></ID>
+		<Name><![CDATA[Vô Thượng Thái Cực Kiếm]]></Name>
+		<Description><![CDATA[Đưa bản thân vào trạng thái Nhân Kiếm Hợp Nhất, tăng tỷ lệ và sát thương bạo kích, tốc chạy, né tránh, đồng thời bất khả xâm phạm với các hiệu ứng bất lợi.]]></Description>
+		<InGameDescription><![CDATA[Tăng tỷ lệ bạo kích, né tránh, tốc độ chạy, miễn nhiễm hiệu ứng bất lợi]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_nhankiemhopnhat.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[41]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[87,88,89]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Thanh tẩy và miễn nhiễm mọi hiệu ứng bất lợi. Tăng {149}%(+{151}%) tỷ lệ chí mạng, tối đa 65%, {152} tốc độ di chuyển, {155}(+{156})(+{157}) né tránh trong 7 giây. ]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Tăng {318}(+{319})(+{320}) ngoại công trong trạng thái Thái Cực Kiếm đồng thời hồi phục ngay 50% nộ khí.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Sát thương bạo kích được gia tăng {158}%(+{160}%) trong trạng thái Nhân Kiếm Hợp Nhất. Hiệu quả tăng theo cấp kỹ năng.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[31]]></ID>
+		<Name><![CDATA[Bác Cập Nhĩ Phục]]></Name>
+		<Description><![CDATA[Chưởng pháp liên miên bất tuyệt, không bắt đầu cũng không kết thúc. Gây sát thương lớn lên mục tiêu đơn lẻ, giảm khắc Thổ của mục tiêu đó.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương lớn lên mục tiêu đơn lẻ, giảm khắc Thổ của mục tiêu đó.]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_vodangmiengchuong.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[47,48,4]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[90,93]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Phóng ra 3 luồng khí, gây {161}(+{162})(+{163}) sát thương mỗi luồng và đẩy lùi lên đối tượng đầu tiên chạm phải. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Giảm 50% khắc Thổ của các mục tiêu chúng chiêu trong 5 giây.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Phóng thêm luồng khí thứ 4, gây {164}(+{165})(+{166}) sát thương và đẩy lùi mục tiêu. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[32]]></ID>
+		<Name><![CDATA[Vô Ngã Vô Kiếm]]></Name>
+		<Description><![CDATA[Nội lực đánh ra theo hình và vị của bát quái. Gây sát thương lên vùng chỉ định, giảm khắc Thổ của đối phương trúng chiêu.]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương lên vùng chỉ định, giảm khắc Thổ của đối phương trúng chiêu.]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_batquaichuong.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[1]]></TargetType>
+		<Radius><![CDATA[350]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[50]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[95]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Giáng Thái Cực đồ vào một vùng đã chọn, gây {167}(+{168})(+{169}) sát thương cho tất cả mục tiêu trong vùng đó. Hiệu quả tăng theo nội công và cấp kỹ năng.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Gây thêm 1 lần sát thương như thức 1.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Gây thêm 1 lần sát thương như thức 1, đồng thời gây choáng giây và giảm 45% khắc Thổ của mục tiêu trúng chiêu trong 4 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[33]]></ID>
+		<Name><![CDATA[Thái Ất Tiêu Dao Công]]></Name>
+		<Description><![CDATA[Tăng toàn diện khả năng tấn công của Võ Đang Khí Tông.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thaithanhthankhi.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[53,54,55,56]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[99,100,101]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="61"><![CDATA[Tăng {291}%(+{293}%) tỷ lệ xảy Thượng Thanh Vô Cực Công, tối đa 90%. Đồng thời tăng 100% tốc độ xuất chiêu trong 6 giây.]]></Effect>
+				<Effect name="Thức 2" require="109"><![CDATA[Kèm theo hiệu ứng tăng {170}%(+{172}%) tỷ lệ bạo kích ngoại công. Tối đa 75%.]]></Effect>
+				<Effect name="Thức 3" require="181"><![CDATA[Đòn đánh ngoại công bỏ qua {173}(+{174})(+{175}) kháng ngoại công của đối phương. Hiệu quả tăng theo nội công và tầng kỹ năng.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[34]]></ID>
+		<Name><![CDATA[Nhất Diệp Tri Thu]]></Name>
+		<Description><![CDATA[Tâm pháp Nga Mi ]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_ngami_bangcongoccot.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[88]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[115]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Khi trúng chiêu, có 25% khả năng tự hồi phục {10} (+{11}) [+{12}] Sinh Lực]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[35]]></ID>
+		<Name><![CDATA[Bất Diệt Tâm Pháp]]></Name>
+		<Description><![CDATA[Tâm pháp trấn phái của đệ tử Nga Mi Khí Tông]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_ngami_thanhamphanxuong.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[88]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[115,117]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Khi trúng chiêu, có 25% khả năng tự hồi phục {10} (+{11}) [+{12}] Sinh Lực]]></Effect>
+				<Effect name="Thức 2" require="61"><![CDATA[Khi đồng đội trúng chiêu, có 10% khả năng hồi phục cho đồng đội đó {13} (+{14}) [+{15}] Sinh Lực]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[36]]></ID>
+		<Name><![CDATA[Phật Quang Chiến Khí]]></Name>
+		<Description><![CDATA[Tâm Pháp trấn phái đệ tử Nga Mi Kiếm Tông]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_ngami_luuthuyngoccot.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[88,89]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[115,212]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Khi trúng chiêu, có 25% khả năng tự hồi phục {10} (+{11}) [+{12}] Sinh Lực]]></Effect>
+				<Effect name="Thức 2" require="61"><![CDATA[Mỗi khi trúng trạng thái bất lợi, có 35% khả năng xóa hiệu ứng ngay lập tức, đồng thời hồi phục cho bản thân {16}  (+{17}) [+{18}] Sinh Lực]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[37]]></ID>
+		<Name><![CDATA[Diệp Thủ Quyết]]></Name>
+		<Description><![CDATA[Tâm pháp nhập môn của Cái Bang, giúp hồi phục Sinh Lực tự nhiên theo thời gian]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_caibang_khatthienthaodia.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[86]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[120]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Cứ mỗi 2 giây, tự động hồi phục một lượng {1} (+{2})[+{3}] Sinh Lực]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[38]]></ID>
+		<Name><![CDATA[Hoạt Bát Lưu Thủ]]></Name>
+		<Description><![CDATA[Tâm Pháp trấn phái của đệ tử Cái Bang Bổng Pháp]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_caibang_tuydiepcuongvu.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[120,121]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Cứ mỗi 3 giây, tự động hồi phục một lượng {1} (+{2})[+{3}] Sinh Lực]]></Effect>
+				<Effect name="Thức 2" require="61"><![CDATA[Đòn đánh thường có tỷ lệ 25% gây choáng nhẹ, đồng thời gây {4} (+{5}) [+{6}] sát thương mỗi giây trong 3 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[39]]></ID>
+		<Name><![CDATA[Hỗn Thiên Khí Công]]></Name>
+		<Description><![CDATA[Tâm Pháp trấn phái của đệ tử Cái Bang Chưởng Pháp]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_caibang_tieudieucong.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[87]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[252,123]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Cứ mỗi 3 giây, tự động hồi phục một lượng {1} (+{2}) [+{3}] Sinh Lực]]></Effect>
+				<Effect name="Thức 2" require="61"><![CDATA[Đòn đánh thường có tỷ lệ 20% gây {7} (+{8}) [+{9}] sát thương lan]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[40]]></ID>
+		<Name><![CDATA[La Hán Trận]]></Name>
+		<Description><![CDATA[Tâm pháp Thiếu Lâm nhập môn, giúp tăng cường kháng ngoại công theo % Sinh Lực đã mất]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thieulam_honthiencong.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[126]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Tăng {25} (+{26})[+{27}] kháng ngoại công với mỗi 1% Sinh Lực đã mất]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[41]]></ID>
+		<Name><![CDATA[Như Lai Thiên Diệp]]></Name>
+		<Description><![CDATA[Tâm pháp trấn phái của đệ tử Thiếu Lâm Côn Pháp]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thieulam_dichcankinh.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[126,127]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Tăng {25}(+{27}) kháng ngoại công với mỗi 1% Sinh Lực đã mất]]></Effect>
+				<Effect name="Thức 2" require="61"><![CDATA[Tăng {28}(+{30}) kháng nội công với mỗi 1% Sinh Lực đã mất. Khi nhân vật dưới 35% Sinh lực, mọi đòn tấn công sẽ không xuyên qua được.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[42]]></ID>
+		<Name><![CDATA[Thế Vân Tung]]></Name>
+		<Description><![CDATA[Tâm Pháp nhập môn của Võ Đang Phái, giúp tăng né tránh theo % Sinh Lực đã mất]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_vodang_toavongvonga.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[128]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Tăng {19} [+{20}] né tránh với mỗi 1% Sinh Lực đã mất]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[43]]></ID>
+		<Name><![CDATA[Thất Tinh Trận]]></Name>
+		<Description><![CDATA[Tâm pháp trấn phái của đệ tử Võ Đang Kiếm Tông]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_vodang_thiendiavocuc.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[128,129]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Tăng {19} [+{20}] né tránh với mỗi 1% Sinh Lực đã mất]]></Effect>
+				<Effect name="Thức 2" require="60"><![CDATA[Tăng {21}% [+{22}%] tỷ lệ bạo kích Ngoại Công và Nội Công với mỗi 1% Sinh Lực đã mất.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[44]]></ID>
+		<Name><![CDATA[Thượng Thanh Vô Cực Công]]></Name>
+		<Description><![CDATA[Tâm pháp trấn phái của đệ tử Võ Đang Khí Tông]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_vodang_thaicucthancong.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[128,130]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Tăng {19} [+{20}] né tránh với mỗi 1% Sinh Lực đã mất]]></Effect>
+				<Effect name="Thức 2" require="61"><![CDATA[Khi xuất chiêu ngoại công, có 20% tỷ lệ chuyển hóa {23}% [+{24}%] nội công thành sát thương thêm vào]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[45]]></ID>
+		<Name><![CDATA[Tạp Nan Dược Kinh]]></Name>
+		<Description><![CDATA[Tâm pháp Ngũ Độc nhập môn, giúp tăng sát thương bạo kích Ngoại Công và Nội Công theo % Sinh Lực đã mất]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thanhhoaphantam.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[131]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Tăng {31}% [+{32}%] Sát thương bạo kích Ngoại công và Nội công với mỗi 1% Sinh Lực đã mất]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[46]]></ID>
+		<Name><![CDATA[Thiên Ma Thần Công]]></Name>
+		<Description><![CDATA[Tâm pháp trấn phái của Ngũ Độc Đao Pháp]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_cankhondainadi.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[131,132]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Tăng {31}% [+{32}%] Sát thương bạo kích Ngoại công và Nội công với mỗi 1% Sinh Lực đã mất]]></Effect>
+				<Effect name="Thức 2" require="61"><![CDATA[Cứ 1% Sinh Lực mất đi, tăng thêm {285} (+{286}) [+{287}] sát thương]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[47]]></ID>
+		<Name><![CDATA[Ngũ Độc Kỳ Kinh]]></Name>
+		<Description><![CDATA[Tâm pháp trấn phái của Ngũ Độc Khí Công]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thanhhoapthancong.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[105]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[131,133]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Tăng {31}% [+{32}%] Sát thương bạo kích Ngoại công và Nội công với mỗi 1% Sinh Lực đã mất]]></Effect>
+				<Effect name="Thức 2" require="61"><![CDATA[Khi xuất chiêu có 30% tỷ lệ gây hiệu ứng hỏa mộc, đốt {288}(+{289}) (+{290}) sát thương mỗi giây trong 3 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[48]]></ID>
+		<Name><![CDATA[Bạch Cốt Trảo]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[1000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[137]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[49]]></ID>
+		<Name><![CDATA[Passive Elites Gain FP I]]></Name>
+		<Description><![CDATA[Elite full FP trong 8 giây]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[139]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[50]]></ID>
+		<Name><![CDATA[Cuồng Liệt Hỏa]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[61]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[140]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[51]]></ID>
+		<Name><![CDATA[Từ Hàng Phổ Độ]]></Name>
+		<Description><![CDATA[Sở học Nga Mi Phái]]></Description>
+		<InGameDescription><![CDATA[Hồi phục sinh lực cho bản thân và đồng đội]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_ngami_phonghoatuyetnguyet.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[142]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Hồi phục bản thân {39}(+{40})[+{41}] sinh lực, đồng thời hồi phục cho đồng đội một nửa số đó]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[52]]></ID>
+		<Name><![CDATA[Khu Xà Côn Pháp]]></Name>
+		<Description><![CDATA[Sở học Cái Bang]]></Description>
+		<InGameDescription><![CDATA[Sát thương nhiều mục tiêu đồng thời đẩy lùi đối phương trước mặt]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_caibang_batthaotamxa.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[78]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[143]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Gây {42}(+{43})[+{44}] sát thương và đẩy lùi toàn bộ đối phương ở trước mặt]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[53]]></ID>
+		<Name><![CDATA[Lục Khí Hóa Ngọc Công]]></Name>
+		<Description><![CDATA[Sở học Võ Đang Phái]]></Description>
+		<InGameDescription><![CDATA[Sát thương nhiều mục tiêu đồng thời đẩy lùi]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_vodang_noloichi.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[73,106]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[145]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Vận kình, xuất chưởng, gây {45}(+{46})[+{47}] sát thương đồng thời đẩy lùi toàn bộ mục tiêu]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[54]]></ID>
+		<Name><![CDATA[Bất Động Minh Vương]]></Name>
+		<Description><![CDATA[Sở học Thiếu Lâm Phái]]></Description>
+		<InGameDescription><![CDATA[Phục hồi sinh lực bản thân, tăng kháng ngoại công và kháng nội công]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thieulam_thietnguucong.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[72]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[147]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Vận công, tăng {33}(+{34})[+{35}] ngoại kháng và nội kháng, đồng thời hồi phục bản thân {36}(+{37})[+{38}] sinh lực]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[55]]></ID>
+		<Name><![CDATA[Độc Sa Chưởng]]></Name>
+		<Description><![CDATA[Sở học Ngũ Độc]]></Description>
+		<InGameDescription><![CDATA[Sát thương nhiều mục tiêu đồng thời đẩy lùi]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_minhgiao_mochoacong.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[62,107]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[148]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Vận kình, xuất chưởng, gây {45}(+{46})[+{47}] sát thương đồng thời đẩy lùi toàn bộ mục tiêu]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[56]]></ID>
+		<Name><![CDATA[Cửu Âm Chân Kinh]]></Name>
+		<Description><![CDATA[Phần tâm pháp của võ công chí tôn vô thượng Cửu Âm Chân Kinh.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_cuuamchankinh.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[150]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[57]]></ID>
+		<Name><![CDATA[Độc Cô Cửu Kiếm]]></Name>
+		<Description><![CDATA[Lấy vô chiêu thắng hữu chiêu, lấy công làm thủ, chỉ biết tấn công, không biết thoái lui. Kiếm chiêu triệt kiếm chiêu thiên hạ vô địch.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_doccocuukiem.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[63,64,65,66,67,68]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[151]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[58]]></ID>
+		<Name><![CDATA[Song Kiếm Hợp Bích]]></Name>
+		<Description><![CDATA[Do tổ sư Cổ Mổ phái sáng lập. Một nhân tình kiếm thi triển Toàn Chân Kiếm Pháp, một nhân tình kiếm còn lại thi triển Cổ Mộ Kiếm Pháp, chiêu số vừa khắc vừa hợp, bất phân bất ly, liên miên bất tuyệt. Là kì học võ lâm.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_songkiemhopbich.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[47,48]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[69,70]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[153]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[59]]></ID>
+		<Name><![CDATA[Ngọc Nữ Tâm Kinh]]></Name>
+		<Description><![CDATA[Tâm phái trấn phái của Cổ Mộ]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_ngocnutamkinh.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[155]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[60]]></ID>
+		<Name><![CDATA[Ngọc Nữ Kiếm Pháp]]></Name>
+		<Description><![CDATA[Kiếm pháp trấn phái Cổ Mộ]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_ngocnukiemphap.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[156]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[61]]></ID>
+		<Name><![CDATA[Băng Tâm Tiên Tử]]></Name>
+		<Description><![CDATA[Một trong những tâm phái trấn phải của Cổ Mộ]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_bangtamtientu.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[157]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[62]]></ID>
+		<Name><![CDATA[Băng Phách Ngân Châm]]></Name>
+		<Description><![CDATA[Trong châm có băng, trong băng có châm, nhất định làm đối thủ vừa tê liệt vừa thiệt hại nặng nề]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_bangphachngantram.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[92]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[159]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[63]]></ID>
+		<Name><![CDATA[Thần Long Bãi Vĩ]]></Name>
+		<Description><![CDATA[Hàng Long Thập Bát Chưởng được thi triển với nội công hùng hậu nhất]]></Description>
+		<InGameDescription><![CDATA[Tầng tối thượng của Thần Long Bãi Vĩ]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thanlongbaivitoithuong.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[95]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[160]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[64]]></ID>
+		<Name><![CDATA[Khiên Nước]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[79]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[162]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[65]]></ID>
+		<Name><![CDATA[Bách Độc Trạch]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[163]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[66]]></ID>
+		<Name><![CDATA[Hồ Ly Mị Thuật]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[165]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[67]]></ID>
+		<Name><![CDATA[Thiết Trảo Công]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[166]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[68]]></ID>
+		<Name><![CDATA[Lưỡng Nghi Kiếm]]></Name>
+		<Description><![CDATA[Tuyệt học Toàn Chân Giáo, giúp tăng tỷ lệ bạo kích và sát thương]]></Description>
+		<InGameDescription><![CDATA[Gia tăng tỷ lệ bạo kích, tốc độ đánh, sát thương trong thời gian ngắn]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_luongnghikiem.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[103]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[168]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Tăng {48}% tỷ lệ bạo kích ngoại công, {260}% tốc độ tấn công, sát thương cộng thêm {50}(+{51})(+{52}) sát thương vào mỗi đòn đánh trong 6 giây]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[69]]></ID>
+		<Name><![CDATA[Loạn Tiêu Đoạt Mệnh]]></Name>
+		<Description><![CDATA[Chiêu số ám toán, một tiêu nhất định lấy mạng một người]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_nhattieudoatmenh.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[169]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Phóng 3 viên đạn, trúng mục tiêu đầu tiên, gây {303}(+{304})(+{305}) sát thương, đẩy lùi mạnh. Nhất Tiêu Đoạt Mệnh áp dụng hiệu ứng Tiêu Giáp Công.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[70]]></ID>
+		<Name><![CDATA[Tuyệt Tình Trảm]]></Name>
+		<Description><![CDATA[Một trảm cắt đứt dây tình]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_tuyettinhtram.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[171]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Chém đao mạnh xuống đất, gây {312}(+{313})(+{314}) sát thương và đẩy lùi đối phương. Tuyệt Tình Trảm áp dụng hiệu ứng Huyết Đao.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[71]]></ID>
+		<Name><![CDATA[Cầm Nã Thủ]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[173]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[73]]></ID>
+		<Name><![CDATA[Sinh Tử Bùa]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[81]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[175]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[74]]></ID>
+		<Name><![CDATA[Cầm Nã Thủ]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[178]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[75]]></ID>
+		<Name><![CDATA[Thái Ất Kiếm]]></Name>
+		<Description><![CDATA[Sở học Toàn Chân, vận khí lên kiếm, tăng bạo kích và sát thương đồng thời nhiều mục tiêu]]></Description>
+		<InGameDescription><![CDATA[Tăng tỷ lệ bạo kích và sát thương lên nhiều mục tiêu trong thời gian ngắn]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thaiatkiem.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[96]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[180]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Vận khí lên kiếm, tăng {254}%(+{255}%) tỷ lệ bạo kích ngoại công, đồng thời đánh thường gây sát thương nhiều mục tiêu cùng lúc trong 6 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[76]]></ID>
+		<Name><![CDATA[Huyết Hoạt Đao]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[198]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[77]]></ID>
+		<Name><![CDATA[Hắc Phiến Khởi Phong]]></Name>
+		<Description><![CDATA[Dùng nội lực hùng hậu, quét quạt tạo lốc xoáy, đẩy lùi đối phương]]></Description>
+		<InGameDescription><![CDATA[Sát thương nhiều mục tiêu đồng thời đẩy lùi]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_hacphienkhoiphong.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[181]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Quạt mạnh, tạo lốc xoáy, gây {264}(+{265})(+{266}) sát thương trên đường bay, đẩy lùi mục tiêu.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[78]]></ID>
+		<Name><![CDATA[Tiểu Vô Tướng Công]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[183]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[79]]></ID>
+		<Name><![CDATA[Long Tượng Bát Nhã Công]]></Name>
+		<Description><![CDATA[Chiêu thức thâm sâu khó lường, vào loại khó luyện thành nhất của Thiếu Lâm]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_longtuongbatnhacong.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[94]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[186]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[80]]></ID>
+		<Name><![CDATA[Passive Boss The Gioi]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[81]]></ID>
+		<Name><![CDATA[Hắc Điểu Áp Phong]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[189]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[82]]></ID>
+		<Name><![CDATA[Hỏa Diệm Sơn]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[75]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[191]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[83]]></ID>
+		<Name><![CDATA[Độc Thù]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[98]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[199]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[84]]></ID>
+		<Name><![CDATA[Quai Ngu Cam Dau]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[83]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[195]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[85]]></ID>
+		<Name><![CDATA[Linh Kiếm Vĩ Hồ]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[85]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[197]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[86]]></ID>
+		<Name><![CDATA[Triệu Hồi Hắc Tử]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[193]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[87]]></ID>
+		<Name><![CDATA[Đả Cẩu Bổng Trận]]></Name>
+		<Description><![CDATA[Tâm pháp để sử dụng tăng hiệu quả bổng pháp Đả Cẩu Bổng]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_dacaubongtran.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[204]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[88]]></ID>
+		<Name><![CDATA[Lạc Anh Miên Chưởng]]></Name>
+		<Description><![CDATA[Chưởng pháp trong bộ Lạc Anh Chưởng của Đào Hoa Đảo.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_lacanhmieuchuong.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[205]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[89]]></ID>
+		<Name><![CDATA[Cáp Mô Công]]></Name>
+		<Description><![CDATA[Nội công trấn phái của Bạch Đà phái, chỉ có Âu Dương Phong mới lĩnh hội tầng cao nhất.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_capmocong.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[207]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[90]]></ID>
+		<Name><![CDATA[Linh Xà Quyền]]></Name>
+		<Description><![CDATA[Tuyệt học do Âu Dương Phong tự sáng tạo, chiêu số uyển chuyển, khó lường. ]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_linhxaquyen.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[297,298,299,300,301]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[209]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[91]]></ID>
+		<Name><![CDATA[Ran Xanh Lon]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[210]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[92]]></ID>
+		<Name><![CDATA[Thiên Thạch Cân]]></Name>
+		<Description><![CDATA[Dùng sức ngàn tạ nâng đá ném thẳng vào kẻ thù]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương nhiều mục tiêu lên các vùng ngẫu nhiên]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thienthachcan.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[124]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[215]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Bắn 3 viên thiên thạch, rớt xuống ngẫu nhiên, gây {261}(+{262})(+{263}) sát thương và làm choáng 0.5 giây toàn bộ đối phương trong tầm ảnh hưởng.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[93]]></ID>
+		<Name><![CDATA[Huyết Độc Bức]]></Name>
+		<Description><![CDATA[Tuyệt học hiếm thấy trên giang hồ, sử dụng dơi làm vũ khí]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương theo thời gian cho đối thủ, hồi phục sinh lực bản thân.]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_huyetdocbuc.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[110]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[217]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Gọi 3 con dơi, bám chặt vào 3 mục tiêu ngẫu nhiêu, gây {267}(+{268})(+{269}) sát thương mỗi giây trong 4 giây. Đồng thời hồi phục cho nhân vật {315}(+{316})(+{317}) sinh lực mỗi giây trong 4 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[94]]></ID>
+		<Name><![CDATA[Thiết Sa Chưởng]]></Name>
+		<Description><![CDATA[Chưởng pháp bạo liệt, được luyện thành với đôi bàn tay chịu sức nóng vô cùng khủng khiếp]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thietsachuong.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[219]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[95]]></ID>
+		<Name><![CDATA[Thất Tinh Kiếm]]></Name>
+		<Description><![CDATA[Một kiếm đánh ra theo phương vị thất tinh, mang sức mạnh thiên địa hợp nhất.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thattinhkiem.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[111,112]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[221]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Phóng 7 thanh kiếm khắp chiến trường, gây {336} (+{337}) (+{338}) sát thương lên toàn bộ đối phương và đồng thời gây choáng 0.5 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[96]]></ID>
+		<Name><![CDATA[Phất Bổng Áp Cẩu]]></Name>
+		<Description><![CDATA[Dùng khẩu quyết chữ Khóa, một bổng quét tan kẻ địch trước mặt.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_phatbongapcau.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[224]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Biến gậy dài ra, đập mạnh về phía trước, gây {321} (+{322}) (+{323}) sát thương phía trước mặt, đẩy lùi rồi choáng nạn nhân 1 giây. Áp dụng đánh dấu 1 điểm khóa lên đối phương trúng chiêu.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[97]]></ID>
+		<Name><![CDATA[Toàn Chân Tâm Pháp]]></Name>
+		<Description><![CDATA[Tâm Pháp trọng yếu của Toàn Chân phái, tăng né tránh, chính xác, ngoại công.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_toanchantamphap.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[227]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Cứ mỗi 1% Sinh lực mất đi, tăng {270}(+{272}) né tránh, chính xác, ngoại công.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[98]]></ID>
+		<Name><![CDATA[Thiết Trụ]]></Name>
+		<Description><![CDATA[Tăng Sinh lực tối đa]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_thiettru.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[228]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Tăng {273}(+{274})(+{275}) sinh lực tối đa]]></Effect>
+		</Effects>
+		<BonusAttributes>
+			<Attribute>
+				<Type><![CDATA[3]]></Type>
+				<ValueType><![CDATA[1]]></ValueType>
+				<BaseValue><![CDATA[1500]]></BaseValue>
+				<APRate><![CDATA[3]]></APRate>
+				<BonusPerLevel><![CDATA[200]]></BonusPerLevel>
+			</Attribute>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[99]]></ID>
+		<Name><![CDATA[Hắc Phiến Tâm Công]]></Name>
+		<Description><![CDATA[Sinh lực càng thấp, ngoại công càng tăng lên]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_hacphientamcong.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[229]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Cứ 1% sinh lực mất đi, tăng {276}(+{278}) điểm ngoại công]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[100]]></ID>
+		<Name><![CDATA[Vọng Thanh Phát Kình]]></Name>
+		<Description><![CDATA[Tăng chính xác và ngoại công]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_vongthanh.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[230]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Tăng chính xác {279}(+{280})(+{281}) điểm và ngoại công {282}(+{283})(+{284}) điểm]]></Effect>
+		</Effects>
+		<BonusAttributes>
+			<Attribute>
+				<Type><![CDATA[411]]></Type>
+				<ValueType><![CDATA[1]]></ValueType>
+				<BaseValue><![CDATA[1000]]></BaseValue>
+				<APRate><![CDATA[3]]></APRate>
+				<BonusPerLevel><![CDATA[50]]></BonusPerLevel>
+			</Attribute>
+			<Attribute>
+				<Type><![CDATA[405]]></Type>
+				<ValueType><![CDATA[1]]></ValueType>
+				<BaseValue><![CDATA[300]]></BaseValue>
+				<APRate><![CDATA[0.5]]></APRate>
+				<BonusPerLevel><![CDATA[30]]></BonusPerLevel>
+			</Attribute>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[101]]></ID>
+		<Name><![CDATA[Passive Elites Gain FP II]]></Name>
+		<Description><![CDATA[Elite full FP trong 7 giây]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[232]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[102]]></ID>
+		<Name><![CDATA[Passive Elites Gain FP III]]></Name>
+		<Description><![CDATA[Elite full FP trong 6 giây]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[233]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 2" require="2"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+				<Effect name="Thức 3" require="3"><![CDATA[gây {1} [+{2}] sát thương lên vùng chỉ định trong khoảng thời gian {3}]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[103]]></ID>
+		<Name><![CDATA[Tiêu Giáp Công]]></Name>
+		<Description><![CDATA[Công phu làm giảm kháng ngoại và kháng nội của đối phương]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_tieugiapcong.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[244]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Đòn đánh tay và kỹ năng của Cừu Thiên Xích khiến đối phương trúng chiêu giảm {294}(+{296}) kháng ngoại công và nội công trong 4 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[104]]></ID>
+		<Name><![CDATA[Dưỡng Lực Công]]></Name>
+		<Description><![CDATA[Công phu tự cường hóa ngoại công theo thời gian]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_duongluccong.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[246]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Cừu Thiên Xích tự chế ra cho mình một loại thuốc cường lực, tăng {297} (+{299}) ngoại công mỗi giây, tối đa {300}(+{302})]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[105]]></ID>
+		<Name><![CDATA[Huyết Đao]]></Name>
+		<Description><![CDATA[Một đao đánh thẳng vào sinh lực của đối phương]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_ huyetdao.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[247]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Đòn đánh tay gây sát thương cộng thêm bằng {306}% (+{308}%) sinh lực hiện tại của đối phương.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[106]]></ID>
+		<Name><![CDATA[Hoạt Đao]]></Name>
+		<Description><![CDATA[Một đao quét tan toàn bộ kẻ thù]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_ hoatdao.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[249]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Đòn đánh tay có tỷ lệ {309}%(+{311}%) gây sát thương lan nhiều mục tiêu, áp dụng hiệu ứng Huyết Đao.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[107]]></ID>
+		<Name><![CDATA[Khóa Cẩu Nhất Thức]]></Name>
+		<Description><![CDATA[Khóa đối phương, gây xuất huyết và giảm tốc độ tăng nộ khí]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_ khoacaunhatthuc.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[249]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Đòn đánh tay và kỹ năng áp dụng 1 điểm khóa lên đối phương trong 2 giây, đối phương không thể né hiệu ứng. Đối phương dính đủ 3 điểm khóa sẽ bị KHÓA trong 4 giây : Xuất huyết {324}(+{325})(+{326}) điểm mỗi giây. Nộ khí nhận vào giảm {327}%(+{329})% .]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[108]]></ID>
+		<Name><![CDATA[Khóa Cẩu Nhị Thức]]></Name>
+		<Description><![CDATA[Khóa đối phương, giảm né tránh và gây sát thương lớn]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_khoacaunhithuc.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[249]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Đối phương đã dính hiệu ứng KHÓA sẽ chịu thêm : Giảm {330}(+{332}) Né tránh. Khi kết thúc hiệu ứng KHÓA, KHÓA nổ, gây {333}({334})(+{335}) sát thương]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[109]]></ID>
+		<Name><![CDATA[Như Lai Thần Chưởng]]></Name>
+		<Description><![CDATA[]]></Description>
+		<InGameDescription><![CDATA[Gây sát thương lên vùng chỉ định, đồng thời giảm kháng ngoại và kháng nội của đối phương.]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/icon_nhu_lai_than_chuong.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[2805]]></TimeCast>
+		<TargetType><![CDATA[1]]></TargetType>
+		<Radius><![CDATA[350]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[253]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Gây sát thương {339}({340})(+{341}) lên vùng chỉ định, đồng thời giảm {348}(+{349})% kháng ngoại và kháng nội của đối phương trong 4 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[110]]></ID>
+		<Name><![CDATA[Tiếu Di Lặc Thần Công]]></Name>
+		<Description><![CDATA[Đòn đánh thường của Châu Tinh Tinh tăng nộ khí cho đồng đội.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/icon_tieu_di_lac_than_cong.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[255]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="1"><![CDATA[Đòn đánh thường tăng nộ khí {342}(+{343})(+{344}) cho toàn đội và tăng nộ khí {345}(+{346})(+{347}) ngẫu nhiên cho 1 đồng đội]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[111]]></ID>
+		<Name><![CDATA[Bổng Đả Song Khuyển]]></Name>
+		<Description><![CDATA[Chưởng pháp trong bộ Lạc Anh Chưởng của Đào Hoa Đảo.]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_lacanhmieuchuong.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[8000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[261,259]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="13"><![CDATA[Bổng đánh 2 mục tiêu ngẫu nhiên phía trước, gây {350}(+{351})(+{352}) sát thương. Đồng thời gây xuất huyết mỗi giây {355}(+{356})(+{357}) sát thương trong 4 giây. 2 Mục tiêu trúng chiêu có khả năng ({353}%)(+{354}%) bị khóa skill và không thể hồi máu trong 3 giây.]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+	<Data>
+		<ID><![CDATA[112]]></ID>
+		<Name><![CDATA[Tĩnh Tâm Quyết]]></Name>
+		<Description><![CDATA[Tâm pháp để sử dụng tăng hiệu quả bổng pháp Đả Cẩu Bổng]]></Description>
+		<InGameDescription><![CDATA[]]></InGameDescription>
+		<IconURL><![CDATA[resource/image/skill/iconskill_dacaubongtran.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<VisualEffectIDs><![CDATA[]]></VisualEffectIDs>
+		<SummonCharacterIDs><![CDATA[]]></SummonCharacterIDs>
+		<ArrStances><![CDATA[264,267]]></ArrStances>
+		<Effects>
+				<Effect name="Thức 1" require="13"><![CDATA[Đòn đánh thường của Hoàng Dung tăng {358}(+{359})(+{360}) chính xác và né tránh cho bản thân Hoàng Dung. Đồng thời tăng {361}(+{362})(+{363}) chính xác cho toàn đội trong 4 giây (Hiệu ứng tăng chính xác sẽ không cộng dồn)]]></Effect>
+		</Effects>
+		<BonusAttributes>
+		</BonusAttributes>
+	</Data>
+</Datas>

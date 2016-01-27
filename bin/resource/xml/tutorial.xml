@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<Data>
+		<ID>1</ID>
+		<SceneID>1</SceneID>
+		<Name>Khoi tao nhan vat chinh</Name>
+		<TriggerConditionType>-1</TriggerConditionType>
+		<TriggerConditionValue>0</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Cot truyen</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL></AnimURL>
+						<AnimIndex></AnimIndex>
+						<ImgNameURL></ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Lời như đồn, Vào năm 201x sau công nguyên, có một thanh niên tên Dương Văn Liệt đam mê võ hiệp, nghiện...thẩm du.]]></Text>
+							<Text><![CDATA[Rảnh háng, Dương Văn Liệt lên núi..."Quay tay" cho qua cơn buồn.]]></Text>
+							<Text><![CDATA[Trong lúc đang phê như con tê tê, thì bất thình lình đạp phải sịp vàng ... trượt chân lộn cổ xuống vực.]]></Text>
+						</Conversations>
+					</Content>
+					<Content>
+						<ID>2</ID>
+						<AnimURL>resource/tutorial/nvbian.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/duongvanliet_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Cái nồi gì thế này, sao không có 3G! Check in éo được!]]></Text>
+						</Conversations>
+					</Content>
+					<Content>
+						<ID>3</ID>
+						<AnimURL></AnimURL>
+						<AnimIndex></AnimIndex>
+						<ImgNameURL></ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Hắn chợt nhận ra đây chính là map săn nhím của <font color='#00FF00'>Võ Lâm Bá Đạo</font>.]]></Text>
+							<Text><![CDATA[Đây chính là nơi các môn phái tàn sát lẫn nhau tranh giành bí kíp võ công?]]></Text>
+							<Text><![CDATA[Vốn là fan cuồng của Kim Dung tào lao truyện, Liệt quyết định viết bí kíp...đểu để kiếm sống.]]></Text>
+							<Text><![CDATA[Dương Văn Liệt hẹn gặp lão Tây Độc Âu Dương Phong để dụ bán Cửu Âm Chân Kinh… giả.]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>2</ID>
+				<Name>Nhan vat chinh chem gio lan 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/nvbian.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/duongvanliet_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Ê Tây Độc, ta biết chú đang tìm "Cửu Âm Chân Kinh".]]></Text>
+							<Text><![CDATA[Tối qua đi đại tiện ta mới nhặt được. Chú muốn có nó không?]]></Text>
+						</Conversations>
+					</Content>
+					<Content>
+						<ID>2</ID>
+						<AnimURL>resource/tutorial/tay_doc_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/taydoc_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[A đệt! Thằng mặt thộn, mày tưởng tao ít học nên tính bán thịt lừa cho tao hả?]]></Text>
+							<Text><![CDATA[Võ công cái thế như ta còn chưa có được, làm sao mài đủ sức mà có được bí kíp ấy?]]></Text>
+						</Conversations>
+					</Content>
+					<Content>
+						<ID>3</ID>
+						<AnimURL>resource/tutorial/nvbian.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/duongvanliet_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Chú còn non và xanh lắm, hãy xem <font color='#00FF00'>Hoa Cải Thần Công</font> của đất cảng <font color='#00FF00'>Hải Phòng</font> đây?]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>3</ID>
+				<Name>Nhan vat chinh chem gio lan 2</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/tay_doc_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/taydoc_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Á đù! Quả thất lễ.]]></Text>
+							<Text><![CDATA[Chiêu thức này là võ công môn phái nào vậy?]]></Text>
+							<Text><![CDATA[Chỉ cần chú đưa cho ta bí kíp, ta sẽ tặng chú nguyên set Hoàng Kim Môn Phái max option, 1 Ngựa Phiên Vũ và đặc biệt là 1 cặp Nhẫn Vô Danh ta mới ăn cắp được?]]></Text>
+						</Conversations>
+					</Content>
+					<Content>
+						<ID>2</ID>
+						<AnimURL>resource/tutorial/nvbian.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/duongvanliet_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Thôi được, ta đồng ý! ]]></Text>
+							<Text><![CDATA[Đến canh 3 gà gáy thì chịu khó quay tay 8 lần, mỗi lần quay 15 phút, mỗi phút đổi tay một lần.]]></Text>
+							<Text><![CDATA[Nếu chăm chỉ luyện tập thì thiên hạ đệ nhất quay tay sẽ thuộc về người!]]></Text>
+						</Conversations>
+					</Content>
+					<Content>
+						<ID>3</ID>
+						<AnimURL>resource/tutorial/tay_doc_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/taydoc_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Hahaha! Ta sắp vô địch cmnr!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>4</ID>
+				<Name>Stage3: Tay Doc luyen theo chi dan va bi liet duong</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL></AnimURL>
+						<AnimIndex></AnimIndex>
+						<ImgNameURL></ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Sau khi luyện theo chỉ dẫn, 7x7=49 ngày, Tây Độc bị tay quặp chân run, cây "hàng" dần biến mất và trở nên điên loạn, quyết tìm Dương Văn Liệt trả thù]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>5</ID>
+				<Name>Stage4: Tay Doc chui DVL vi chi bay</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/tay_doc_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/taydoc_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Thằng cờ hó, chơi chó vê lờ.]]></Text>
+							<Text><![CDATA[Chỉ vì quyển "Thủ Dâm Chân Kinh" của ngươi mà ta ra nông nỗi này. Kêu gia đình đến nhận xác đê con!]]></Text>
+						</Conversations>
+					</Content>
+					<Content>
+						<ID>2</ID>
+						<AnimURL>resource/tutorial/nvbian.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/duongvanliet_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Chết mịa! Nó điên thật rồi, không lẽ ta phải bỏ mạng ở nơi này sao? Heo mi, heo mi!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>6</ID>
+				<Name>DQ TLN doi thoai voi LMS</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Thằng Độc dừng tay! Móa thằng biến thái, bữa ăn cắp quần chip của vợ tao chưa trả, giờ còn giở trò đồi bại giữa ban ngày hả? Ngươi tới số rồi!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>7</ID>
+				<Name>LMS chem gio rui chay</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/tay_doc_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/taydoc_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Các ngươi khá lắm. Hãy đợi đấy!!!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>8</ID>
+				<Name>DQ TLN noi chuyen voi nhan vat</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/nvbian.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL></ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Mém đái ra quần! ]]></Text>
+							<Text><![CDATA[Đa tạ 2 vị đại hiệp. ]]></Text>
+						</Conversations>
+					</Content>
+					<Content>
+						<ID>2</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Xem ra tư chất của ngươi cũng không… bình thường. Thôi được!  Ta sẽ giúp ngươi.]]></Text>
+							<Text><![CDATA[Có khai sinh, thì phải có môn phái. Có môn phái thì mới khoái đánh nhau.]]></Text>
+							<Text><![CDATA[Hãy tự chọn cho mình một môn phái trước đi!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+	<Data>
+		<ID>2</ID>
+		<SceneID>2</SceneID>
+		<Name>Nhiem vu chinh tuyen</Name>
+		<TriggerConditionType>1</TriggerConditionType>
+		<TriggerConditionValue>1</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Tốt lắm, ngươi đã chọn xong môn phái.]]></Text>
+							<Text><![CDATA[Giang hồ hiểm ác, không bằng.. mạng lag và die. Mà võ công thì "dục tốc bất đạt", cứ từ từ là không sợ lag.]]></Text>
+							<Text><![CDATA[Trước tiên, hãy hoàn thành những <font color='#00FF00'>nhiệm vụ</font> ta giao cho, ngươi sẽ nhanh chóng thoát kiếp FA!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>				
+			</Action>
+			<Action>
+				<ID>2</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>0</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Nhiệm vụ đầu tiên của ngươi là phải hoàn thành ải Tung Sơn 1 để tăng kinh nghệm chống .. cưỡng hiếp.]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>3</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Tung Sơn vốn là vùng đất hoang dã, xông pha nhưng đừng hiến máu phí phạm.]]></Text>
+							<Text><![CDATA[Nhiệm vụ lần này cũng không quá gian nan, dễ như ăn dế! Đi thôi !]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>4</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>0</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Sau khi hoàn thành nhiệm vụ, ngươi sẽ nhận được <font color='#00FF00'>phần thưởng</font>, nhận lấy và đừng chia cho thằng khác nhé!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>5</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>0</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Nhiệm vụ tiếp theo kìa, hãy tiếp tục hoàn thành để nhanh chóng <font color='#00FF00'>mạnh mẽ. Tích cực vận động tay, vận may sẽ tới</font>!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>6</ID>
+				<Name>Doi thoai tro lai</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>0</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Lo hái hoa bắt bướm, thiếu hiệp vẫn <font color='#00FF00'>chưa hoàn thành nhiệm vụ</font> đầu tiên.]]></Text>
+							<Text><![CDATA[Cất bướm vào đi, luyện tập lại nào!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+	<Data>
+		<ID>3</ID>
+		<SceneID>3</SceneID>
+		<Name>Nhiem vu chinh tuyen</Name>
+		<TriggerConditionType>1</TriggerConditionType>
+		<TriggerConditionValue>2</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Hảo hảo, giờ hãy <font color='#00FF00'>thử sức</font> với nhiệm vụ tiếp theo!]]></Text>							
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>2</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Chúng ta không thể chống lại những thằng *** vì chúng quá đông và nguy hiểm. Thiếu hiệp cần phải có sự <font color='#00FF00'>trợ giúp</font> của các <font color='#00FF00'>hảo hữu</font> khác.]]></Text>
+							<Text><![CDATA[Hãy mở Đội Hình, ta sẽ <font color='#00FF00'>giúp</font> ngươi có đồng đội "chất mà chắc".]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>3</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Bây giờ hãy thử <font color='#00FF00'>chiến đấu lại</font>. Ta chắc ngươi đã <font color='#00FF00'>mạnh hơn trước</font> rồi đó.]]></Text>
+							<Text><![CDATA[Đánh nó ngất trên cành quất, bẹp như con tép luôn điiii!!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>4</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Thiếu hiệp đầu to nhưng óc lớn hơn trái nho, đã <font color='#00FF00'>nắm</font> được những phần <font color='#00FF00'>cơ bản nhất</font> rồi đấy.]]></Text>
+							<Text><![CDATA[Bây giờ hãy tiếp tục làm nhiệm vụ.]]></Text>
+							<Text><![CDATA[Khi có <font color='#00FF00'>khó khăn, hãy khóc gọi Bụt</font>, ta sẽ lại giúp ngươi.]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>5</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Mừng ngươi đã trở lại và ...ăn hại hơn xưa. Ta sẽ <font color='#00FF00'>hướng dẫn</font> ngươi tiếp tục <font color='#00FF00'>Chiến dịch</font>.]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>6</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Chúng ta không thể chống lại những thằng *** vì chúng quá đông và nguy hiểm. Thiếu hiệp cần phải có sự <font color='#00FF00'>trợ giúp</font> của các <font color='#00FF00'>hảo hữu</font> khác..]]></Text>
+							<Text><![CDATA[Hãy mở Đội Hình, ta sẽ <font color='#00FF00'>giúp</font> ngươi có đồng đội "chất mà chắc".]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>7</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Thiếu hiệp đầu to nhưng óc lớn hơn trái nho, đã <font color='#00FF00'>nắm</font> được những phần <font color='#00FF00'>cơ bản nhất</font> rồi đấy.]]></Text>
+							<Text><![CDATA[Bây giờ hãy tiếp tục làm nhiệm vụ.]]></Text>
+							<Text><![CDATA[Khi có <font color='#00FF00'>khó khăn, hãy khóc gọi Bụt</font>, ta sẽ lại giúp ngươi.]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>8</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>-1</Direction>
+						<Conversations>
+							<Text><![CDATA[Thiếu hiệp cứ mãi thích tự sướng, vẫn chưa chinh phục được Tung Sơn 3]]></Text>
+							<Text><![CDATA[<font color='#00FF00'>Xấu nhưng biết phấn đấu, hãy thử lại nào !</font>]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+	<Data>
+		<ID>4</ID>
+		<SceneID>4</SceneID>
+		<Name>Nhiem vu chinh tuyen</Name>
+		<TriggerConditionType>2</TriggerConditionType>
+		<TriggerConditionValue>3</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Khóc khóc khóc hoài, ta <font color='#00FF00'>đã trở lại</font> để giúp ngươi đây !]]></Text>
+							<Text><![CDATA[Hảo hảo, ngươi đã <font color='#00FF00'>giải cứu</font> được nhiều đệ tử các phái.]]></Text>
+							<Text><![CDATA[Họ sẽ giúp ngươi <font color='#00FF00'>tăng công lực và trở nên mạnh mẽ</font> hơn để tiêu diệt những kẻ ... xấu hơn ngươi.]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>2</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Bây giờ ngươi đã rất mạnh rồi, hãy chơi lại Tung Sơn 5 nào]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>3</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[<font color='#00FF00'>Chuẩn không cần chỉnh!</font>]]></Text>
+							<Text><![CDATA[Hãy <font color='#00FF00'>luyện công thường xuyên, ăn nhiều Vitamin để nâng cao sức mạnh nhé !</font>]]></Text>
+							<Text><![CDATA[Tiếp tục <font color='#00FF00'>hành tẩu</font> đi, đến giờ ta phải <font color='#00FF00'>về trả bài rồi</font> !]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+	<Data>
+		<ID>5</ID>
+		<SceneID>5</SceneID>
+		<Name>Thang cap sao</Name>
+		<TriggerConditionType>3</TriggerConditionType>
+		<TriggerConditionValue>12</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Bây giờ ngươi đã đạt 12 thành công lực.]]></Text>
+							<Text><![CDATA[<font color='#00FF00'>Đã đến lúc chuyển chức trách</font>.]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>2</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Đầu tiên, ngươi hãy <font color='#00FF00'>đưa</font> nhân vật vào <font color='#00FF00'>để thăng cấp</font>.]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>3</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Chúc mừng ngươi đã <font color='#00FF00'>chuyển chức trách</font> thành công.]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>4</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Bây giờ ta sẽ hướng dẫn ngươi về <font color='#00FF00'>Kỹ Năng</font>]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+	<Data>
+		<ID>6</ID>
+		<SceneID>6</SceneID>
+		<Name>Thang cap sao</Name>
+		<TriggerConditionType>5</TriggerConditionType>
+		<TriggerConditionValue>1</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Chúc mừng ngươi đã <font color='#00FF00'>thăng cấp kỹ năng</font> thành công.]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>2</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>1</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[<font color='#00FF00'>Ngươi cần học nâng cấp kỹ năng</font>.]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+	<Data>
+		<ID>7</ID>
+		<SceneID>7</SceneID>
+		<Name>Sử dụng skill</Name>
+		<TriggerConditionType>6</TriggerConditionType>
+		<TriggerConditionValue>7</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Ngon lành cành đào, mừng ngươi đã thăng cấp kỹ năng thành công.]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+	<Data>
+		<ID>8</ID>
+		<SceneID>8</SceneID>
+		<Name>Dã tẩu</Name>
+		<TriggerConditionType>4</TriggerConditionType>
+		<TriggerConditionValue>10</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Cuối cùng chú cũng đạt level 10, đã đến lúc đi làm nhiệm vụ Dã tẩu]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>2</ID>
+				<Name>Doi thoai step 2</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Tốt rồi, ngoại trừ săn bắn hái lượm, từ giờ ngươi đã biết thêm cách kiếm vật phẩm rồi nhé !!!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+	<Data>
+		<ID>9</ID>
+		<SceneID>9</SceneID>
+		<Name>Bói Mệnh Khí</Name>
+		<TriggerConditionType>4</TriggerConditionType>
+		<TriggerConditionValue>12</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Trông ngươi có vẻ hơi yếu nhỉ … ta sẽ chỉ ngươi tăng cường sức mạnh bằng Mệnh khí]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>2</ID>
+				<Name>Doi thoai step 2</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Giờ ngươi đã biết làm sao để mạnh mẽ hơn rồi đúng không ? Hãy cố gắng sưu tầm Mệnh Khí cao cấp nhé haha!!!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+	<Data>
+		<ID>10</ID>
+		<SceneID>10</SceneID>
+		<Name>Đưa thư</Name>
+		<TriggerConditionType>4</TriggerConditionType>
+		<TriggerConditionValue>14</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Tình hình Võ Lâm nguy cấp, ta cần phải về Quay … à nhầm , ta cần phải về báo tin cho Dung Nhi. Ngươi hãy giúp ta Đưa Thư đế các Chưởng môn phái nhé !]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>2</ID>
+				<Name>Doi thoai step 2</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Haha đa tạ ngươi , người giúp ta có nhiều thời gian bên Dung Nhi của ta hơn!!!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+	<Data>
+		<ID>11</ID>
+		<SceneID>11</SceneID>
+		<Name>Anh Hùng Ải</Name>
+		<TriggerConditionType>4</TriggerConditionType>
+		<TriggerConditionValue>21</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[À, trông có vẻ ngươi cũng đã "đủ lông đủ cánh" rồi nhỉ, giờ hãy giúp ta … đi làm thịt mấy con heo và cờ hó ở Anh Hùng Ải nhé !]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>2</ID>
+				<Name>Doi thoai khi thang</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Haha đa tạ ngươi , người giúp ta có nhiều thời gian bên Dung Nhi của ta hơn!!!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>3</ID>
+				<Name>Doi thoai khi thua</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Rất tốt, thắng thua là chuyện thường tình … hãy cố gắng lên luyện tập chăm chỉ, vận may sẽ đến!!!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+	<Data>
+		<ID>12</ID>
+		<SceneID>12</SceneID>
+		<Name>Leo Tháp</Name>
+		<TriggerConditionType>4</TriggerConditionType>
+		<TriggerConditionValue>24</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Đã lâu không gặp, ngươi dạo này còn bán Bí kíp đểu dạo … nữa không ?]]></Text>
+							<Text><![CDATA[Ta chỉ cho ngươi nơi tìm được các loại Bí Kíp võ lâm cao thủ đây. Hãy tham gia Tháp Cao Thủ nhé!]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>2</ID>
+				<Name>Doi thoai step 2</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Thấy chưa , ta đã bảo mà, dễ như ăn cháo thôi …]]></Text>
+							<Text><![CDATA[Từ giờ ngươi có thể tìm bí kíp "thật" ở đây mà bán, không cần phải bán bí kíp "quay tay chân kinh" của ngươi nữa]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+	<Data>
+		<ID>13</ID>
+		<SceneID>13</SceneID>
+		<Name>Trận Hình</Name>
+		<TriggerConditionType>4</TriggerConditionType>
+		<TriggerConditionValue>35</TriggerConditionValue>
+		<Actions>
+			<Action>
+				<ID>1</ID>
+				<Name>Doi thoai step 1</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Ồ nhà ngươi tiến bộ thần tốc nhỉ, tư chất thật "không bình thường" rất tốt …]]></Text>
+							<Text><![CDATA[Đã đến lúc ngươi phải biết đến "xếp hình" … à không "Xếp Trận hình" cùng các đồng đội để tăng cường sức mạnh]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+			<Action>
+				<ID>2</ID>
+				<Name>Doi thoai step 2</Name>
+				<Type>1</Type>
+				<Contents>
+					<Content>
+						<ID>1</ID>
+						<AnimURL>resource/tutorial/quach_tinh_tut.banim</AnimURL>
+						<AnimIndex>0</AnimIndex>
+						<ImgNameURL>resource/tutorial/quachtinh_ten.png</ImgNameURL>
+						<LayerMask>1</LayerMask>
+						<Direction>1</Direction>
+						<Conversations>
+							<Text><![CDATA[Xếp … Trận hình giúp tăng thêm sức mạnh của ngươi và đồng đội đấy, hãy chú ý "xếp" đều nhé]]></Text>
+						</Conversations>
+					</Content>
+				</Contents>
+			</Action>
+		</Actions>
+	</Data>
+</data>

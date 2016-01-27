@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Datas>
+	<Data>
+		<ID><![CDATA[1]]></ID>
+		<Content><![CDATA[Chúc mừng Các hạ đã truyền công thành công.]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[2]]></ID>
+		<Content><![CDATA[Truyền công thất bại T_T]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[3]]></ID>
+		<Content><![CDATA[Thăng cấp sao thành công.]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[4]]></ID>
+		<Content><![CDATA[Thăng cấp sao chưa thành công T_T]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[5]]></ID>
+		<Content><![CDATA[Chuyển chức trách thành công!]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[6]]></ID>
+		<Content><![CDATA[Chuyển chức trách thất bại!]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[7]]></ID>
+		<Content><![CDATA[Không thể sử dụng nhân vật trong đội hình để truyền công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[8]]></ID>
+		<Content><![CDATA[Không thể sử dụng nhân vật chính để truyền công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[9]]></ID>
+		<Content><![CDATA[Không thể truyền công cho Cao nhân ẩn danh]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[10]]></ID>
+		<Content><![CDATA[Không thể sử dụng Nhân vật Huyền Thoại để truyền công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[11]]></ID>
+		<Content><![CDATA[Nhân vật tương khắc, không thể truyền công được]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[12]]></ID>
+		<Content><![CDATA[Chúc mừng Các hạ đã nhận thưởng thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[13]]></ID>
+		<Content><![CDATA[Nhận thưởng thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[14]]></ID>
+		<Content><![CDATA[Bạn không đủ thiên thư tàn quyển để tiếp tục thăng sao]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[15]]></ID>
+		<Content><![CDATA[Đồng đội của bạn đã đầy, bạn không thể nhận thưởng lúc này]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[16]]></ID>
+		<Content><![CDATA[Đã nhận thưởng]]></Content>
+	</Data>
+		<Data>
+		<ID><![CDATA[17]]></ID>
+		<Content><![CDATA[Thuê đại hiệp thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[18]]></ID>
+		<Content><![CDATA[Thuê đại hiệp thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[19]]></ID>
+		<Content><![CDATA[Kho mệnh khí đã đầy, không thể nhận tiếp mệnh khí]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[20]]></ID>
+		<Content><![CDATA[Kho đã đầy..., không thể bói tiếp]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[21]]></ID>
+		<Content><![CDATA[Nâng cấp trận hình thành công.]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[22]]></ID>
+		<Content><![CDATA[Nâng cấp trận hình thất bại.]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[23]]></ID>
+		<Content><![CDATA[Nhân vật đã đạt tối đa công lực.]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[24]]></ID>
+		<Content><![CDATA[Nâng cấp mệnh khí thành công!]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[25]]></ID>
+		<Content><![CDATA[Nâng cấp mệnh khí thất bại!]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[26]]></ID>
+		<Content><![CDATA[Thiếu bạc để nâng cấp trận hình!]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[27]]></ID>
+		<Content><![CDATA[Trận hình đã đạt cấp tối đa của account, cần nâng cấp cấp của account!]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[28]]></ID>
+		<Content><![CDATA[Không đủ bạc để bói!]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[29]]></ID>
+		<Content><![CDATA[Số lượt bói đã hết!]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[30]]></ID>
+		<Content><![CDATA[Bạn không phải là thành viên Vip!]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[31]]></ID>
+		<Content><![CDATA[Tính năng đang bảo trì, bạn quay lại sau nhé!]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[32]]></ID>
+		<Content><![CDATA[Mệnh khí đã đạt cấp cao nhất!]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[33]]></ID>
+		<Content><![CDATA[Tài khoản này đã bị đăng nhập ở nơi khác]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[34]]></ID>
+		<Content><![CDATA[Tên này đã được đăng kí trước đó]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[35]]></ID>
+		<Content><![CDATA[Đạt giới hạn mở khóa hiện tại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[36]]></ID>
+		<Content><![CDATA[Mở khóa thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[37]]></ID>
+		<Content><![CDATA[Không đủ xu để mở khóa]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[38]]></ID>
+		<Content><![CDATA[Hồi phục sinh lực thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[39]]></ID>
+		<Content><![CDATA[Hồi phục sinh lực thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[40]]></ID>
+		<Content><![CDATA[Không đủ xu để hồi phục]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[41]]></ID>
+		<Content><![CDATA[Bạn chưa là vip]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[42]]></ID>
+		<Content><![CDATA[Thành viên Vip mới mua được ...]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[43]]></ID>
+		<Content><![CDATA[Không đủ bạc]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[44]]></ID>
+		<Content><![CDATA[Hồi phục thể lực thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[45]]></ID>
+		<Content><![CDATA[Hồi phục thể lực thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[46]]></ID>
+		<Content><![CDATA[Không đủ xu để hồi phục]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[47]]></ID>
+		<Content><![CDATA[Vượt quá giới hạn mua thể lực trong ngày]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[48]]></ID>
+		<Content><![CDATA[Mua vượt quá giới hạn thể lực]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[49]]></ID>
+		<Content><![CDATA[Không đủ xu]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[50]]></ID>
+		<Content><![CDATA[Nhận quà thi đấu Hoa Sơn Luận Kiếm thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[51]]></ID>
+		<Content><![CDATA[Nhận quà thi đấu Hoa Sơn Luận Kiếm thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[52]]></ID>
+		<Content><![CDATA[Không đủ xu để bỏ qua thời gian chờ trong Hoa Sơn Luận Kiếm]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[53]]></ID>
+		<Content><![CDATA[Không thể thuê nhân vật đã dùng trong đội hình hoặc đã dùng trong nhiệm vụ khác]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[54]]></ID>
+		<Content><![CDATA[Đã hoàn thành số nhiệm vụ tối đa trong ngày. Không thể thực hiện tác vụ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[55]]></ID>
+		<Content><![CDATA[Không đủ xu để bỏ qua giới hạn số lần chơi miễn phí trong Hoa Sơn Luận Kiếm]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[56]]></ID>
+		<Content><![CDATA[Không đủ số lần quay may mắn. Tiêu vàng để nhận thêm lần quay.]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[57]]></ID>
+		<Content><![CDATA[Nhận quà thi đấu Võ Lâm Minh Chủ thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[58]]></ID>
+		<Content><![CDATA[Nhận quà thi đấu Võ Lâm Minh Chủ thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[59]]></ID>
+		<Content><![CDATA[Không đủ xu để bỏ qua thời gian chờ trong Võ Lâm Minh Chủ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[60]]></ID>
+		<Content><![CDATA[Tùy chọn phần thưởng để hoàn thành nhiệm vụ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[61]]></ID>
+		<Content><![CDATA[Nhận thưởng nhiệm vụ trước khi tìm kiếm nhiệm vụ mới]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[62]]></ID>
+		<Content><![CDATA[Hoàn thành nhiệm vụ đang kích hoạt trước khi tìm kiếm nhiệm vụ mới]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[63]]></ID>
+		<Content><![CDATA[Thùng đồ đã đầy, không thể nhận quà hoàn thành nhiệm vụ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[64]]></ID>
+		<Content><![CDATA[Không đủ xu để hoàn thành nhanh nhiệm vụ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[65]]></ID>
+		<Content><![CDATA[Thùng đồ đã đầy, không thể nhận quà hoàn thành nhiệm vụ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[66]]></ID>
+		<Content><![CDATA[Không đủ xu để thực hiện đổi nhiệm vụ mới]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[67]]></ID>
+		<Content><![CDATA[Không đủ xu để hoàn thành nhanh nhiệm vụ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[68]]></ID>
+		<Content><![CDATA[Không đủ item để nâng cấp trận hình]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[69]]></ID>
+		<Content><![CDATA[Thất bại do bạn chưa đủ may mắn, thử lại đi nha]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[70]]></ID>
+		<Content><![CDATA[Đã hoàn thành số nhiệm vụ tối đa trong ngày. Không thể thực hiện tác vụ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[71]]></ID>
+		<Content><![CDATA[Nâng cấp võ công thành công]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[72]]></ID>
+		<Content><![CDATA[Không đủ võ kinh để nâng cấp]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[73]]></ID>
+		<Content><![CDATA[Nâng cấp võ công thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[74]]></ID>
+		<Content><![CDATA[Nhận quà thi đấu Tam Hùng Kì Hiệp thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[75]]></ID>
+		<Content><![CDATA[Nhận quà thi đấu Tam Hùng Kì Hiệp thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[76]]></ID>
+		<Content><![CDATA[Mua vật phẩm thất bại, không thỏa điều kiện mua]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[77]]></ID>
+		<Content><![CDATA[Mua vật phẩm thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[78]]></ID>
+		<Content><![CDATA[Chọn mệnh khí cần ghép trước khi thực hiện nâng cấp]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[79]]></ID>
+		<Content><![CDATA[Chúc mừng các hạ ghép mệnh khí thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[80]]></ID>
+		<Content><![CDATA[Không thể dùng nhân vật này trong đội hình]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[81]]></ID>
+		<Content><![CDATA[Không thể dùng nhân vật đã có trong đội hình]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[82]]></ID>
+		<Content><![CDATA[Đội hình đã đầy không thể dùng thêm nhân vật]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[83]]></ID>
+		<Content><![CDATA[Không thể thiếu nhân vật chính]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[84]]></ID>
+		<Content><![CDATA[Võ công đã đạt cấp độ của nhân vật không thể nâng cấp]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[85]]></ID>
+		<Content><![CDATA[Các đệ tử đã đầy, không thể hoàn thành nhiệm vụ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[86]]></ID>
+		<Content><![CDATA[Thùng đồ đã đầy, không thể mua thêm vật phẩm]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[87]]></ID>
+		<Content><![CDATA[Không có đủ nguyên liệu để mua vật phẩm]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[88]]></ID>
+		<Content><![CDATA[Đã hết số lượng mua cho phép trong ngày]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[89]]></ID>
+		<Content><![CDATA[Quá thời gian không thể mua vật phẩm]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[90]]></ID>
+		<Content><![CDATA[Không đủ cấp độ để mua vật phẩm này]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[91]]></ID>
+		<Content><![CDATA[Nhân vật không thỏa điều kiện Đưa Thư]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[92]]></ID>
+		<Content><![CDATA[Đã hết số lần bói mệnh trong ngày, các hạ hãy quay lại vào hôm sau]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[93]]></ID>
+		<Content><![CDATA[Đã hết số lượt chơi mua thêm trong ngày, các hạ hãy quay lại vào hôm sau]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[94]]></ID>
+		<Content><![CDATA[Chọn phòng trước khi tham gia]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[95]]></ID>
+		<Content><![CDATA[Trang bị mệnh khí thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[96]]></ID>
+		<Content><![CDATA[Không thể trang bị thêm loại mệnh khí này]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[97]]></ID>
+		<Content><![CDATA[Tăng cường khai thác thành công]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[98]]></ID>
+		<Content><![CDATA[Tăng cường khai thác thất bại]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[99]]></ID>
+		<Content><![CDATA[Đã quá thời gian tăng cường khai thác]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[100]]></ID>
+		<Content><![CDATA[Không đủ vàng để tăng cường khai thác]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[101]]></ID>
+		<Content><![CDATA[Tài nguyên đã được tăng cường khai thác trước đó]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[102]]></ID>
+		<Content><![CDATA[Kích hoạt bảo vệ thành công]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[103]]></ID>
+		<Content><![CDATA[Kích hoạt bảo vệ thất bại]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[104]]></ID>
+		<Content><![CDATA[Không đủ vàng để kích hoạt bảo vệ]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[105]]></ID>
+		<Content><![CDATA[Đã vượt quá số lần có thể kích hoạt bảo vệ trong ngày]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[106]]></ID>
+		<Content><![CDATA[Tài nguyên đã được kích hoạt bảo vệ trước đó]]></Content>
+	</Data>		
+	<!-- need insert more here to reach next full -->
+	<Data>
+		<ID><![CDATA[120]]></ID>
+		<Content><![CDATA[Không thể gắn loại mệnh khí này vào nhân vật]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[121]]></ID>
+		<Content><![CDATA[Không thể dùng loại mệnh khí này để ghép]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[122]]></ID>
+		<Content><![CDATA[Chưa hết thời gian chờ luyện kim]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[123]]></ID>
+		<Content><![CDATA[Đã hết số lần luyện kim]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[124]]></ID>
+		<Content><![CDATA[Chưa đủ điều kiện nhận quà sự kiện]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[125]]></ID>
+		<Content><![CDATA[Không thể đổi vật phẩm]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[126]]></ID>
+		<Content><![CDATA[Đã hết thời gian sự kiện]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[127]]></ID>
+		<Content><![CDATA[Không thể kích hoạt tích lũy]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[128]]></ID>
+		<Content><![CDATA[Không thể nhận thưởng 2 lần]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[129]]></ID>
+		<Content><![CDATA[Tặng thể lực thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[130]]></ID>
+		<Content><![CDATA[Tặng thể lực thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[131]]></ID>
+		<Content><![CDATA[Đã hết số lần tặng thể lực]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[132]]></ID>
+		<Content><![CDATA[Không thể tặng thể lực 2 lần cho 1 đại hiệp]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[133]]></ID>
+		<Content><![CDATA[Người nhận không online]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[134]]></ID>
+		<Content><![CDATA[Người nhận đã quá số lần nhận tối đa.]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[135]]></ID>
+		<Content><![CDATA[Nhận thể lực thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[136]]></ID>
+		<Content><![CDATA[Nhận thể lực thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[137]]></ID>
+		<Content><![CDATA[Đã hết số lần nhận thể lực]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[138]]></ID>
+		<Content><![CDATA[Thao tác không hợp lệ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[139]]></ID>
+		<Content><![CDATA[Thể lực đã đầy]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[140]]></ID>
+		<Content><![CDATA[Thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[141]]></ID>
+		<Content><![CDATA[Không đủ tiền]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[142]]></ID>
+		<Content><![CDATA[Hết số lần quay trong ngày]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[143]]></ID>
+		<Content><![CDATA[Vượt quá số lần quay tối đa trong ngày]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[144]]></ID>
+		<Content><![CDATA[Thời gian không hợp lệ]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[145]]></ID>
+		<Content><![CDATA[Nhân vật không tồn tại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[146]]></ID>
+		<Content><![CDATA[Không thể tặng thể lực cho chính mình]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[147]]></ID>
+		<Content><![CDATA[Chưa đủ cấp độ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[148]]></ID>
+		<Content><![CDATA[Người nhận thể lực chưa đủ cấp độ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[149]]></ID>
+		<Content><![CDATA[Kungfu description]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[150]]></ID>
+		<Content><![CDATA[Khóa Chúc Phúc thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[151]]></ID>
+		<Content><![CDATA[Khóa Chúc Phúc thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[152]]></ID>
+		<Content><![CDATA[Không đủ vàng]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[153]]></ID>
+		<Content><![CDATA[Không đủ vật phẩm khóa chúc phúc]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[154]]></ID>
+		<Content><![CDATA[Không thể khóa 2 lần cho cùng nhân vật]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[155]]></ID>
+		<Content><![CDATA[<font color='0x000000'>Giới thiệu tính năng:</font>
+- Các đại hiệp có thể thông qua tính năng Tửu Lâu chiến để cướp hoặc chiếm các tửu lâu để nhận được bạc
+<font color='0x000000'>Điều kiện tham gia:</font>
+- Người chơi đạt đẳng cấp 20 sẽ có thể tham gia tính năng này
+<font color='0x000000'>Địa điểm tranh đoạt:</font>
+- Có tổng cộng 5 địa điểm tương ứng với cấp độ nhân vật
+	1. Level 20 =>29 : tửu lâu Ba Lăng Huyện
+	2. Level 30 =>39 : Tửu Lâu Giang Tân Thôn
+	3. Level 40 =>49 : Tửu Lâu Thạch Cổ Trấn
+	4. Level 50 =>59 : Tửu Lâu Long Tuyền Thôn
+	5. Level 60 => trở lên : Tửu Lâu Vĩnh Lạc Trấn
+- Mỗi địa điểm sẽ có tổng cộng 60 tửu lâu và chia làm 4 map
+<font color='0x000000'>Các loại tửu lâu:</font>
+- Có tổng cộng 4 loại tửu lâu được sắp xếp theo thứ tự tăng dần
+  Bạch lâu => Thanh Lâu => Hồng Lâu => Kim Lâu
+- Thứ tự tửu lâu càng cao phần thưởng bạc khi chiếm đóng càng nhiều
+<font color='0x000000'>Chiếm tửu lâu:</font>
+- Mỗi lần chiếm tửu lâu sẽ tiêu hao 1 thể lực
+- Khi chiến thắng NPC giữ tửu lâu hoặc chủ sở hữu tửu lâu mới có thể chiếm thành công tửu lâu đó
+- Mỗi nhân vật chỉ có thể chiếm 1 tửu lâu trong cùng 1 thời điểm
+- Thời gian chiếm tửu lâu tối đa là 4 tiếng
+<font color='0x000000'>Hoạt động cướp bạc:</font>
+- Chỉ có thể cướp tửu lâu đã có chủ sở hữu và thời gian chiếm trên 30 phút
+- Mỗi lần cướp sẽ tiêu hao 1 điểm thể lực
+- Mỗi ngày 1 nhân vật có 10 lần cướp bạc. 0h hàng ngày reset số lần cướp bạc
+- Người chơi cần phải đánh thắng chủ sở hữu mới có thể cướp thành công bạc hiện có trong tửu lâu
+- Khi tửu lâu bị cướp bạc thì sẽ có thời gian bảo vệ 30 phút và bị tiêu hao 1 số lượng bạc nhất định
+- Mỗi tửu lâu khi bị chiếm chỉ có thể bị cướp tối đa 3 lần
+- Chủ sở hữu có thể dùng vàng để bảo vệ tửu lâu. Khi bảo vệ tửu lâu sẽ không thể bị cướp
+- Mỗi ngày chỉ có thể mua 2 lần bảo vệ tửu lâu
+<font color='0x000000'>Phần thưởng:</font>
+- Tham gia tửu lâu chiến người chơi sẽ nhận được bạc. Ngoài ra, chủ sở hữu còn có thể sử dụng vàng để gia tăng gâp đôi phần thưởng]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[156]]></ID>
+		<Content><![CDATA[Không đủ vật phẩm đổi]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[157]]></ID>
+		<Content><![CDATA[Thùng đồ đã đầy]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[158]]></ID>
+		<Content><![CDATA[Số lượng nhập không hợp lệ.]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[159]]></ID>
+		<Content><![CDATA[Tăng giới hạn thành công.]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[160]]></ID>
+		<Content><![CDATA[Tăng giới hạn thất bại.]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[161]]></ID>
+		<Content><![CDATA[Đã hết thời gian mở quà]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[162]]></ID>
+		<Content><![CDATA[Phần thưởng đã được gửi vào hộp thư. Không đủ phòng để tiến hành trận đấu.]]></Content>
+	</Data>
+	
+	<!-- here for game flow errorCode -->
+	<Data>
+		<ID><![CDATA[1000]]></ID>
+		<Content><![CDATA[Thao tác không hợp lệ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1001]]></ID>
+		<Content><![CDATA[Người chơi này không tồn tại, bạn không thể thi đấu với người chơi này]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1002]]></ID>
+		<Content><![CDATA[Đã quá thời gian tham gia chế độ, hãy quay lại sau nhé]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1003]]></ID>
+		<Content><![CDATA[Bạn chưa đủ đẳng cấp để tham gia chế độ, hãy luyện tập thêm nhé]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1004]]></ID>
+		<Content><![CDATA[Đã hết số lần chơi miễn phí trong ngày]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1005]]></ID>
+		<Content><![CDATA[Hết thời gian chờ mới được thi đấu tiếp]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1006]]></ID>
+		<Content><![CDATA[Không vào được phòng chờ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1007]]></ID>
+		<Content><![CDATA[Phòng chờ đã đầy]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1008]]></ID>
+		<Content><![CDATA[Đã hết số lần chơi cho phép trong ngày]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1009]]></ID>
+		<Content><![CDATA[Chờ hồi sinh hoặc đợi qua ngày hôm sau để được chơi tiếp]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1010]]></ID>
+		<Content><![CDATA[Đã vược qua tầng cao nhất]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1011]]></ID>
+		<Content><![CDATA[Không tồn tại tầng tháp này]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[1012]]></ID>
+		<Content><![CDATA[Không tồn tại ải này]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1013]]></ID>
+		<Content><![CDATA[Chưa hoàn thành ải trước đó]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1014]]></ID>
+		<Content><![CDATA[Không đủ cấp độ để vào ải này]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1015]]></ID>
+		<Content><![CDATA[Không đủ điểm thể lực để vào ải này]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1016]]></ID>
+		<Content><![CDATA[Không tìm được phòng thích hợp]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1017]]></ID>
+		<Content><![CDATA[Không thể vào phòng chờ cá nhân, chỉ vào khi được mời]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1018]]></ID>
+		<Content><![CDATA[Chỉ có chủ phòng mới được bắt đầu]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1019]]></ID>
+		<Content><![CDATA[Phòng chờ còn trống không thể bắt đầu]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1020]]></ID>
+		<Content><![CDATA[Không có game server]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1021]]></ID>
+		<Content><![CDATA[Chưa hết thời gian hồi sinh để đấu BOSS]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1022]]></ID>
+		<Content><![CDATA[Không thể matching vì phòng chờ không hợp lệ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1023]]></ID>
+		<Content><![CDATA[Đã hết giờ thi đấu BOSS thế giới]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[1024]]></ID>
+		<Content><![CDATA[Đang thực hiện tính năng tự động leo tháp]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1025]]></ID>
+		<Content><![CDATA[Đã hết số lần chỉ điểm võ công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1026]]></ID>
+		<Content><![CDATA[Đã hết số lần được chỉ điểm võ công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1027]]></ID>
+		<Content><![CDATA[Cấp độ của những người tham gia không hợp lệ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1028]]></ID>
+		<Content><![CDATA[Tửu lâu đang có người tấn công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1029]]></ID>
+		<Content><![CDATA[Không thể chiếm thêm tửu lâu khác]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1030]]></ID>
+		<Content><![CDATA[Tửu lâu đang có ở chế độ bảo vệ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1031]]></ID>
+		<Content><![CDATA[Chưa hết thời gian tổi thiểu để cướp hay chiếm]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1032]]></ID>
+		<Content><![CDATA[Tửu lâu đang ở trạng thái do NPC chiếm giữ]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1033]]></ID>
+		<Content><![CDATA[Đã hết số lần cướp tối đa trong ngày]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1034]]></ID>
+		<Content><![CDATA[Tửu lâu đã hết số lần có thể cướp]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1035]]></ID>
+		<Content><![CDATA[Tửu lâu hiện tại chưa thể cướp]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1039]]></ID>
+		<Content><![CDATA[Tiêu xa hiện tại chưa thể cướp]]></Content>
+	</Data>	
+	<Data>
+		<ID><![CDATA[1036]]></ID>
+		<Content><![CDATA[Thần Binh đạt cấp tối đa]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1037]]></ID>
+		<Content><![CDATA[Thần Binh này đã được trang bị rồi]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1038]]></ID>
+		<Content><![CDATA[Trang bị Thần Binh thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1039]]></ID>
+		<Content><![CDATA[Chọn một Thần Binh để trang bị]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1040]]></ID>
+		<Content><![CDATA[Trang bị Thần Binh thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1041]]></ID>
+		<Content><![CDATA[Tháo Thần Binh thành công]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1042]]></ID>
+		<Content><![CDATA[Tháo Thần Binh thất bại]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1043]]></ID>
+		<Content><![CDATA[Nhân vật đã có Thần Binh]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1044]]></ID>
+		<Content><![CDATA[Sai vật phẩm Thần Binh]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1045]]></ID>
+		<Content><![CDATA[Không đủ nguyên liệu]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1046]]></ID>
+		<Content><![CDATA[Sai thuộc tính]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1047]]></ID>
+		<Content><![CDATA[Đã đạt cấp tối đa]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1048]]></ID>
+		<Content><![CDATA[Không tìm thấy nguyên liệu trong cửa hàng vật phẩm]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1049]]></ID>
+		<Content><![CDATA[Cần nâng cấp thuộc tính Thần Binh lên cấp tối đa]]></Content>
+	</Data>
+	<Data>
+		<ID><![CDATA[1050]]></ID>
+		<Content><![CDATA[Giữ chúc phúc cho trang bị Thần Binh thành công]]></Content>
+	</Data>
+</Datas>

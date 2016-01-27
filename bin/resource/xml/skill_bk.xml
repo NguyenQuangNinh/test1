@@ -1,0 +1,1587 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<ID><![CDATA[4]]></ID>
+		<Name><![CDATA[Đào Chi Yêu Yêu]]></Name>		
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/ngami2_skill1.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[1,2,3]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[11]]></ID>
+		<Name><![CDATA[Kháng Long Hữu Hối]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_caibang_khanglonghuuhoi.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[1]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[4]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[14]]></ID>
+		<Name><![CDATA[Xá Thân Quyết]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/icon_thieulam_skill2.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[5,6,7]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[3]]></ID>
+		<Name><![CDATA[Tam Nga Tế Nguyệt]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/ngami1_skill3.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[8]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[10]]></ID>
+		<Name><![CDATA[Phi Long Tại Thiên]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_caibang_philongtaithien.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[9,10,11]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[13]]></ID>
+		<Name><![CDATA[Sư Tử Hống]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/icon_thieulam_skill1.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[12,13,14]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[15]]></ID>
+		<Name><![CDATA[Kim Cương Bất Hoại]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/icon_thieulam_skill3.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[31]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[5]]></ID>
+		<Name><![CDATA[Hữu Sở Tư]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/ngami2_skill2.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[33,34,35]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[6]]></ID>
+		<Name><![CDATA[Thiên Âm Trấn Ma Khúc]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/ngami2_skill3.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[36,37,39]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[1]]></ID>
+		<Name><![CDATA[Thôi Song Vọng Nguyệt]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/ngami1_skill1.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[40]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[2]]></ID>
+		<Name><![CDATA[Bất Diệt Bất Tuyệt]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/ngami1_skill2.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[44,45,46]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[7]]></ID>
+		<Name><![CDATA[Bổng Đả Ác Cẩu]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_caibang_bongdaaccau.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[47]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[8]]></ID>
+		<Name><![CDATA[Bát Cẩu Triều Thiên]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_caibang_batcautrieuthien.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[51,53,54]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[9]]></ID>
+		<Name><![CDATA[Thiên Hạ Vô Cẩu]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_caibang_thienhavocau.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[55,58]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[12]]></ID>
+		<Name><![CDATA[Thần Long Bãi Vĩ]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_caibang_thanlongbaivi.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[60]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[22]]></ID>
+		<Name><![CDATA[Mộc Hỏa Liên Trảm]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_mochoalientram.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[64,67,69]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[23]]></ID>
+		<Name><![CDATA[Âm Dương Quyết]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_amduongquyet.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[73,74,75]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[24]]></ID>
+		<Name><![CDATA[Huyết Hoa Cuồng Loạn Đao]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_huyethoacuongloandao.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[76,77,79]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[28]]></ID>
+		<Name><![CDATA[Tam Hoàn Sáo Nguyệt]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_tamhoanhsaonguyet.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[1]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[80]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[29]]></ID>
+		<Name><![CDATA[Thái Cực Kiếm Vũ]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_thaicuckiemvu.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[84,85,86]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[30]]></ID>
+		<Name><![CDATA[Nhân Kiếm Hợp Nhất]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_nhankiemhopnhat.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[87,88,89]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[31]]></ID>
+		<Name><![CDATA[Võ Đang Miên Chưởng]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_vodangmiengchuong.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[90,93]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[32]]></ID>
+		<Name><![CDATA[Bát Quái Chưởng]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_batquaichuong.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[95,135]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[33]]></ID>
+		<Name><![CDATA[Thái Thanh Thần Khí]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_thaithanhthankhi.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[99,100,101]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[25]]></ID>
+		<Name><![CDATA[Thâu Hồn Thuật]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_thauhonthuat.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[102]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[26]]></ID>
+		<Name><![CDATA[Cửu U Tử Trạch]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_cuuututrach.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[1]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[106]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[27]]></ID>
+		<Name><![CDATA[Mãn Thiên Huyết Hoa Vũ]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_manthienhuyethoavu.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[110]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[34]]></ID>
+		<Name><![CDATA[Băng Cơ Ngọc Cốt]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[115]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[35]]></ID>
+		<Name><![CDATA[Thanh Âm Phạn Xượng]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[115,117]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[36]]></ID>
+		<Name><![CDATA[Lưu Thủy Ngọc Cốt]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[115,119]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[37]]></ID>
+		<Name><![CDATA[Khất Thiên Thảo Địa]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[120]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[38]]></ID>
+		<Name><![CDATA[Túy Điệp Cuồng Vũ]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[120,121]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[39]]></ID>
+		<Name><![CDATA[Tiêu Diêu Công]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[120,123]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[40]]></ID>
+		<Name><![CDATA[Hỗn Thiên Công]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[126]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[41]]></ID>
+		<Name><![CDATA[Dịch Cân Kinh]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[126,127]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[42]]></ID>
+		<Name><![CDATA[Tọa Vọng Vô Ngã]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[128]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[43]]></ID>
+		<Name><![CDATA[Thiên Địa Vô Cực]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[128,129]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[44]]></ID>
+		<Name><![CDATA[Thái Cực Thần Công]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[128,130]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[45]]></ID>
+		<Name><![CDATA[Thánh Hỏa Phần Tâm]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[131]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[46]]></ID>
+		<Name><![CDATA[Càn Khôn Đại Na Di]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[131,132]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[47]]></ID>
+		<Name><![CDATA[Thánh Hỏa Thần Công]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[131,133]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[48]]></ID>
+		<Name><![CDATA[Bạch Cốt Trảo]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[1000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[137]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[49]]></ID>
+		<Name><![CDATA[Passive Boss Soi Trang]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[139]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[50]]></ID>
+		<Name><![CDATA[Cuồng Liệt Hỏa]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[1000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[140]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[51]]></ID>
+		<Name><![CDATA[Phong Hoa Tuyết Nguyệt]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_ngami_phonghoatuyetnguyet.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[142]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[52]]></ID>
+		<Name><![CDATA[Bạt Thảo Tầm Xà]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_caibang_batthaotamxa.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[143]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[53]]></ID>
+		<Name><![CDATA[Nộ Lôi Chỉ]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_vodang_noloichi.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[145]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[54]]></ID>
+		<Name><![CDATA[Thiết Ngưu Công]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_thieulam_thietnguucong.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[147]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[55]]></ID>
+		<Name><![CDATA[Mộc Hỏa Công]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL>resource/image/skill/iconskill_minhgiao_mochoacong.png</IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[148]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[56]]></ID>
+		<Name><![CDATA[Cửu Âm Chân Kinh]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[150]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[57]]></ID>
+		<Name><![CDATA[Độc Cô Cửu Kiếm]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang2_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[151]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[58]]></ID>
+		<Name><![CDATA[Song Kiếm Hợp Bích]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[47,48]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[153]]></ArrStances>
+		<TargetType><![CDATA[1]]></TargetType>
+		<Radius><![CDATA[500]]></Radius>
+	</Data>
+	<Data>
+		<ID><![CDATA[59]]></ID>
+		<Name><![CDATA[Ngọc Nữ Tâm Kinh]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[155]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[60]]></ID>
+		<Name><![CDATA[Ngọc Nữ Kiếm Pháp]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[156]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[61]]></ID>
+		<Name><![CDATA[Băng Tâm Tiên Tử]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[0]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[157]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[62]]></ID>
+		<Name><![CDATA[Băng Phách Ngân Châm]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/skill1.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[159]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[63]]></ID>
+		<Name><![CDATA[Thần Long Bãi Vĩ Tối Thượng]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang2_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[160]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[64]]></ID>
+		<Name><![CDATA[Khien Nuoc]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[162]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[65]]></ID>
+		<Name><![CDATA[Bach Doc Trach]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[163]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[66]]></ID>
+		<Name><![CDATA[Mi Thuat]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[165]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[67]]></ID>
+		<Name><![CDATA[Thiet Trao (Ho Tinh)]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[166]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[68]]></ID>
+		<Name><![CDATA[Luong Nghi Kiem]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[168]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[69]]></ID>
+		<Name><![CDATA[Nhất Tiêu Đoạt Mệnh]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[169]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[70]]></ID>
+		<Name><![CDATA[Tuyệt Tình Trảm]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[171]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[71]]></ID>
+		<Name><![CDATA[Cầm Nã Thủ]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[173]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[73]]></ID>
+		<Name><![CDATA[Sinh Tử Bùa (Cương Thi Đầu Lĩnh)]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[175]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[74]]></ID>
+		<Name><![CDATA[Cầm Nã Thủ (Trom Mo Cam Dau)]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[178]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[75]]></ID>
+		<Name><![CDATA[Thái Ất Kiếm]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[180]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[76]]></ID>
+		<Name><![CDATA[Huyết Hoạt Đao]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[198]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[77]]></ID>
+		<Name><![CDATA[Hac Phien Khoi Phong]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[181]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[78]]></ID>
+		<Name><![CDATA[Tieu Vo Tuong Cong]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[183]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[79]]></ID>
+		<Name><![CDATA[Long Tượng Bát Nhã Công]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[186]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[80]]></ID>
+		<Name><![CDATA[Passive Boss The Gioi]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[188]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[81]]></ID>
+		<Name><![CDATA[Linh Kiếm Vĩ Hồ (boss world)]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[189]]></ArrStances>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[160]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[82]]></ID>
+		<Name><![CDATA[Hoang Kim Ho]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[191]]></ArrStances>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[160]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[83]]></ID>
+		<Name><![CDATA[Nhen]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[199]]></ArrStances>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[160]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[84]]></ID>
+		<Name><![CDATA[Quai Ngu Cam Dau]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[195]]></ArrStances>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[160]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[85]]></ID>
+		<Name><![CDATA[Tam Vi Ho]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[197]]></ArrStances>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[160]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[86]]></ID>
+		<Name><![CDATA[Cuong Thi Dau Linh]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+		<ArrStances><![CDATA[160]]></ArrStances>
+	</Data>
+	<Data>
+		<ID><![CDATA[87]]></ID>
+		<Name><![CDATA[Đả Cẩu Bổng Trận]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[204]]></ArrStances>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+	</Data>
+	<Data>
+		<ID><![CDATA[88]]></ID>
+		<Name><![CDATA[Lạc Anh Miên Chưởng]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[205]]></ArrStances>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+	</Data>
+	<Data>
+		<ID><![CDATA[89]]></ID>
+		<Name><![CDATA[Cáp Mô Công]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[207]]></ArrStances>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+	</Data>
+	<Data>
+		<ID><![CDATA[90]]></ID>
+		<Name><![CDATA[Linh Xà Quyền]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[0]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[209]]></ArrStances>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+	</Data>
+	<Data>
+		<ID><![CDATA[91]]></ID>
+		<Name><![CDATA[Ran Xanh Lon]]></Name>
+		<Description><![CDATA[Tuyệt học Nga Mi, giúp bản thân và đồng đội hồi phục sinh mệnh. Tăng phòng thủ trong khoảng thời gian ngắn]]></Description>
+		<Effects>
+			<Effect name="Thức 1" require="1"><![CDATA[gây <font color="#FF0000">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#FF0000">{3}</font>]]></Effect>
+			<Effect name="Thức 2" require="2"><![CDATA[gây <font color="#00FF00">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#00FF00">{3}</font>]]></Effect>
+			<Effect name="Thức 3" require="3"><![CDATA[gây <font color="#0000FF">{1} [+{2}]</font> sát thương lên vùng chỉ định trong khoảng thời gian <font color="#0000FF">{3}</font>]]></Effect>
+		</Effects>
+		<IconURL><![CDATA[resource/image/skill/caibang1_skill3.png]]></IconURL>
+		<Passive><![CDATA[1]]></Passive>
+		<CoolDown><![CDATA[5000]]></CoolDown>
+		<TimeCast><![CDATA[-1]]></TimeCast>
+		<TargetType><![CDATA[0]]></TargetType>
+		<Radius><![CDATA[0]]></Radius>
+		<ArrCharacterRequirement><![CDATA[]]></ArrCharacterRequirement>
+		<ArrStances><![CDATA[210]]></ArrStances>
+		<SubClassRequirement><![CDATA[0]]></SubClassRequirement>
+	</Data>
+</Datas>

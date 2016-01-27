@@ -1,0 +1,288 @@
+.menu1 {
+	z-index: 1000px;
+	position: fixed;
+}
+
+.menu1 ul
+{
+	margin: 0;
+	padding: 0;
+	width: 100px;
+	list-style-type: none;
+}
+
+.doiServer {
+	background: url(../images/button_doiserver.png) no-repeat;
+	width: 100px;
+	height: 120px;
+}
+
+.event {
+	background: url(../images/button_valentine.png) no-repeat;
+	width: 100px;
+	height: 80px;
+}
+
+.napAniXu {
+	background: url(../images/button_napxu.png) no-repeat;
+	width: 100px;
+	height: 80px;
+}
+
+.choiGame {
+	background: url(../images/button_huongdan.png) no-repeat;
+	width: 100px;
+	height: 80px;
+}
+
+.tienthu {
+	background: url(../images/button_xuan_giap_ngo.png) no-repeat;
+	width: 100px;
+	height: 80px;
+}
+.change {
+    width: 190px;
+    height: 40px;
+    margin-top: 15px;
+    margin-left: 17px;
+    background: url(../images/khung1.png) left top no-repeat;
+}
+.hoiNhom {
+	background: url(../images/button_hoinhom.png) no-repeat;
+	width: 100px;
+	height: 80px;
+}
+
+.hoTro {
+	background: url(../images/button_hotro.png) no-repeat;
+	width: 100px;
+	height: 80px;
+}
+
+.vuigame {
+	background: url(../images/button_vuigame.png) no-repeat;
+	width: 100px;
+	height: 80px;
+}
+
+.csmplay {
+	background: url(../images/button_csmplay.png) no-repeat;
+	width: 100px;
+	height: 80px;
+}
+
+.laban {
+	background: url(../images/button_laban.png) no-repeat;
+	width: 100px;
+	height: 80px;
+}
+#wraper
+{
+	width: 100%;
+	height: 100%;
+	background-color: #FFFFFF;
+}
+.backgroundWorld {
+  background-image: url("../images/bg.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+a, p, img, div {
+	cursor: default;
+}
+#content {
+	height: 100%;
+	text-align: center;
+}
+ul#img li.ActiveBanner {
+	margin-left: 0px;
+}
+a.CloseBtn {
+	display: block;
+	width: 26px;
+	height: 43px;
+	text-indent: -9999px;
+	background: url(../images/muiten2.png) no-repeat;
+	position: absolute;
+	top: 450px;
+	right: -8px;
+	z-index: 10;
+}
+a.CloseBtn:hover {
+	background: url(../images/muiten2_2.png) no-repeat;
+}
+a.OpenBtn {
+	display: block;
+	width: 26px;
+	height: 43px;
+	text-indent: -9999px;
+	background: url(../images/muiten1.png) no-repeat;
+	position: absolute;
+	top: 450px;
+	right: -8px;
+	z-index: 10;
+}
+a.OpenBtn:hover {
+	background: url(../images/muiten1_2.png) no-repeat;
+}
+a.CloseBtn:focus,
+a.OpenBtn:focus {
+	outline: none;
+}
+#sideBar {
+	width: 230px;
+	height: 100%;
+	left: 0px;
+	font-size: 12px;
+	font-family: Tahoma;
+	background: url(../images/leftmenu.png) no-repeat;/* #30180c;*/
+	position: absolute;
+	padding-left: 7px;
+}
+
+.login a{
+	color: #d3d3d3;
+	margin-left: 20px;
+	text-decoration: none;
+}
+#menu{
+	width: 100%;
+	margin-top: 98px;
+	margin-left: 30px;
+	font-size: 12px;
+	font-family: Tahoma;
+}
+#menu a{
+	color: black;
+}
+#name{
+	width: 100%;
+	height: 10px;
+	margin-top: 17px;
+	margin-left: 58px;
+	font-size: 14px;
+	font-family: Tahoma;
+	font-weight: bold;
+	color: rgb(210,241,103);
+}
+#server{
+	width: 100%;
+	font-size: 14px;
+	font-family: Tahoma;
+	font-weight: bold;
+	width: 190px;
+	height: 40px;
+}
+#server p{
+	overflow: hidden;
+	padding: 10px 0px 0px 10px;
+	cursor: pointer;
+	color: yellow;
+}
+#current_server{
+	width: 100%;
+	margin-left: 17px;
+	margin-top: -12px;
+	font-size: 14px;
+	font-family: Tahoma;
+	font-weight: bold;
+	width: 190px;
+	height: 45px;
+}
+#charge{
+	width: 200px;
+	margin-top: 8px;
+	margin-left: 15px;
+}
+#charge_coin{
+	width: 200px;
+	height: 100px;
+	background: url(../images/napxu.png) no-repeat;
+}
+#instruction{
+	margin-top: 20px;
+	width: 200px;
+	height: 90px;
+	background: url(../images/huongdan.png) no-repeat;
+}
+#event{
+	width: 200px;
+	height: 237px;
+}
+#news{
+	margin-top: 50px;
+	width: 200px;
+	height: 170px;
+}
+.serverIcon1 {
+      background: url(../images/server/bg-listserver_khunglong.png) 0 0 no-repeat;
+}
+.serverIcon2 {
+      background: url(../images/server/bg-listserver_heo.png) 0 0 no-repeat;
+}
+.serverIcon6 {
+      background: url(../images/server/bg-listserver_bocap.png) 0 0 no-repeat;
+}
+.serverIcon8 {
+      background: url(../images/server/bg-listserver_griff.png) 0 0 no-repeat;
+}
+.serverIcon9 {
+      background: url(../images/server/bg-listserver_dautruong.png) 0 0 no-repeat;
+}
+a:link{
+	text-decoration: none;
+	color: rgb(234,249,189);
+}
+ul
+{
+	list-style: none;
+}
+#news_ul{
+	margin-left: 10px;
+	padding: 0;
+}
+#news_ul li{
+	width: 180px;
+	height: 25px;
+	padding: 0 0 0 18px;
+	background: url(images/dong.png) no-repeat;
+	font-size: 14px;
+	font-family: Tahoma;
+}
+.news{
+	display: block;
+}
+.date{
+	float: right;
+}
+#current_server a:link,
+#current_server a:visited{
+	width:184px;
+	height:44px;
+	display:block;
+	color:#412607;
+	text-decoration:none;
+	margin-right:22px;
+}
+#current_server a:hover{
+	color:#412607;
+	text-decoration:none;
+}
+.IconNew{
+	position: relative;
+	top: 2px;
+	left: 134px;
+	width: 32px;
+	height: 0px;
+	z-index: 10;
+}
+.ServerName{
+	font-size:14px;
+	font-weight:bold;
+	padding:4px 0 0 42px;
+}
+.StatusServer{
+	margin-top: -9px;
+	padding:0px 0 0 42px;
+	font-size:11px;
+}

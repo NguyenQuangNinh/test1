@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<EventID><![CDATA[1]]></EventID>
+		<Name><![CDATA[Tiêu xu nhận thưởng]]></Name>
+		<Desc><![CDATA[Tiêu xu tích vàng]]></Desc>
+		<PaybackPercent><![CDATA[10]]></PaybackPercent>
+		<Servers>
+			<Server>
+				<ServerID><![CDATA[1]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-07-14 00:00:00]]></Begin>
+				<End><![CDATA[2014-07-21 23:59:59]]></End>
+				<EndReceive><![CDATA[2014-07-24 23:59:59]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[2]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-07-15 00:00:00]]></Begin>
+				<End><![CDATA[2014-07-21 23:59:59]]></End>
+				<EndReceive><![CDATA[2014-07-24 23:59:59]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[3]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-07-22 00:00:00]]></Begin>
+				<End><![CDATA[2014-07-28 23:59:59]]></End>
+				<EndReceive><![CDATA[2014-07-31 23:59:59]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[4]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-07-25 00:00:00]]></Begin>
+				<End><![CDATA[2014-07-29 23:59:59]]></End>
+				<EndReceive><![CDATA[2014-08-01 23:59:59]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[5]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-07-26 00:00:00]]></Begin>
+				<End><![CDATA[2014-07-30 23:59:59]]></End>
+				<EndReceive><![CDATA[2014-08-02 23:59:59]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[6]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-07-28 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-01 23:59:59]]></End>
+				<EndReceive><![CDATA[2014-08-04 23:59:59]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[7]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-08-01 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-05 23:59:59]]></End>
+				<EndReceive><![CDATA[2014-08-08 23:59:59]]></EndReceive>
+			</Server>
+		</Servers>
+	</Data>
+</Datas>

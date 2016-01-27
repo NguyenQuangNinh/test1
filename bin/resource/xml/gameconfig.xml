@@ -1,0 +1,2331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<ID><![CDATA[1]]></ID>
+		<Name><![CDATA[Phẩm chất nhân vật]]></Name>
+		<VariableName><![CDATA[arrQuality]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,2,3,4,5,6]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[2]]></ID>
+		<Name><![CDATA[Số sao MAX roll trong đoạn [a,b], cận dưới a]]></Name>
+		<VariableName><![CDATA[arrQualityMinStar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,2,5,9,15,15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[3]]></ID>
+		<Name><![CDATA[Số sao MAX roll trong đoạn [a,b], cận trên b]]></Name>
+		<VariableName><![CDATA[arrQualityMaxStar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,4,8,14,15,15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[4]]></ID>
+		<Name><![CDATA[Exp cho nhân vật (character) thăng cấp]]></Name>
+		<VariableName><![CDATA[arrUnitLevelUpExp]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,80,130,170,240,350,460,530,620,710,800,900,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000,2100,2200,2600,2800,3000,3200,3400,3600,3800,4000,4200,4400,4600,4800,5000,5400,5700,6000,6300,6600,6900,7200,7500,7800,8100,8400,8700,9000,9300,9600,9900,10200,10500,10800,11100,11400,11700,12000,12300,12600,12900,13200,13500,13800,14100,14400,14700,15000,15300,15600,16000,16400,16800,17200,17600,18000,18400,18800,19200,19600,20000,20400,20800,21200,21600,22000,22400,22800,23200,23600,24000,24400,24800,25200,25600,26000,26400,26800,27200,27600,28000,28400,28800,29200,29600,30000,30550,31100,31650,32200,32750,33300,33850,34400,34950,35500,36050,36600,37150,42150,47150,52150,57150,62150,67150,72150,77150,82150,87150,92150,97150,102150,107150,112150,117150,122150,127150,132150,137150,142150,147150,152150,157150,162150,167150,172150,177150,182150,187150,192150,197150,202150,207150,212150,217150,222150,227150,232150,237150,242150,247150,252150,257150,262150,267150,272150,277150,282150,287150,292150,297150,302150,307150,312150,317150,322150,327150,332150,337150,337150,337150,337150,337150,337150,337150,337150,337150,337150,337150,337150,337150,337150,337150,337150,337150,337150,337150,337150]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[5]]></ID>
+		<Name><![CDATA[Số AP khởi đầu của user]]></Name>
+		<VariableName><![CDATA[nBeginAP]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[50]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[6]]></ID>
+		<Name><![CDATA[Số lượng Character tối đa user có thể sở hữu(đầu game - kích thước thùng đồ nhân vật)]]></Name>
+		<VariableName><![CDATA[nBeginUnitInventorySize]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[40]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[7]]></ID>
+		<Name><![CDATA[Thời gian nhận được 1 AP(Tính theo giây)]]></Name>
+		<VariableName><![CDATA[nTimePerAP]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[1200]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[8]]></ID>
+		<Name><![CDATA[Phần trăm cộng thêm khi truyền công cho hệ tương sinh]]></Name>
+		<VariableName><![CDATA[nMaxExp]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[50]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[9]]></ID>
+		<Name><![CDATA[Ngưỡng max Exp của game]]></Name>
+		<VariableName><![CDATA[nMaxGold]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1000000000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[10]]></ID>
+		<Name><![CDATA[Ngưỡng max Gold của game]]></Name>
+		<VariableName><![CDATA[nTransmissionOvercomePercent]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[1000000000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[11]]></ID>
+		<Name><![CDATA[Phần trăm trừ khi truyền công cho hệ tương khắc]]></Name>
+		<VariableName><![CDATA[nTransmissionGeneratingPercent]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[50]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[12]]></ID>
+		<Name><![CDATA[Exp truyền công cho người khác(Theo mốc level)]]></Name>
+		<VariableName><![CDATA[arrTransmissionExp]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,100,135,170,240,310,380,450,520,630,720,860,980,1180,1320,1440,1680,1960,2240,2560,2880,3200,3600,4000,4400,4880,5360,6080,6720,7360,8000,8640,9280,9920,10560,11200,11840,12480,13120,13760,14400,15040,15680,16320,16960,17600,18240,18880,19520,20160,29360,30000,30640,31280,31920,32560,33200,33840,34480,35120,46160,46800,47440,48080,48720,49360,50000,50640,51280,61600,66960,67600,68240,68880,69520,70720,73040,74000,78400,84280,92240,94640,97040,99440,101840,104240,106640,109040,111440,113840,123440,127040,130640,134240,137840,141440,145040,148640,152240,155840,160640,164640,168640,172640,176640,180640,184640,188640,192640,197440,203840,209440,215040,220640,226240,231840,237440,243040,248640,254240,259840,265440,271040,276640,282240,287840,293440,299040,304640,310240,315840,321440,327040,332640,338240,343840,349440,355040,360640,365840,369440,377440,385440,393440,401440,409440,417440,425440,433440,441440,449440,457440,465440,473440,481440,489440,497440,505440,513440,521440,529440,537440,545440,553440,561440,569440,577440,585440,593440,601440,609440,617440,625440,633440,641440,649440,657440,665440,673440,681440,686480,696080,700000,700000,700000,700000,700000,700000,700000,700000,700000,700000,700000,700000,700000,700000,700000,700000,700000,700000,700000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[13]]></ID>
+		<Name><![CDATA[Tỉ lệ truyền Exp khi truyền công cho người khác(theo phẩm chất nhân vật - 6 số tương ứng với 5 phẩm chất) - tỉ lệ phần ngàn]]></Name>
+		<VariableName><![CDATA[arrTransmissionExpRate]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[0]]></Type>
+		<Value><![CDATA[0, 1000, 1250, 1500, 1750, 2000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[14]]></ID>
+		<Name><![CDATA[ID của nhân vật chính ban đầu(map với bảng character.xml) - bao gôm 5 số tương ứng với 5 class (5 nam/5 nữ)]]></Name>
+		<VariableName><![CDATA[arrMainCharacterID]]></VariableName>
+		<ItemType><![CDATA[2]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[4,6,1,2,8]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[15]]></ID>
+		<Name><![CDATA[Danh sách các nhân vật khởi tạo ban đầu Game(Map với bảng character.xml)]]></Name>
+		<VariableName><![CDATA[arrBeginCharacter]]></VariableName>
+		<ItemType><![CDATA[2]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[16]]></ID>
+		<Name><![CDATA[Số lượng Thiên Thư Tàn Quyển dùng để nâng cấp sao(16 số tương ứng với 15 sao)]]></Name>
+		<VariableName><![CDATA[arrUpStarItem]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,1,2,2,3,3,4,4,5,5,5,6,7,8,9,10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[17]]></ID>
+		<Name><![CDATA[Tỉ lệ ban đầu của việc nâng cấp sao(16 số tương ứng với 15 sao)]]></Name>
+		<VariableName><![CDATA[arrUpStarBeginRate]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,-25,-75,-200,-300,-400,-500,-600,-700,-800,-400,-450,-500,-550,-600,-650]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[18]]></ID>
+		<Name><![CDATA[Tỉ lệ tăng thêm mỗi lần nâng cấp sao thất bại(16 số tương ứng 15 sao)]]></Name>
+		<VariableName><![CDATA[arrUpStarAdditionRate]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,12,10,10,10,9,9,9,9,9,4,4,4,4,4,4]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[19]]></ID>
+		<Name><![CDATA[Chúc phúc tăng thêm mỗi lần nâng cấp sao thất bại(16 số tương ứng 15 sao)]]></Name>
+		<VariableName><![CDATA[arrUpStarLuckyScore]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,10,10,10,10,9,9,9,9,9,8,8,8,8,8,8,8]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[20]]></ID>
+		<Name><![CDATA[Mang diem tich luy khi boi menh khi duong (5 phan tu tuong ung voi 5 NPC)]]></Name>
+		<VariableName><![CDATA[arrSoulCraftScore]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,2,3,4,5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[21]]></ID>
+		<Name><![CDATA[Toi da diem tich luy boi menh]]></Name>
+		<VariableName><![CDATA[nMaxSoulCraftScore]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[100000000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[22]]></ID>
+		<Name><![CDATA[Số lượng gold dùng để truyền công(Theo mốc level)]]></Name>
+		<VariableName><![CDATA[arrUpStarGold]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,120,240,360,480,600,720,840,960,1080,1200,1320,1440,1560,1680,1800,1920,2040,2160,2300,2400,2500,2600,2800,3100,3500,3800,4200,4600,4900,5200,5600,6000,6400,6700,7100,10700,14300,17900,21500,25100,28700,32300,35900,39500,43100,46700,50300,53900,57500,61100,64700,68300,71900,80900,89900,98900,107900,116900,125900,134900,143900,152900,161900,170900,179900,188900,197900,206900,215900,224900,233900,242900,251900,260900,269900,278900,287900,296900,305900,314900,323900,332900,341900,350900,359900,368900,377900,386900,395900,404900,413900,422900,431900,440900,449900,458900,467900,476900,485900,494900,503900,512900,521900,530900,539900,548900,557900,566900,575900,584900,593900,602900,611900,620900,629900,638900,647900,656900,665900,674900,683900,692900,701900,710900,719900,728900,737900,746900,755900,764900,773900,782900,791900,800900,809900,818900,827900,836900,845900,854900,863900,872900,881900,890900,899900,908900,917900,926900,935900,944900,953900,962900,971900,980900,989900,998900,1007900,1016900,1025900,1034900,1043900,1052900,1061900,1070900,1079900,1088900,1097900,1106900,1115900,1124900,1133900,1142900,1151900,1160900,1169900,1178900,1187900,1196900,1205900,1214900,1225100,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000,1300000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[23]]></ID>
+		<Name><![CDATA[Số lượng gold dùng để nâng cấp sao tiếp theo(16 số tương ứng 15 sao)]]></Name>
+		<VariableName><![CDATA[arrTransmissionGold]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,100,3000,8000,10000,60000,110000,160000,210000,260000,310000,360000,410000,460000,510000,560000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[24]]></ID>
+		<Name><![CDATA[Số lượng Item tối đa user có thể có đầu Game(Kích thước thùng đồ item)]]></Name>
+		<VariableName><![CDATA[nBeginItemInventorySize]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[25]]></ID>
+		<Name><![CDATA[Số lượng gold khởi đầu Game]]></Name>
+		<VariableName><![CDATA[nBeginGold]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[100]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[26]]></ID>
+		<Name><![CDATA[Số lượng HP Potion(Bình máu tích lũy) Có khởi đầu game]]></Name>
+		<VariableName><![CDATA[nBeginHPPotion]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[0]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[27]]></ID>
+		<Name><![CDATA[Max HP Potion(Bình máu tích lũy)]]></Name>
+		<VariableName><![CDATA[nMaxHPPotion]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20000000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[28]]></ID>
+		<Name><![CDATA[Số lượng gold dùng để nâng cấp skill(Theo level skill)]]></Name>
+		<VariableName><![CDATA[arrUpSkillGold]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,3400,3500,3600,3700,3800,3900,4000,4100,4200,4300,4400,4500,8400,8500,8600,8700,8800,8900,9000,9100,9200,9300,9400,19000,28800,29900,31000,32100,33200,34300,35400,36500,37600,38700,39800,41000,52300,53500,54700,55900,57100,58300,59500,60700,61900,63100,64300,65500,70500,75500,80500,85500,90500,95500,100500,105500,110500,115500,120500,125500,130500,135500,140500,145500,150500,155500,160500,165500,170500,175500,180500,185500,190500,195500,200500,205500,210500,215500,220500,225500,230500,235500,240500,245500,250500,255500,260500,265500,270500,275500,280500,285500,290500,295500,300500,305500,310500,315500,320500,325500,330500,335500,340500,345500,350500,355500,360500,365500,370500,375500,380500,385500,390500,395500,400500,405500,410500,415500,420500,425500,430500,435500,440500,445500,450500,455500,460500,465500,470500,475500,480500,485500,490500,495500,500500,505500,510500,515500,520500,525500,530500,535500,540500,545500,550500,555500,560500,565500,570500,575500,580500,585500,590500,595500,600500,605500,610500,615500,620500,625500,630500,635500,640500,645500,650500,655500,660500,665500,670500,675500,680500,685500,690500,695500,700500,705500,710500,715500,720500,725500,3997900,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000,4000000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[29]]></ID>
+		<Name><![CDATA[Số lượng item dùng để nâng cấp skill(Theo level skill)]]></Name>
+		<VariableName><![CDATA[arrUpSkillItem]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,3,3,3,3,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4,4,5,5,5,5,5,5,5,5,5,5,5,5,6,6,6,6,6,6,6,6,6,6,6,6,7,7,7,7,7,7,7,7,7,7,7,7,8,8,8,8,8,8,8,8,8,8,8,8,9,9,9,9,9,9,9,9,9,9,9,9,10,10,10,10,10,10,10,10,10,10,10,10,11,11,11,11,11,11,11,11,11,11,11,11,12,12,12,12,12,12,12,12,12,12,12,12,13,13,13,13,13,13,13,13,13,13,13,13,14,14,14,14,14,14,14,14,14,14,14,14,15,15,15,15,15,15,15,15,15,15,15,15,16,16,16,16,16]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[30]]></ID>
+		<Name><![CDATA[EXP ACCOUNT LEVEL]]></Name>
+		<VariableName><![CDATA[arrLevelUpExp]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,700,900,1300,1800,2150,2656,3254,3944,4726,5600,5842,6130,6468,6860,7310,7822,8400,9048,9770,10570,11452,12420,13478,14630,15880,17232,18690,20258,21940,23740,25662,27710,29888,32200,34650,37242,39980,42868,45910,60000,80000,100000,120000,140000,154661,170479,187528,205890,225648,246893,269720,294229,320528,348730,378954,411330,445990,483080,522750,565161,610483,658898,710597,765783,824671,887489,954480,1025898,1102017,1183124,1269525,1361542,1459520,1563821,1674831,1792959,1918638,2052326,2194511,2345707,2506463,2677356,2859003,3052053,3257197,3475167,3706738,3952732,4214021,4491528,4786233,5099173,5431448,5784225,6158740,6556302,6978301,7426209,7901587,8406088,8941466,9509580,10112400,10752014,11430636,12150612,12914430,13724726,14584294,15496098,16463277,17489160,18577274,19731361,20955383,22253544,23630298,25090366,26638753,28280764]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[31]]></ID>
+		<Name><![CDATA[Tỷ lệ phần trăm thành công khi nâng cấp skill(Theo level skill)]]></Name>
+		<VariableName><![CDATA[arrUpSkillRate]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[100,100,100,100,100,100,100,100,100,100,100,100,100,95,95,95,95,95,95,95,95,95,95,95,95,90,90,90,90,90,90,90,90,90,90,90,90,85,85,85,85,85,85,85,85,85,85,85,85,80,80,80,80,80,80,80,80,80,80,80,80,75,75,75,75,75,75,75,75,75,75,75,75,70,70,70,70,70,70,70,70,70,70,70,70,65,65,65,65,65,65,65,65,65,65,65,65,60,60,60,60,60,60,60,60,60,60,60,60,55,55,55,55,55,55,55,55,55,55,55,55,50,50,50,50,50,50,50,50,50,50,50,50,45,45,45,45,45,45,45,45,45,45,45,45,40,40,40,40,40,40,40,40,40,40,40,40,35,35,35,35,35,35,35,35,35,35,35,35,30,30,30,30,30,30,30,30,30,30,30,30,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[32]]></ID>
+		<Name><![CDATA[Max danh sách top pvp 1]]></Name>
+		<VariableName><![CDATA[nMaxListTopPvp1]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[100]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[33]]></ID>
+		<Name><![CDATA[Điều kiện để up class(Dùng cho client)]]></Name>
+		<VariableName><![CDATA[]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[4,9]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[34]]></ID>
+		<Name><![CDATA[Số lượng slot menh khi tối đa user có thể có đầu Game(Kích thước thùng đồ menh khi)]]></Name>
+		<VariableName><![CDATA[nBeginSoulInventorySize]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[30]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[35]]></ID>
+		<Name><![CDATA[Số lượng slot menh khi TAM tối đa user có thể có đầu Game(Kích thước thùng đồ menh khi TAM)]]></Name>
+		<VariableName><![CDATA[nBeginTempSoulInventorySize]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[36]]></ID>
+		<Name><![CDATA[Mảng giá vàng để bói mệnh khí (tương ứng 5 NPC)]]></Name>
+		<VariableName><![CDATA[arrSoulCraftGold]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2000,5000,10000,20000,50000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[37]]></ID>
+		<Name><![CDATA[Số lần bói miễn phí trong mệnh khí đường]]></Name>
+		<VariableName><![CDATA[nMaxSoulCraftFree]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[38]]></ID>
+		<Name><![CDATA[Số lần bói dùng vàng trong mệnh khí đường]]></Name>
+		<VariableName><![CDATA[nMaxSoulCraftGold]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[50]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[39]]></ID>
+		<Name><![CDATA[Thu tu type can sap xep trong thung item]]></Name>
+		<VariableName><![CDATA[arrItemTypeArrange]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[24,25,26,27,28]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[40]]></ID>
+		<Name><![CDATA[Mang ty le thanh cong khi boi menh khi duong (5 phan tu tuong ung voi 5 NPC)]]></Name>
+		<VariableName><![CDATA[arrSoulCraftRate]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[100,80,60,40,20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[41]]></ID>
+		<Name><![CDATA[Mang so sao toi thieu de mo slot menh khi trong unit (8 slot)]]></Name>
+		<VariableName><![CDATA[arrStarOpenSlotSoulUnit]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,2,4,6,8,11,13,15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[42]]></ID>
+		<Name><![CDATA[thoi gian toi da cua PVP 3 vs 3]]></Name>
+		<VariableName><![CDATA[nWorldPVP3LifeTime]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[300000000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[43]]></ID>
+		<Name><![CDATA[thoi gian toi da cua PVP 1 vs 1]]></Name>
+		<VariableName><![CDATA[nWorldPVPLifeTime]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[600000000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[44]]></ID>
+		<Name><![CDATA[so luong toi da quest tieu cuc duoc active]]></Name>
+		<VariableName><![CDATA[nMaxQuestTransporterActived]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[45]]></ID>
+		<Name><![CDATA[Ty le random loai quest tieu cuc (tuong ung 5 loai)]]></Name>
+		<VariableName><![CDATA[arrQuestTransporterStarRate]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,30,25,20,15,10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[46]]></ID>
+		<Name><![CDATA[So luong toi da cac loai quest tieu cuc khi random (tuong ung 5 loai) (-1: thoai mai, khong gioi han)]]></Name>
+		<VariableName><![CDATA[arrQuestTransporterMaxStar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,-1,-1,-1,40,40]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[47]]></ID>
+		<Name><![CDATA[Item thien thu tan quyen]]></Name>
+		<VariableName><![CDATA[]]></VariableName>
+		<ItemType><![CDATA[9]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[2]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[48]]></ID>
+		<Name><![CDATA[so luong quest moi lan random quest tieu cuc]]></Name>
+		<VariableName><![CDATA[nQuestTransporterCount]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[49]]></ID>
+		<Name><![CDATA[so luong toi da 1 loai menh khi duoc gan vao nhan vat]]></Name>
+		<VariableName><![CDATA[nMaxSoulTypeInCharacter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[3]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[50]]></ID>
+		<Name><![CDATA[thoi gian cho moi lan random]]></Name>
+		<VariableName><![CDATA[nTimeRandomTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[51]]></ID>
+		<Name><![CDATA[thoi gian (minute) va gia xu tuong ung dung trong tieu cuc]]></Name>
+		<VariableName><![CDATA[nXuPerUnitTimeTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[52]]></ID>
+		<Name><![CDATA[mang so sao bat buoc random lan 1 cua tieu cuc (mang 6 phan tu tuong ung 5 sao)]]></Name>
+		<VariableName><![CDATA[arrRandomStarFirstTranspoter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,0,0,0,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[53]]></ID>
+		<Name><![CDATA[mang so sao bat buoc random lan 2 cua tieu cuc (mang 6 phan tu tuong ung 5 sao)]]></Name>
+		<VariableName><![CDATA[arrRandomStarSecondTranspoter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,1,1,0,1,0]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[54]]></ID>
+		<Name><![CDATA[mang so sao bat buoc random lan 3 cua tieu cuc (mang 6 phan tu tuong ung 5 sao)]]></Name>
+		<VariableName><![CDATA[arrRandomStarThirdTranspoter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,0,0,0,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[55]]></ID>
+		<Name><![CDATA[gioi han trai]]></Name>
+		<VariableName><![CDATA[nBorderLeft]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[70]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[56]]></ID>
+		<Name><![CDATA[gioi han phai]]></Name>
+		<VariableName><![CDATA[nBorderRight]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[1190]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[57]]></ID>
+		<Name><![CDATA[khoang cach giua cac character]]></Name>
+		<VariableName><![CDATA[nDeltaXBetweenChar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[40]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[58]]></ID>
+		<Name><![CDATA[toc do ban dau cua gia toc(px/ms)]]></Name>
+		<VariableName><![CDATA[nVelocityBeginKB]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[59]]></ID>
+		<Name><![CDATA[gioi han trai Mode Boss]]></Name>
+		<VariableName><![CDATA[nBorderLeftModeBoss]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[900]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[60]]></ID>
+		<Name><![CDATA[max diem no khi]]></Name>
+		<VariableName><![CDATA[nMaxFuryPoint]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[61]]></ID>
+		<Name><![CDATA[cooldown global]]></Name>
+		<VariableName><![CDATA[nCooldownGlobal]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[1500]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[62]]></ID>
+		<Name><![CDATA[khoang cach giua cac bong]]></Name>
+		<VariableName><![CDATA[nDeltaXBetweenIllusion]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[25]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[63]]></ID>
+		<Name><![CDATA[full diem no khi]]></Name>
+		<VariableName><![CDATA[bFullFuryPoint]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[0]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[64]]></ID>
+		<Name><![CDATA[gioi han xu lock]]></Name>
+		<VariableName><![CDATA[nMaxXuLock]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[1000000000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[65]]></ID>
+		<Name><![CDATA[So lan luyen dan toi da trong ngay]]></Name>
+		<VariableName><![CDATA[nMaxAlchemyInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[66]]></ID>
+		<Name><![CDATA[Danh sach so slot duoc mo trong inventory unit]]></Name>
+		<VariableName><![CDATA[arrOpenSlotInvUnit]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[67]]></ID>
+		<Name><![CDATA[Danh sach so xu can tra de mo slot trong inventory unit]]></Name>
+		<VariableName><![CDATA[arrXuNeedOpenSlotInvUnit]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[5,5,5,5,5,10,10,10,10,10,15,15,15,15,15,20,20,20,20,20,25,25,25,25,25,30,30,30,30,30,35,35,35,35,35,40,40,40,40,40,45,45,45,45,45,50,50,50,50,50]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[68]]></ID>
+		<Name><![CDATA[Danh sach so slot duoc mo trong inventory item]]></Name>
+		<VariableName><![CDATA[arrOpenSlotInvItem]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[5,5,5,5,5,5,5,5,5,5,5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[69]]></ID>
+		<Name><![CDATA[Danh sach so xu can tra de mo slot trong inventory item]]></Name>
+		<VariableName><![CDATA[arrXuNeedOpenSlotInvItem]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[5,10,15,20,25,30,35,40,45,50,55]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[70]]></ID>
+		<Name><![CDATA[Danh sach so slot duoc mo trong inventory soul]]></Name>
+		<VariableName><![CDATA[arrOpenSlotInvSoul]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[71]]></ID>
+		<Name><![CDATA[Danh sach so xu can tra de mo slot trong inventory soul]]></Name>
+		<VariableName><![CDATA[arrXuNeedOpenSlotInvSoul]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[5,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,95,100,105]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[72]]></ID>
+		<Name><![CDATA[So AP duoc hoi phuc toi da trong ngay mac dinh]]></Name>
+		<VariableName><![CDATA[nMaxAPFillingInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[73]]></ID>
+		<Name><![CDATA[Danh sach slot hoi phuc HP theo vip]]></Name>
+		<VariableName><![CDATA[arrVipFillingHP]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,0,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[74]]></ID>
+		<Name><![CDATA[Danh sach slot xu can hoi phuc HP]]></Name>
+		<VariableName><![CDATA[arrXuNeedFillingHP]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,10,20,50]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[75]]></ID>
+		<Name><![CDATA[Danh sach slot HP du tru]]></Name>
+		<VariableName><![CDATA[arrPotionFillingHP]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1000,2000,5000,10000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[76]]></ID>
+		<Name><![CDATA[AP cong them moi level cho nguoi choi]]></Name>
+		<VariableName><![CDATA[arrAdditionAP]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[77]]></ID>
+		<Name><![CDATA[Thoi gian reset chuc phuc trong ngay(Gio trong ngay)]]></Name>
+		<VariableName><![CDATA[nStarAdditionRateResetHour]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[9]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[78]]></ID>
+		<Name><![CDATA[Thoi gian reset cac du lieu cua nguoi choi hang ngay(Gio trong ngay)]]></Name>
+		<VariableName><![CDATA[nDailyResetHour]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[0]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[79]]></ID>
+		<Name><![CDATA[Thoi gian (so phut) refesh quest hang ngay]]></Name>
+		<VariableName><![CDATA[nTimeRereshDailyQuest]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[80]]></ID>
+		<Name><![CDATA[so luong toi da quest hang ngay duoc nhan thuong]]></Name>
+		<VariableName><![CDATA[nMaxDailyQuestReceivedReward]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[81]]></ID>
+		<Name><![CDATA[Qua thuong nap the lan dau]]></Name>
+		<VariableName><![CDATA[arrFirstChargeReward]]></VariableName>
+		<ItemType><![CDATA[32]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2345,2346,2347,2348,2349]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[82]]></ID>
+		<Name><![CDATA[So luong quest hang ngay toi da tao 1 lan]]></Name>
+		<VariableName><![CDATA[nMaxDailyQuestCreated]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[83]]></ID>
+		<Name><![CDATA[Ty le random loai quest hang ngay (tuong ung 4 loai)]]></Name>
+		<VariableName><![CDATA[arrDailyQuestStarRate]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,50,25,15,10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[84]]></ID>
+		<Name><![CDATA[Phan thuong tuong ung voi 30 lan diem danh]]></Name>
+		<VariableName><![CDATA[arrRewardCheckIn]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,2293,2294,2295,2296,2297,2298,2299,0,0,0,0,0,0,2300,0,0,0,0,0,0,2301]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[85]]></ID>
+		<Name><![CDATA[So luong toi da cac loai quest hang ngay khi random (tuong ung 4 loai) (-1: thoai mai, khong gioi han)]]></Name>
+		<VariableName><![CDATA[arrDailyQuestMaxStar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,-1,-1,-1,40]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[86]]></ID>
+		<Name><![CDATA[CHUA DUNG]]></Name>
+		<VariableName><![CDATA[CHUA DUNG]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[100,100,100,100,100,100,100,100,100,100,100,100,100,100,100]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[87]]></ID>
+		<Name><![CDATA[So luong toi thieu cac loai quest hang ngay khi random (tuong ung 4 loai) (chu y tong cong khong lon hon 5)]]></Name>
+		<VariableName><![CDATA[arrDailyQuestMinStar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,8,4,2,2]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[88]]></ID>
+		<Name><![CDATA[Gia de refresh quest hang ngay]]></Name>
+		<VariableName><![CDATA[nRefreshDailyQuestXuPrice]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[89]]></ID>
+		<Name><![CDATA[CHUA DUNG]]></Name>
+		<VariableName><![CDATA[CHUA DUNG]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[200,200,200,200,200,200,200,200,200,200,200,200,200,200,200]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[90]]></ID>
+		<Name><![CDATA[Gia hoan thanh 1 quest hang ngay (khong phai VIP)]]></Name>
+		<VariableName><![CDATA[nCloseDailyQuestXuPrice]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[91]]></ID>
+		<Name><![CDATA[Gia Vang Moi Lan Doi Sach Ky Nang]]></Name>
+		<VariableName><![CDATA[nChangeSkillBookPrice]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[92]]></ID>
+		<Name><![CDATA[Gia Vang Moi Lan Doi Sach Tran Hinh]]></Name>
+		<VariableName><![CDATA[nChangeFormationBookPrice]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[93]]></ID>
+		<Name><![CDATA[Mang so luong AP hoi phuc]]></Name>
+		<VariableName><![CDATA[arrQuantityAP]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,5,10,30,40]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[94]]></ID>
+		<Name><![CDATA[Mang discount AP hoi phuc]]></Name>
+		<VariableName><![CDATA[arrDiscountAP]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,5,8,10,20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[95]]></ID>
+		<Name><![CDATA[So luong toi thieu cac loai quest tieu cuc khi random (tuong ung 5 loai) (chu y tong cong khong lon hon 5)]]></Name>
+		<VariableName><![CDATA[arrQuestTransporterMinStar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,0,0,2,2]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[96]]></ID>
+		<Name><![CDATA[gia thanh lap bang hoi (tinh theo gold)]]></Name>
+		<VariableName><![CDATA[nPriceCreateGuild]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[100000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[97]]></ID>
+		<Name><![CDATA[so luong toi da yeu cau gia nhap]]></Name>
+		<VariableName><![CDATA[nMaxRequestJoinList]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[50]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[98]]></ID>
+		<Name><![CDATA[so luong thanh vien]]></Name>
+		<VariableName><![CDATA[nNumOfMember]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[99]]></ID>
+		<Name><![CDATA[so thanh vien tang them theo cap do bang hoi]]></Name>
+		<VariableName><![CDATA[arrAdditionMember]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[100]]></ID>
+		<Name><![CDATA[so luong toi da log action]]></Name>
+		<VariableName><![CDATA[nMaxActionLogList]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[101]]></ID>
+		<Name><![CDATA[so ngay cho de co the thoai vi nua]]></Name>
+		<VariableName><![CDATA[nDayCanTransferPresidentAgain]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[7]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[102]]></ID>
+		<Name><![CDATA[so ngay cho de co the tham gia lai guild sau khi roi]]></Name>
+		<VariableName><![CDATA[nDayCanJoinGuildAgain]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[103]]></ID>
+		<Name><![CDATA[diem cong hien de nang cap bang hoi]]></Name>
+		<VariableName><![CDATA[arrDPCostUpGuildLevel]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,6000,8000,10000,12000,14000,16000,18000,20000,22000,24000,26000,28000,30000,32000,34000,36000,38000,40000,42000,44000,46000,48000,50000,52000,54000,56000,58000,60000,62000,64000,66000,68000,70000,72000,74000,76000,78000,80000,82000,84000,86000,88000,90000,92000,94000,96000,98000,100000,102000,104000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[104]]></ID>
+		<Name><![CDATA[tai san duy tri guild]]></Name>
+		<VariableName><![CDATA[vAssetExtensionGuild]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,10,20,30,40]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[105]]></ID>
+		<Name><![CDATA[CHUA DUNG]]></Name>
+		<VariableName><![CDATA[CHUA DUNG]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[106]]></ID>
+		<Name><![CDATA[So xu tieu nhan lan quay may man]]></Name>
+		<VariableName><![CDATA[nConsumeXuNeedChangeLuckGiftTime]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[50]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[107]]></ID>
+		<Name><![CDATA[Mang ID Hero trong shop]]></Name>
+		<VariableName><![CDATA[arrHeroesID]]></VariableName>
+		<ItemType><![CDATA[2]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[47,48,49,50,51,295,248,296,88,93,98,103,108,89,94,99,104,109,90,95,100,105,110,353,350,251,250,352,367]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[108]]></ID>
+		<Name><![CDATA[Mang ID Mission tuong ung Hero trong shop]]></Name>
+		<VariableName><![CDATA[arrMissionIDByHero]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[61,2,3,4,5,201,202,203,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,361,362,375,376,377,679]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[109]]></ID>
+		<Name><![CDATA[So gold luyen kim theo level]]></Name>
+		<VariableName><![CDATA[arrAlchemyGoldByLevel]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,2500,5000,7500,10000,12500,15000,17500,20000,22500,25000,27500,30000,32500,35000,37500,40000,42500,45000,47500,50000,52500,55000,57500,60000,62500,65000,67500,70000,72500,75000,77500,80000,82500,85000,87500,90000,92500,95000,97500,100000,102500,105000,107500,110000,112500,115000,117500,120000,122500,125000,127500,130000,132500,135000,137500,140000,142500,145000,147500,150000,152500,155000,157500,160000,162500,165000,167500,170000,172500,175000,177500,180000,182500,185000,187500,190000,192500,195000,197500,200000,202500,205000,207500,210000,212500,215000,217500,220000,222500,225000,227500,230000,232500,235000,237500,240000,242500,245000,247500,250000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[110]]></ID>
+		<Name><![CDATA[So xu tra de luyen kim theo so lan luyen]]></Name>
+		<VariableName><![CDATA[arrAlchemyXuNeedByTime]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,3,4,4,5,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[111]]></ID>
+		<Name><![CDATA[Thoi gian launch game - để tính đua top]]></Name>
+		<VariableName><![CDATA[strTimeLaunchGame]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[5]]></Type>
+		<Value><![CDATA[2014-11-11 00:00:00,2014-11-11 00:00:00,2014-11-11 00:00:00,2014-11-12 00:00:00,2014-11-14 00:00:00,2014-11-16 00:00:00,2014-11-18 00:00:00,2014-11-20 00:00:00,2014-11-30 00:00:00,2014-12-05 00:00:00,2014-12-12 00:00:00,2014-12-19 00:00:00,2014-12-26 00:00:00,2014-12-31 00:00:00,2015-01-09 00:00:00,2015-03-05 00:00:00]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[112]]></ID>
+		<Name><![CDATA[Mang reward qua may man]]></Name>
+		<VariableName><![CDATA[arrRewardLuckyGift]]></VariableName>
+		<ItemType><![CDATA[32]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[907,908,909,910,911,912,913,914]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[113]]></ID>
+		<Name><![CDATA[Mang ty le reward qua may man]]></Name>
+		<VariableName><![CDATA[arrRewardLuckyGiftRate]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[15,15,15,20,20,5,5,5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[114]]></ID>
+		<Name><![CDATA[Moc level tru AP khi di Mission]]></Name>
+		<VariableName><![CDATA[nPosLevelDecreaseAP]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[115]]></ID>
+		<Name><![CDATA[So xu can nhan thuong online nhanh]]></Name>
+		<VariableName><![CDATA[arrXuNeedReceiveGiftOnlineFast]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[5,5,5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[116]]></ID>
+		<Name><![CDATA[So luong mail trong inbox toi da cua 1 user]]></Name>
+		<VariableName><![CDATA[nMaxInboxMail]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[80]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[117]]></ID>
+		<Name><![CDATA[So luong friend toi da cua 1 user]]></Name>
+		<VariableName><![CDATA[nMaxFriend]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[100]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[118]]></ID>
+		<Name><![CDATA[Thoi gian het han cua mail he thong(Co attachment) - Tinh bang phut]]></Name>
+		<VariableName><![CDATA[nMailDefaultExpirationTime]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10080]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[119]]></ID>
+		<Name><![CDATA[Title cua mail he thong]]></Name>
+		<VariableName><![CDATA[strDefaultMailTitle]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[Title mail]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[120]]></ID>
+		<Name><![CDATA[Noi dung cua mail he thong khi goi item vao mail]]></Name>
+		<VariableName><![CDATA[strDefaultMailContent]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[Noi dung mail]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[121]]></ID>
+		<Name><![CDATA[Ten mail he thong]]></Name>
+		<VariableName><![CDATA[strMailSystemName]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[He Thong]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[122]]></ID>
+		<Name><![CDATA[Toi da diem Uy Danh]]></Name>
+		<VariableName><![CDATA[nMaxHonor]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[100000000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[123]]></ID>
+		<Name><![CDATA[3 moc thoi gian online nhan thuong]]></Name>
+		<VariableName><![CDATA[arrTimeGiftOnline]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[10,20,30]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[124]]></ID>
+		<Name><![CDATA[Danh sach reward nhan thuong online]]></Name>
+		<VariableName><![CDATA[arrGiftOnlineRewardNormal]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[929,930,931]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[125]]></ID>
+		<Name><![CDATA[So ngay dua top nhan qua toplevel]]></Name>
+		<VariableName><![CDATA[nDayReceiveTopLevel]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[126]]></ID>
+		<Name><![CDATA[So ngay hien thi thong tin history them - qua tang]]></Name>
+		<VariableName><![CDATA[nDayExtraHistoryTopLevel]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[3]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[127]]></ID>
+		<Name><![CDATA[Level unlock cac shop trong giang ho dai hiep]]></Name>
+		<VariableName><![CDATA[unlockShopLevelRequirement]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[27,21,44,70]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[128]]></ID>
+		<Name><![CDATA[Thoi gian timeout loading from outgame to in game]]></Name>
+		<VariableName><![CDATA[nMaxLoadingTimeOut]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[30]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[129]]></ID>
+		<Name><![CDATA[Mang diem chuc phuc toi da nhan duoc moi khi up that bai]]></Name>
+		<VariableName><![CDATA[arrMaxCpPerUpStarFail]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,1,2,2,3,3,4,4,6,6,6,8,9,10,11,12]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[130]]></ID>
+		<Name><![CDATA[Mang ti le up sao thanh cong khi vuot qua MinCP UpStar (phần mười ngàn)]]></Name>
+		<VariableName><![CDATA[arrMinRateUpStar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[3333,3333,1500,1000,667,500,500,375,321,225,150,103,75,48,38,24]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[131]]></ID>
+		<Name><![CDATA[Mang ti le up sao thanh cong khi vuot qua AvgCP UpStar (phần mười ngàn)]]></Name>
+		<VariableName><![CDATA[arrAvgRateUpStar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[3500,3500,3500,3500,3500,3500,3500,3500,3500,3500,3500,3500,3500,3500,3500,3500]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[132]]></ID>
+		<Name><![CDATA[Mang Min CP de bat dau co rate up star]]></Name>
+		<VariableName><![CDATA[arrMinCPAvailableUpStar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[3,3,10,15,30,60,100,160,180,300,360,660,1024,1800,5420,9500]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[133]]></ID>
+		<Name><![CDATA[Mang Trung Binh CP de nang rate up star]]></Name>
+		<VariableName><![CDATA[arrAvgCPAvailableUpStar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[6,6,20,30,60,100,160,240,320,500,660,1240,1960,3460,5650,9600]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[134]]></ID>
+		<Name><![CDATA[Mang diem chuc phuc toi thieu nhan duoc moi khi up that bai]]></Name>
+		<VariableName><![CDATA[arrMinCPPerUpStarFail]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,1,1,1,1,1,2,2,3,3,3,4,5,6,7,8]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[135]]></ID>
+		<Name><![CDATA[Mang Max CP de nang rate up star len 100%]]></Name>
+		<VariableName><![CDATA[arrMaxCPAvailableUpStar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[10,10,25,40,70,120,180,280,360,560,720,1310,2060,3560,5750,9700]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[136]]></ID>
+		<Name><![CDATA[Thoi gian cho luyen kim (tinh theo giay)]]></Name>
+		<VariableName><![CDATA[nTimeWaitAlchemy]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[120]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[137]]></ID>
+		<Name><![CDATA[Phi bo thoi gian cho luyen kim]]></Name>
+		<VariableName><![CDATA[nCostSkipTimeWaitAlchemy]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[2]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[138]]></ID>
+		<Name><![CDATA[So vang luyen kim theo level]]></Name>
+		<VariableName><![CDATA[nGoldAlchemyPerLevel]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[2500]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[139]]></ID>
+		<Name><![CDATA[Ty le theo so lan luyen kim 40 lan dau tien (phan ngan)]]></Name>
+		<VariableName><![CDATA[nRatePerTimesAlchemy40TimesBegin]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[25]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[140]]></ID>
+		<Name><![CDATA[So xu tang trong 40 lan luyen kim dau tien]]></Name>
+		<VariableName><![CDATA[nXuCountAlchemyGift]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[500]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[141]]></ID>
+		<Name><![CDATA[So xu co the nhan duoc trong moi lan luyen kim]]></Name>
+		<VariableName><![CDATA[arrXuReceiveAlchemy]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,1,5,10,100,500]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[142]]></ID>
+		<Name><![CDATA[Ty le co the nhan xu trong moi lan luyen kim (phan tram ngan)]]></Name>
+		<VariableName><![CDATA[arrRateReceiveXuAlchemy]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[230,300,260,200,9,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[143]]></ID>
+		<Name><![CDATA[So luot toi da tren 1 lan can quet]]></Name>
+		<VariableName><![CDATA[nMaxTimesSweep]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[30]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[144]]></ID>
+		<Name><![CDATA[Thoi gian 1 lan can quet (tinh theo giay)]]></Name>
+		<VariableName><![CDATA[nTimeOneTimesSweep]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[60]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[145]]></ID>
+		<Name><![CDATA[Phi hoan thanh nhanh 1 luot can quet (tinh theo xu)]]></Name>
+		<VariableName><![CDATA[nCostFinishOneTimesSweep]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[146]]></ID>
+		<Name><![CDATA[Phi de refresh quest hang ngay]]></Name>
+		<VariableName><![CDATA[arrRefreshDailyQuestXuPrice]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,0,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[147]]></ID>
+		<Name><![CDATA[Phi de refresh quest tieu cuc]]></Name>
+		<VariableName><![CDATA[arrRefreshTransporterQuestXuPrice]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,0,0,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75,75]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[148]]></ID>
+		<Name><![CDATA[level co the thanh lap bang hoi]]></Name>
+		<VariableName><![CDATA[nLevelCanCreateGuild]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[149]]></ID>
+		<Name><![CDATA[so luong toi da truong lao bang hoi]]></Name>
+		<VariableName><![CDATA[nMaxGuildElder]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[3]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[150]]></ID>
+		<Name><![CDATA[so luong toi da doi truong bang hoi]]></Name>
+		<VariableName><![CDATA[nMaxGuildCaptain]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[151]]></ID>
+		<Name><![CDATA[phan thuong sach thang cap ky nang nhiem vu tieu cuc]]></Name>
+		<VariableName><![CDATA[arrSkillScrollQttReTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,1,2,2,3,5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[152]]></ID>
+		<Name><![CDATA[phan thuong vang nhiem vu tieu cuc]]></Name>
+		<VariableName><![CDATA[nGoldReTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[2000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[153]]></ID>
+		<Name><![CDATA[phan thuong exp nhiem vu tieu cuc]]></Name>
+		<VariableName><![CDATA[nExpReTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[120]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[154]]></ID>
+		<Name><![CDATA[ty le so luong phan thuong nhiem vu tieu cuc]]></Name>
+		<VariableName><![CDATA[arrRateQttReTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,25,35,45,55,100]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[155]]></ID>
+		<Name><![CDATA[Nhiem vu Da Tau: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointDailyQuest]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2,5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[156]]></ID>
+		<Name><![CDATA[Nhiem vu Van Tieu: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointTransporterQuest]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2,5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[157]]></ID>
+		<Name><![CDATA[Chien dich: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointCampaign]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2,5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[158]]></ID>
+		<Name><![CDATA[Hoa Son Luan Kiem: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointPVP1vs1]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[4,3]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[159]]></ID>
+		<Name><![CDATA[Tam Hung Ky Hiep: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointPVP3vs3MM]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[6,2]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[160]]></ID>
+		<Name><![CDATA[Vo Lam Minh Chu: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointPVP1vs1MM]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[6,2]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[161]]></ID>
+		<Name><![CDATA[Anh Hung Ai: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointHeroic]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[4,3]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[162]]></ID>
+		<Name><![CDATA[Mat Dao: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointGlobalBoss]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[8,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[163]]></ID>
+		<Name><![CDATA[Thap Cao Thu: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointTower]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[9,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[164]]></ID>
+		<Name><![CDATA[Luyen Kim: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointAlchemy]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[5,3]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[165]]></ID>
+		<Name><![CDATA[Boi Menh Khi: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointSoul]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[4,4]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[166]]></ID>
+		<Name><![CDATA[Truyen Cong: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointTransmitExp]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[6,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[167]]></ID>
+		<Name><![CDATA[Thang Cap Ky Nang: phan thuong nang dong/lan va gioi han/ngay]]></Name>
+		<VariableName><![CDATA[arrActivityPointUpgradeSkill]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[6,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[168]]></ID>
+		<Name><![CDATA[Guild: Moc thuong Diem Nang Dong]]></Name>
+		<VariableName><![CDATA[arrRangeRewardActPnt]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[20,40,60,80,120]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[169]]></ID>
+		<Name><![CDATA[Phan thuong tuong ung moc Diem Nang Dong]]></Name>
+		<VariableName><![CDATA[arrRewardPerRangeActPnt]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2340,2341,2342,2343,2344]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[170]]></ID>
+		<Name><![CDATA[Guild: So lan cong hien Xu toi da trong ngay]]></Name>
+		<VariableName><![CDATA[nMaxTimesDedicateXuInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[3]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[171]]></ID>
+		<Name><![CDATA[Guild: Phi cong hien Vang]]></Name>
+		<VariableName><![CDATA[arrCostDedicateGold]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[500000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[172]]></ID>
+		<Name><![CDATA[Guild: Diem cong hien nhan duoc tuong ung voi Vang cong hien]]></Name>
+		<VariableName><![CDATA[arrGoldReceiveDP]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[173]]></ID>
+		<Name><![CDATA[Guild: Phi cong hien Xu]]></Name>
+		<VariableName><![CDATA[arrCostDedicateXu]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[100,200,500]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[174]]></ID>
+		<Name><![CDATA[Guild: Diem cong hien nhan duoc tuong ung voi Xu cong hien]]></Name>
+		<VariableName><![CDATA[arrXuReceiveDP]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[20,40,100]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[175]]></ID>
+		<Name><![CDATA[Guild: So lan cong hien Gold toi da trong ngay]]></Name>
+		<VariableName><![CDATA[nMaxTimesDedicateGoldInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[176]]></ID>
+		<Name><![CDATA[Train Kungfu: thoi gian chi diem vo cong moi lan (tinh theo phut)]]></Name>
+		<VariableName><![CDATA[nTimeTrainKungfuEachTimes]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[177]]></ID>
+		<Name><![CDATA[Train Kungfu: so lan chi diem vo cong trong ngay]]></Name>
+		<VariableName><![CDATA[nMaxTimesTrainKungfuInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[6]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[178]]></ID>
+		<Name><![CDATA[Train Kungfu: so lan duoc chi diem vo cong trong ngay]]></Name>
+		<VariableName><![CDATA[nMaxTimesTrainedKungfuInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[2]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[179]]></ID>
+		<Name><![CDATA[Train Kungfu: khoang cach thoi gian nhan phan thuong (tinh theo giay)]]></Name>
+		<VariableName><![CDATA[nIntervalTimeReceiveReward]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[180]]></ID>
+		<Name><![CDATA[Train Kungfu: exp nhan duoc moi moc thoi gian]]></Name>
+		<VariableName><![CDATA[nExpReceiveEachTimes]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[500]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[181]]></ID>
+		<Name><![CDATA[Train Kungfu: level it nhat nguoi chi diem vo cong phai lon hon nguoi duoc chi diem]]></Name>
+		<VariableName><![CDATA[nLevelMinGreaterRequire]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[182]]></ID>
+		<Name><![CDATA[Train Kungfu: level nhieu nhat nguoi chi diem vo cong phai lon hon nguoi duoc chi diem]]></Name>
+		<VariableName><![CDATA[nLevelMaxGreaterRequire]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[183]]></ID>
+		<Name><![CDATA[Silver Mine: bac tuog ung pham chat cua mo theo moc thoi gian mỗi 10 phút]]></Name>
+		<VariableName><![CDATA[vSilverMineRateSilverAccumulateQuality]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,100,130,160,200]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[184]]></ID>
+		<Name><![CDATA[Silver Mine: chu ky thoi gian nhan bac (tinh theo phut)]]></Name>
+		<VariableName><![CDATA[nIntervalTimeAccumulateSilver]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[2]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[185]]></ID>
+		<Name><![CDATA[Silver Mine: thoi gian chiem mo bac (tinh theo gio)]]></Name>
+		<VariableName><![CDATA[nTimeOccupy]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[4]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[186]]></ID>
+		<Name><![CDATA[Silver Mine: chu ky thoi gian giua nhung lan cuop mo (tinh theo phut)]]></Name>
+		<VariableName><![CDATA[nTimeWaitRob]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[2]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[187]]></ID>
+		<Name><![CDATA[Silver Mine: so lan duoc cuop mo trong ngay]]></Name>
+		<VariableName><![CDATA[nMaxTimesRobInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[188]]></ID>
+		<Name><![CDATA[Silver Mine: So bac moi lan bi cuop (tinh theo %)]]></Name>
+		<VariableName><![CDATA[nSilverRobbedPerTimes]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[189]]></ID>
+		<Name><![CDATA[Silver Mine: So lan bi cuop toi da / mo]]></Name>
+		<VariableName><![CDATA[nMaxTimesRobbed]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[3]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[190]]></ID>
+		<Name><![CDATA[Silver Mine: Thoi gian het han kich hoat tang cuong khai thac tu luc bat dau (tinh theo phut)]]></Name>
+		<VariableName><![CDATA[nTimeExpireActiveEnhancedExtraction]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[30]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[191]]></ID>
+		<Name><![CDATA[Silver Mine: So lan toi da kich hoat bao ve trong ngay]]></Name>
+		<VariableName><![CDATA[nMaxTimesActiveProtectInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[2]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[192]]></ID>
+		<Name><![CDATA[Silver Mine: Gia kich hoat tang cuong khai thac (tinh bang xu)]]></Name>
+		<VariableName><![CDATA[nCostActiveEnhancedExtraction]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[30]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[193]]></ID>
+		<Name><![CDATA[Silver Mine: Gia kich hoat bao ve (tinh bang xu)]]></Name>
+		<VariableName><![CDATA[nCostActiveProtect]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[195]]></ID>
+		<Name><![CDATA[Guild: gia tri cong them cho vitality ung voi moi guild skill level]]></Name>
+		<VariableName><![CDATA[arrBonusVitalityGuildSkill]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,170,180,190,200,210,220,230,240,250,260,270,280,290,300,310,320,330,340,350,360,370,380,390,400,410,420,430,440,450,460,470,480,490,500]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[196]]></ID>
+		<Name><![CDATA[Guild: gia tri cong them cho strength ung voi moi guild skill level]]></Name>
+		<VariableName><![CDATA[arrBonusStrengthGuildSkill]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,170,180,190,200,210,220,230,240,250,260,270,280,290,300,310,320,330,340,350,360,370,380,390,400,410,420,430,440,450,460,470,480,490,500]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[197]]></ID>
+		<Name><![CDATA[Guild: gia tri cong them cho agility ung voi moi guild skill level]]></Name>
+		<VariableName><![CDATA[arrBonusAgilityGuildSkill]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,170,180,190,200,210,220,230,240,250,260,270,280,290,300,310,320,330,340,350,360,370,380,390,400,410,420,430,440,450,460,470,480,490,500]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[198]]></ID>
+		<Name><![CDATA[Guild: gia tri cong them cho intelligent ung voi moi guild skill level]]></Name>
+		<VariableName><![CDATA[arrBonusIntelligentGuildSkill]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,170,180,190,200,210,220,230,240,250,260,270,280,290,300,310,320,330,340,350,360,370,380,390,400,410,420,430,440,450,460,470,480,490,500]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[199]]></ID>
+		<Name><![CDATA[Guild: diem cong hien yeu cau de nang cap guild skill level]]></Name>
+		<VariableName><![CDATA[arrCostDPUpGuildSkill]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,200,300,400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600,1700,1800,1900,2000,2100,2200,2300,2400,2500,2600,2700,2800,2900,3000,3100,3200,3300,3400,3500,3600,3700,3800,3900,4000,4100,4200,4300,4400,4500,4600,4700,4800,4900,5000,5100]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[200]]></ID>
+		<Name><![CDATA[Guild: phi moi lan cong hien cho guild skill]]></Name>
+		<VariableName><![CDATA[nCostDedicatePointPerTimes]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[201]]></ID>
+		<Name><![CDATA[AP: gioi han level]]></Name>
+		<VariableName><![CDATA[nGiveAPLevelRequirement]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[202]]></ID>
+		<Name><![CDATA[AP: so lan tang doi da trong ngay]]></Name>
+		<VariableName><![CDATA[nMaxTimesGiveAPInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[203]]></ID>
+		<Name><![CDATA[AP: so lan nhan doi da trong ngay]]></Name>
+		<VariableName><![CDATA[nMaxTimesReceiveAPInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[204]]></ID>
+		<Name><![CDATA[Transporter: gioi han level]]></Name>
+		<VariableName><![CDATA[nTransporterLevelRequirement]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[25]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[205]]></ID>
+		<Name><![CDATA[Transporter: so lan van tieu moi ngay nhan duoc]]></Name>
+		<VariableName><![CDATA[nMaxTimesTransporterInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[206]]></ID>
+		<Name><![CDATA[Transporter: so lan van tieu stack duoc]]></Name>
+		<VariableName><![CDATA[nMaxTimesTransporterStack]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[207]]></ID>
+		<Name><![CDATA[Transporter: phan thuong bach tieu]]></Name>
+		<VariableName><![CDATA[vRewardWhiteTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2678,2679,2692]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[208]]></ID>
+		<Name><![CDATA[Transporter: phan thuong luc tieu]]></Name>
+		<VariableName><![CDATA[vRewardGreenTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2693,2694,2741]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[209]]></ID>
+		<Name><![CDATA[Transporter: phan thuong thanh tieu]]></Name>
+		<VariableName><![CDATA[vRewardBlueTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2695,2696,2742]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[210]]></ID>
+		<Name><![CDATA[Transporter: phan thuong hong tieu]]></Name>
+		<VariableName><![CDATA[vRewardRedTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2697,2698,2743]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[211]]></ID>
+		<Name><![CDATA[Transporter: phan thuong kim tieu]]></Name>
+		<VariableName><![CDATA[vRewardYellowTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2699,2700,2744]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[212]]></ID>
+		<Name><![CDATA[Transporter: so lan lam moi toi da trong ngay]]></Name>
+		<VariableName><![CDATA[nMaxTimesRefreshTransporterInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[-1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[213]]></ID>
+		<Name><![CDATA[Transporter: gia moi lan lam moi tieu xa]]></Name>
+		<VariableName><![CDATA[vCostRefreshTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,3,3,4,4,5,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[214]]></ID>
+		<Name><![CDATA[Transporter: xac suat ra 5 loai tieu xa]]></Name>
+		<VariableName><![CDATA[vRateQualityTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,60,25,10,4,1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[215]]></ID>
+		<Name><![CDATA[Transporter: gia thue hong tieu (tinh bang xu)]]></Name>
+		<VariableName><![CDATA[nCostRedTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[250]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[216]]></ID>
+		<Name><![CDATA[Transporter: thoi gian van tieu (tinh bang phut)]]></Name>
+		<VariableName><![CDATA[nTimeTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[217]]></ID>
+		<Name><![CDATA[Transporter: toi da so lan cuop thanh cong]]></Name>
+		<VariableName><![CDATA[nMaxTimesRobSuccessTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[3]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[218]]></ID>
+		<Name><![CDATA[Transporter: khoang thoi gian giua nhung lan cuop thanh cong (tinh bang phut)]]></Name>
+		<VariableName><![CDATA[nIntervalTimeRobSuccessTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[3]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[219]]></ID>
+		<Name><![CDATA[Transporter: toi da so lan cuop trong ngay]]></Name>
+		<VariableName><![CDATA[nMaxTimesRobTransporterInDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[220]]></ID>
+		<Name><![CDATA[Transporter: khoang thoi gian giua nhung lan cuop tieu (tinh bang phut)]]></Name>
+		<VariableName><![CDATA[nIntervalTimeRobTransporter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[221]]></ID>
+		<Name><![CDATA[Transporter: ty le phan thuong moi lan bi cuop (tinh theo %)]]></Name>
+		<VariableName><![CDATA[nTransporterRewardRobbedPerTimes]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[222]]></ID>
+		<Name><![CDATA[Diem nang dong: Phan thuong tuong ung moc Diem Nang Dong danh cho nhung nguoi trong guild]]></Name>
+		<VariableName><![CDATA[vRewardGuildPerRangeActPnt]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2194,2195,2196,2197,2198]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[223]]></ID>
+		<Name><![CDATA[Dig Treasure: toi da so lan dao]]></Name>
+		<VariableName><![CDATA[nDigTreasureMaxTimes]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[100]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[224]]></ID>
+		<Name><![CDATA[Dig Treasure: phi dao vang]]></Name>
+		<VariableName><![CDATA[vDigTreasureCosts]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,0,0,0,0,10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[225]]></ID>
+		<Name><![CDATA[Dig Treasure: ti le phan thuong]]></Name>
+		<VariableName><![CDATA[vDigTreasureRatesReward]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[300,400,250,60,100,100,2100,100,250,50,4500,100,200,100,150,900,300,40]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[226]]></ID>
+		<Name><![CDATA[Dig Treasure: phan thuong]]></Name>
+		<VariableName><![CDATA[vDigTreasureRewards]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2761,2750,3045,2758,2756,2763,2748,3043,2759,2764,2747,2755,2751,2757,2762,2749,3044,2760]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[227]]></ID>
+		<Name><![CDATA[Dig Treasure: thoi gian bat dau]]></Name>
+		<VariableName><![CDATA[tDigTreasureBegin]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[2015-03-17 00:00:00]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[228]]></ID>
+		<Name><![CDATA[Dig Treasure: thoi gian ket thuc]]></Name>
+		<VariableName><![CDATA[tDigTreasureEnd]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[2015-03-24 00:00:00]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[229]]></ID>
+		<Name><![CDATA[Lobby: Thời gian cooldown chuyển chủ phòng (giây)]]></Name>
+		<VariableName><![CDATA[]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[230]]></ID>
+		<Name><![CDATA[Lobby: Giới hạn kick]]></Name>
+		<VariableName><![CDATA[]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[231]]></ID>
+		<Name><![CDATA[Boss: Mảng giá vàng đánh boss khi chưa đủ điều kiện]]></Name>
+		<VariableName><![CDATA[vBossCostQuickJoin]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,50,100]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[232]]></ID>
+		<Name><![CDATA[Boss: Phần trăm máu cộng thêm mỗi lần tiêu diệt boss]]></Name>
+		<VariableName><![CDATA[nBossPercentHpAdd]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[233]]></ID>
+		<Name><![CDATA[Boss: Phần trăm sát thương cộng thêm mỗi lần tiêu diệt boss]]></Name>
+		<VariableName><![CDATA[nBossPercentDamageAdd]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[6]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[234]]></ID>
+		<Name><![CDATA[Boss: Phần trăm chính xác cộng thêm mỗi lần tiêu diệt boss]]></Name>
+		<VariableName><![CDATA[nBossPercentAccuracyAdd]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[235]]></ID>
+		<Name><![CDATA[Boss: Phần trăm chỉ số boss sau so với boss đầu]]></Name>
+		<VariableName><![CDATA[vBossPercentAddBossAfter]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,150,200]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[236]]></ID>
+		<Name><![CDATA[Boss: Phần trăm vàng cộng thêm mỗi lần tiêu diệt boss]]></Name>
+		<VariableName><![CDATA[nBossPercentGoldAdd]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[237]]></ID>
+		<Name><![CDATA[Đổi thiệp cao nhân: số thiệp sơ cấp 1 lần đổi]]></Name>
+		<VariableName><![CDATA[nMasterInviChestLowQuantityPerTimes]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[238]]></ID>
+		<Name><![CDATA[Đổi thiệp cao nhân: tỉ lệ đổi thiệp]]></Name>
+		<VariableName><![CDATA[vMasterInviChestChangeRate]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[95,5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[239]]></ID>
+		<Name><![CDATA[Đổi thiệp cao nhân: id thiệp cao nhân tương ứng với tỉ lệ]]></Name>
+		<VariableName><![CDATA[vMasterInviChestChangeID]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[129,130]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[240]]></ID>
+		<Name><![CDATA[Đổi thiệp cao nhân: giá đổi 1 lần đổi (tính bằng xu)]]></Name>
+		<VariableName><![CDATA[nMasterInviChestCostPerTimes]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[241]]></ID>
+		<Name><![CDATA[Silver Mine: danh sach campaign id cua tuu lau chien]]></Name>
+		<VariableName><![CDATA[vSilverMineCampaignIDs]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[10,11,12,13,14]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[242]]></ID>
+		<Name><![CDATA[Silver Mine: bac tich luy theo campaign id voi tuu lau trang]]></Name>
+		<VariableName><![CDATA[vSilverMineSilverAccumulateWhite]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[3000,4500,6000,7500,9000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[243]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: danh sách ID hộp quà (ItemType 4) theo cấp hộp quà]]></Name>
+		<VariableName><![CDATA[vSecretGiftItemIDs]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[337,338,339,340,341,342]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[244]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: số lần sử dụng tối đa]]></Name>
+		<VariableName><![CDATA[vSecretGiftMaxUseItems]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[400,200,100,30,14,6]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[245]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: % nâng cấp thành công lên cấp kế tiếp]]></Name>
+		<VariableName><![CDATA[vSecretGiftRateUpgrade]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,75,60,30,25,20]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[246]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: số lượng hộp quà cần thiết để nâng cấp]]></Name>
+		<VariableName><![CDATA[vSecretGiftQuantityItemRequire]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,2,2,2,2,2]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[247]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: thời gian bắt đầu]]></Name>
+		<VariableName><![CDATA[]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[2015-03-10 00:01:00]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[248]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: thời gian kết thúc]]></Name>
+		<VariableName><![CDATA[]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[2015-03-17 00:00:00]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[249]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: Level có thể tham gia]]></Name>
+		<VariableName><![CDATA[]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[250]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: phi mua them so lan su dung vat pham]]></Name>
+		<VariableName><![CDATA[vSecretGiftCostBuyUseMore]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,150]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[251]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: so lan su dung vat pham cong them]]></Name>
+		<VariableName><![CDATA[vSecretGiftTimesUseMore]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[200,100,50,15,7,3]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[252]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: diem may man nhan duoc khi that bai]]></Name>
+		<VariableName><![CDATA[nSecretGiftLuckyPointPerFailTimes]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[2]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[253]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: diem may man thanh cong]]></Name>
+		<VariableName><![CDATA[nSecretGiftLuckyPointRandomSuccess]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[8]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[254]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: Ten cac hop qua]]></Name>
+		<VariableName><![CDATA[]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[5]]></Type>
+		<Value><![CDATA[Túi quà cấp 1,Túi quà cấp 2,Túi quà cấp 3,Túi quà cấp 4,Túi quà cấp 5,Túi quà cấp 6]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[255]]></ID>
+		<Name><![CDATA[Hộp Quà Thần Bí: Text đổi vật phẩm]]></Name>
+		<VariableName><![CDATA[]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[5]]></Type>
+		<Value><![CDATA[0,Đổi túi quà Cấp 1 sang Cấp 2,Đổi túi quà Cấp 2 sang Cấp 3,Đổi túi quà Cấp 3 sang Cấp 4,Đổi túi quà Cấp 4 sang Cấp 5,Đổi túi quà Cấp 5 sang Cấp 6]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[256]]></ID>
+		<Name><![CDATA[Xúc Xắc: Số vàng cần để mua thêm lượt đoán]]></Name>
+		<VariableName><![CDATA[nOverUnderExtraBetPrice]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,0,0,15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[258]]></ID>
+		<Name><![CDATA[Xúc Xắc: Số vàng cần để sửa sai]]></Name>
+		<VariableName><![CDATA[nOverUnderExtraSavePrice]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,0,0,10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[259]]></ID>
+		<Name><![CDATA[Xúc Xắc: Điểm tích lũy sau mỗi lần thắng]]></Name>
+		<VariableName><![CDATA[nOverUnderActivityPointPerWin]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[260]]></ID>
+		<Name><![CDATA[Xúc Xắc: Số lần đoán tối đa mỗi ngày]]></Name>
+		<VariableName><![CDATA[nOverUnderMaxBetTimesPerDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[-1]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[261]]></ID>
+		<Name><![CDATA[Xúc Xắc: Số lần sửa sai tối đa mỗi ngày]]></Name>
+		<VariableName><![CDATA[nOverUnderMaxKeepActivityPointPerDay]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[262]]></ID>
+		<Name><![CDATA[Xúc Xắc: Mảng mốc phần thưởng ]]></Name>
+		<VariableName><![CDATA[vOverUnderRewardMilestones]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[10,20,30,40,50,60,70,80,90,100]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[263]]></ID>
+		<Name><![CDATA[Xúc Xắc: Mảng Reward ID cho mỗi mốc]]></Name>
+		<VariableName><![CDATA[vOverUnderRewardIDs]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[2958,2959,2960,2961,2962,2963,2964,2965,2966,2967]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[264]]></ID>
+		<Name><![CDATA[Xúc Xắc: Mảng tỷ lệ thắng thua theo mỗi mốc]]></Name>
+		<VariableName><![CDATA[vOverUnderMilestonesPercentages]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[80,60,40,30,25,20,15,10,10,10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[265]]></ID>
+		<Name><![CDATA[Xúc Xắc: thời gian bắt đầu event]]></Name>
+		<VariableName><![CDATA[tOverUnderBegin]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[2015-03-17 00:00:00]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[266]]></ID>
+		<Name><![CDATA[Xúc Xắc: thời gian kết thúc]]></Name>
+		<VariableName><![CDATA[tOverUnderEnd]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[2015-03-24 00:00:00]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[267]]></ID>
+		<Name><![CDATA[Cửa hàng giảm giá: Thời gian cập nhật item mới (Ph)]]></Name>
+		<VariableName><![CDATA[nShopDiscountUpdateInterval]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[120]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[268]]></ID>
+		<Name><![CDATA[Cửa hàng giảm giá: thời gian bắt đầu event]]></Name>
+		<VariableName><![CDATA[tShopDiscountBegin]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[2015-03-17 00:00:00]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[269]]></ID>
+		<Name><![CDATA[Cửa hàng giảm giá: thời gian kết thúc]]></Name>
+		<VariableName><![CDATA[tShopDiscountEnd]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[2015-03-24 00:00:00]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[270]]></ID>
+		<Name><![CDATA[Tuu lau chien: thoi gian dong bang hanh dong chiem mo cua nguoi choi]]></Name>
+		<VariableName><![CDATA[nTimeFrozenForEachActionAttackResource]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[120]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[271]]></ID>
+		<Name><![CDATA[Tuu lau chien: thoi gian dong bang hanh dong chiem mo cua nguoi choi]]></Name>
+		<VariableName><![CDATA[nTimeFrozenForEachActionAttackResource]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[120]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[272]]></ID>
+		<Name><![CDATA[Vip Tribute: thời gian bắt đầu event]]></Name>
+		<VariableName><![CDATA[tVipTributeBegin]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[2015-02-07 00:00:00]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[273]]></ID>
+		<Name><![CDATA[Vip Tribute: thời gian kết thúc]]></Name>
+		<VariableName><![CDATA[tVipTributeEnd]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[2]]></Type>
+		<Value><![CDATA[2015-02-27 00:00:00]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[274]]></ID>
+		<Name><![CDATA[Doi Skill: loai character co the doi]]></Name>
+		<VariableName><![CDATA[vChangeSkillQuality]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[275]]></ID>
+		<Name><![CDATA[Doi Skill: tang toi thieu co the doi]]></Name>
+		<VariableName><![CDATA[nChangeSkillMinLevel]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[61]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[276]]></ID>
+		<Name><![CDATA[Doi Skill: so luong item doi]]></Name>
+		<VariableName><![CDATA[nChangeSkillItemCount]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[8]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[277]]></ID>
+		<Name><![CDATA[Doi Skill: nhung skill id co the doi]]></Name>
+		<VariableName><![CDATA[vChangeSkillIDCanChange]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,22,23,24,25,26,27,28,29,30,31,32,33]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[278]]></ID>
+		<Name><![CDATA[Song Hung: thoi gian choi 1 man Song Hung (tinh bang giay)]]></Name>
+		<VariableName><![CDATA[nPVP2MaxPlayTime]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[210000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[279]]></ID>
+		<Name><![CDATA[Song Hung: thoi gian 1 luot choi (tinh bang giay)]]></Name>
+		<VariableName><![CDATA[nPVP2Time1Round]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[300]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[280]]></ID>
+		<Name><![CDATA[Song Hung: thoi gian cho 1 luot choi (tinh bang giay)]]></Name>
+		<VariableName><![CDATA[nPVP2TimeWait1Round]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[60]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[281]]></ID>
+		<Name><![CDATA[VLMC: thoi gian choi 1 man Song Hung (tinh bang giay)]]></Name>
+		<VariableName><![CDATA[nPVP1MaxPlayTime]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[210000]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[282]]></ID>
+		<Name><![CDATA[VLMC: thoi gian 1 luot choi (tinh bang giay)]]></Name>
+		<VariableName><![CDATA[nPVP1Time1Round]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[240]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[283]]></ID>
+		<Name><![CDATA[VLMC: thoi gian cho 1 luot choi (tinh bang giay)]]></Name>
+		<VariableName><![CDATA[nPVP1TimeWait1Round]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[60]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[284]]></ID>
+		<Name><![CDATA[Divine Weapon: Danh sach so slot duoc mo trong inventory]]></Name>
+		<VariableName><![CDATA[nDivineWeaponeDefaultInventorySize]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[25]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[285]]></ID>
+		<Name><![CDATA[Divine Weapon: Danh sach so xu can tra de mo slot trong inventory]]></Name>
+		<VariableName><![CDATA[vDivineWeaponeOpenSlotPrice]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[5,10,15,20,25,30,35,40,45,50,55,60,65,70,75,80,85,90,95,100,105]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[286]]></ID>
+		<Name><![CDATA[Divine Weapon: Chuc phuc tang them sau moi lan nang sao that bai]]></Name>
+		<VariableName><![CDATA[vivineWeaponUpLevelLuckyScore]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[1,2,3,4,5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[287]]></ID>
+		<Name><![CDATA[Divine Weapon: Ty le nang sao thanh cong]]></Name>
+		<VariableName><![CDATA[vDivineWeaponUpLevelRate]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[50,40,30,20,10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[288]]></ID>
+		<Name><![CDATA[Divine Weapon: Mang Max CP de nang rate up star len 100%]]></Name>
+		<VariableName><![CDATA[vDivineWeaponUpLevelMaxLuckyScore]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,100,100,100,100]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[289]]></ID>
+		<Name><![CDATA[Divine Weapon: Danh sach so slot duoc mo trong inventory]]></Name>
+		<VariableName><![CDATA[vDivineWeaponeOpenSlotInventory]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[290]]></ID>
+		<Name><![CDATA[Divine Weapon: Max attribute level per star]]></Name>
+		<VariableName><![CDATA[vDivineWeaponMaxAttributeLevelByStar]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,10,30,50,70,90]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[291]]></ID>
+		<Name><![CDATA[Divine Weapon: Mang diem chuc phuc toi thieu nhan duoc moi khi up that bai]]></Name>
+		<VariableName><![CDATA[vDivineWeaponUpLevelMinLuckyScorePerFail]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,0,5,10,15]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[292]]></ID>
+		<Name><![CDATA[Divine Weapon: Mang diem chuc phuc toi da nhan duoc moi khi up that bai]]></Name>
+		<VariableName><![CDATA[vDivineWeaponUpLevelMaxLuckyScorePerFail]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[3]]></Type>
+		<Value><![CDATA[0,10,10,10,10]]></Value>
+	</Data>
+	<Data>
+		<ID><![CDATA[293]]></ID>
+		<Name><![CDATA[Divine Weapon:  gia khoa thuoc tinh]]></Name>
+		<VariableName><![CDATA[nDivineWeaponLockAttributeCost]]></VariableName>
+		<ItemType><![CDATA[0]]></ItemType>
+		<Type><![CDATA[1]]></Type>
+		<Value><![CDATA[25]]></Value>
+	</Data>
+</Datas>

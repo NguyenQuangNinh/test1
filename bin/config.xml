@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <lobbyAddress id="1">
+        <![CDATA[40.40.40.235:6000]]>
+    </lobbyAddress>
+    <service>
+        <linkPaymentATM>
+            <![CDATA[http://bpaytest.g6-mobile.zing.vn/GateWay.php?]]>
+        </linkPaymentATM>
+        <logService>
+            <![CDATA[]]>
+        </logService>
+    </service>
+</config>

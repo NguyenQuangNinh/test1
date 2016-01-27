@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Datas>
+	<Data>
+		<ID>1</ID>
+		<Name>Gợi ý tìm đồng đội</Name>
+		<Suggestions>
+			<Suggestion>
+				<ID>1</ID>
+				<Desc>Đi đến Chiến dịch để tìm đồng đội</Desc>
+				<ModuleID>4</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>1</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>2</ID>
+				<Desc>Làm nhiệm vụ Dã tẩu đủ 30 điểm, nhận thiệp Cao Nhân</Desc>
+				<ModuleID>32</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>16</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>3</ID>
+				<Desc>Chinh chiến Hoa Sơn Luận Kiếm, nhận thiệp Cao Nhân</Desc>
+				<ModuleID>17</ModuleID>
+				<FeatureType>1</FeatureType>	
+				<FeatureID>15</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>4</ID>
+				<Desc>Chiêu mộ Cao nhân từ Cửa hàng</Desc>
+				<ModuleID>52</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>26</FeatureID>
+			</Suggestion>
+		</Suggestions>
+	</Data>
+	<Data>
+		<ID>2</ID>
+		<Name>Gợi ý tìm bí kíp</Name>
+		<Suggestions>
+			<Suggestion>
+				<ID>1</ID>
+				<Desc>Thu thập lệnh bài trong Chiến dịch, nhận thưởng từ rương</Desc>
+				<ModuleID>4</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>1</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>2</ID>
+				<Desc>Mua từ Cửa hàng hoặc dùng tính năng Tự Mua</Desc>
+				<ModuleID>52</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>26</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>3</ID>
+				<Desc>Chinh phục Tháp cao thủ</Desc>
+				<ModuleID>47</ModuleID>
+				<FeatureType>1</FeatureType>					
+				<FeatureID>18</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>4</ID>
+				<Desc>Hoàn thành nhiệm vụ Đưa Thư</Desc>
+				<ModuleID>26</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>6</FeatureID>
+			</Suggestion>
+		</Suggestions>
+	</Data>
+	<Data>
+		<ID>3</ID>
+		<Name>Gợi ý tìm võ kinh</Name>
+		<Suggestions>
+			<Suggestion>
+				<ID>1</ID>
+				<Desc>Thu thập lệnh bài trong Chiến dịch, nhận thưởng từ rương</Desc>
+				<ModuleID>4</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>1</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>2</ID>
+				<Desc>Mua từ Cửa hàng hoặc dùng tính năng Tự mua</Desc>
+				<ModuleID>52</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>26</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>3</ID>
+				<Desc>Chinh phục Tháp cao thủ</Desc>
+				<ModuleID>47</ModuleID>
+				<FeatureType>1</FeatureType>					
+				<FeatureID>18</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>4</ID>
+				<Desc>Hoàn thành nhiệm vụ Dã tẩu</Desc>
+				<ModuleID>32</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>16</FeatureID>
+			</Suggestion>
+		</Suggestions>
+	</Data>
+	<Data>
+		<ID>4</ID>
+		<Name>Hoạt động hằng ngày</Name>
+		<Suggestions>
+			<Suggestion>
+				<ID>1</ID>
+				<Desc>Reset Chúc Phúc</Desc>
+				<ModuleID>25</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>9</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>2</ID>
+				<Desc>Nhiệm Vụ Dã Tẩu</Desc>
+				<ModuleID>32</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>16</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>3</ID>
+				<Desc>Nhiệm Vụ Đưa Thư</Desc>
+				<ModuleID>26</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>6</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>4</ID>
+				<Desc>Tháp Cao Thủ</Desc>
+				<ModuleID>47</ModuleID>
+				<FeatureType>1</FeatureType>					
+				<FeatureID>18</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>5</ID>
+				<Desc>Hoa Sơn Luận Kiếm</Desc>
+				<ModuleID>17</ModuleID>
+				<FeatureType>1</FeatureType>					
+				<FeatureID>15</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>6</ID>
+				<Desc>Anh Hùng Ải</Desc>
+				<ModuleID>45</ModuleID>
+				<FeatureType>1</FeatureType>					
+				<FeatureID>19</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>7</ID>
+				<Desc>Boss Mật Đạo</Desc>
+				<ModuleID>42</ModuleID>
+				<FeatureType>1</FeatureType>					
+				<FeatureID>14</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>8</ID>
+				<Desc>Bói Mệnh Khí</Desc>
+				<ModuleID>8</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>7</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>9</ID>
+				<Desc>Luyện Kim</Desc>
+				<ModuleID>33</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>3</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>10</ID>
+				<Desc>Phục Hồi Thể Lực</Desc>
+				<ModuleID>39</ModuleID>
+				<FeatureType>2</FeatureType>					
+				<FeatureID>-1</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>11</ID>
+				<Desc>Tam Hùng Kỳ Hiệp</Desc>
+				<ModuleID>16</ModuleID>
+				<FeatureType>1</FeatureType>					
+				<FeatureID>-1</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>12</ID>
+				<Desc>Võ Lâm Minh Chủ</Desc>
+				<ModuleID>16</ModuleID>
+				<FeatureType>1</FeatureType>					
+				<FeatureID>-1</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>13</ID>
+				<Desc>Điểm Danh Nhận Thưởng</Desc>
+				<ModuleID>62</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>31</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>14</ID>
+				<Desc>Tặng Thể Lực Hảo Hữu</Desc>
+				<ModuleID>37</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>13</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>15</ID>
+				<Desc>Nhận Thể Lực Hảo Hữu</Desc>
+				<ModuleID>37</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>13</FeatureID>
+			</Suggestion>
+		</Suggestions>
+	</Data>
+	<Data>
+		<ID>5</ID>
+		<Name>Gợi ý lên cấp</Name>
+		<Suggestions>
+			<Suggestion>
+				<ID>1</ID>
+				<Desc>Tham gia chiến dịch tiêu diệt quái</Desc>
+				<ModuleID>4</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>1</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>2</ID>
+				<Desc>Hoàn thành nhiệm vụ chính</Desc>
+				<ModuleID>31</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>12</FeatureID>
+			</Suggestion>
+			<Suggestion>
+				<ID>4</ID>
+				<Desc>Hoàn thành nhiệm vụ Đưa Thư</Desc>
+				<ModuleID>26</ModuleID>
+				<FeatureType>0</FeatureType>					
+				<FeatureID>6</FeatureID>
+			</Suggestion>
+		</Suggestions>
+	</Data>
+</Datas>

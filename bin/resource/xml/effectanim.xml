@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- Layer
+	0	Behind character
+	3	Front of character
+-->
+<root>
+	<Data>
+		<ID>1</ID>
+		<Name>Đào Đào Chi Yêu - Heal</Name>	
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill1_1.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>2</ID>
+		<Name>Đào Đào Chi Yêu - Heal Per Second</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill1_2.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>3</ID>
+		<Name>Đào Đào Chi Yêu - Buff Armor</Name>		
+		<Layers>0</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill1_3.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>4</ID>
+		<Name>Kháng Long Hữu Hối - Effect</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/skill_caibang_khanglonghuuhoi.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>5</ID>
+		<Name>Phi Long Tại Thiên - Explosion</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/caibang_skill1.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>6</ID>
+		<Name>Tam Nga Tue Nguyet - Reduce Damage</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu1_skill3_2.banim</AnimURL>
+	</Data>
+	<!--Data>
+		<ID>7</ID> // stunned
+		<Name></Name>		
+		<Layers></Layers>
+		<Delays></Delays>
+		<Loops></Loops>
+		<AnimURL></AnimURL>
+	</Data>
+	<Data>
+		<ID>8</ID> // charging
+		<Name></Name>		
+		<Layers></Layers>
+		<Delays></Delays>
+		<Loops></Loops>
+		<AnimURL></AnimURL>
+	</Data-->
+	<Data>
+		<ID>9</ID>
+		<Name>Tam Nga Tue Nguyet - Heal</Name>		
+		<Layers>3,0</Layers>
+		<Delays>0,790</Delays>
+		<Loops>1,1</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu1_skill3_3.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>10</ID>
+		<Name>Thanh Tâm Phổ Thiện Chú - Tăng nội công và ngoại công</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill2_1.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>11</ID>
+		<Name>Thanh Tâm Phổ Thiện Chú - Tăng tỉ lệ bạo kích</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill2_2.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>12</ID>
+		<Name>Thanh Tâm Phổ Thiện Chú - Tăng sát thương bạo kích</Name>	
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill2_3.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>13</ID>
+		<Name>Su Tu Hong - Buff ngu hanh</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/buff_ngu_hanh.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>14</ID>
+		<Name>Su Tu Hong - Damage</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/skill1_explosion.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>15</ID>
+		<Name>Kim Cang Bat Hoai - Barrier</Name>	
+		<Layers>3,0</Layers>
+		<Delays>0,0</Delays>
+		<Loops>0,0</Loops>
+		<AnimURL>resource/anim/effect/skill3_shield.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>16</ID>
+		<Name>Kim Cang Bat Hoai - Damage</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/skill2_3_explosion.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>17</ID>
+		<Name>Bat Diet Bat Tuyet - Hoi Mau</Name>		
+		<Layers>0,3</Layers>
+		<Delays>0,0</Delays>
+		<Loops>1,1</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu1_skill2_1.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>18</ID>
+		<Name>Bat Diet Bat Tuyet - Thanh Tay</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu1_skill2_2_thanhtay.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>19</ID>
+		<Name>Bat Diet Bat Tuyet - Khien Chan Disable</Name>		
+		<Layers>0,3,0,3</Layers>
+		<Delays>0,0,528,528</Delays>
+		<Loops>1,1,0,0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu1_skill2_2_khien.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>20</ID>
+		<Name>Bat Diet Bat Tuyet - Khien Chan Sat Thuong</Name>		
+		<Layers>3,3</Layers>
+		<Delays>0,528</Delays>
+		<Loops>1,0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu1_skill2_3.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>21</ID>
+		<Name>Huu So Tu - Tang Ngoai Cong va Noi Cong</Name>		
+		<Layers>0</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill2_1.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>22</ID>
+		<Name>Huu So Tu - Tang Ty Le Chi Mang Ngoai Cong va Noi Cong</Name>		
+		<Layers>0</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill2_2.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>23</ID>
+		<Name>Huu So Tu - Tang Sat Thuong Chi Mang Ngoai Cong va Noi Cong</Name>		
+		<Layers>0</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill2_3.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>24</ID>
+		<Name>Thien Am Tran Ma Khuc - Damage</Name>	
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill3_1_2.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>25</ID>
+		<Name>Thien Am Tran Ma Khuc - Heal Hp</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill3_1_1.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>26</ID>
+		<Name>Thien Am Tran Ma Khuc - Clear Effect</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill3_2.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>27</ID>
+		<Name>Thien Am Tran Ma Khuc - Barrier Resist KnockBack</Name>		
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu2_skill3_3.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>28</ID>
+		<Name>Thien Ha Vo Cau - Explosion</Name>
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/caibang1_skill3_2.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>29</ID>
+		<Name>Than Long Bai Vi - Explosion</Name>
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/caibang_skill3_explosion.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>30</ID>
+		<Name>Thoi Song Vong Nguyet - Hap Thu Sat Thuong Noi Cong</Name>
+		<Layers>0,3</Layers>
+		<Delays>0,0</Delays>
+		<Loops>0,0</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu1_skill1_1.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>31</ID>
+		<Name>Thoi Song Vong Nguyet - Hoi mau</Name>
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu1_skill1_2.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>32</ID>
+		<Name>Thoi Song Vong Nguyet - No Sat Thuong Lan</Name>
+		<Layers>0,3</Layers>
+		<Delays>0,0</Delays>
+		<Loops>1,1</Loops>
+		<AnimURL>resource/anim/effect/ngami_nu1_skill1_3.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>33</ID>
+		<Name>Moc Hoa Lien Tram - Bullet 1</Name>
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/minhgiao_mochoalientram_thuc1_1.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>34</ID>
+		<Name>Moc Hoa Lien Tram - Bullet 2</Name>
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/minhgiao_mochoalientram_thuc1_2.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>35</ID>
+		<Name>Moc Hoa Lien Tram - Bullet 3</Name>
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/minhgiao_mochoalientram_thuc3.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>36</ID>
+		<Name>Moc Hoa Lien Tram - Bullet 4</Name>
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/minhgiao_mochoalientram_thuc4.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>37</ID>
+		<Name>Tam Hoanh Sao Nguyet - lam mu</Name>
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/VD_tamhoangsaonguyet_thuc1_stt.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>38</ID>
+		<Name>Bullet 1</Name>
+		<Layers>3</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/bullet/caibang3_nu2_bullet.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>1000</ID>
+		<Name>Summoning Effect</Name>	
+		<Layers>0</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/fx_xuathien.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>1001</ID>
+		<Name>Critical Effect</Name>	
+		<Layers>0</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/fx_baokich.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>1002</ID>
+		<Name>Blocking Effect</Name>	
+		<Layers>0</Layers>
+		<Delays>0</Delays>
+		<Loops>1</Loops>
+		<AnimURL>resource/anim/effect/fx_dodon.banim</AnimURL>
+	</Data>
+	<Data>
+		<ID>1003</ID>
+		<Name>Focus Effect</Name>	
+		<Layers>0</Layers>
+		<Delays>0</Delays>
+		<Loops>0</Loops>
+		<AnimURL>resource/anim/effect/muiten.banim</AnimURL>
+	</Data>
+</root>

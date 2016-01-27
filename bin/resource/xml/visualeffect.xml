@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <Data>
+    <ID>1</ID>
+    <ComponentIDs>2,1</ComponentIDs>
+    <Width>40</Width>
+    <Name>Bullet - Cai Bang 1</Name>
+  </Data>
+  <Data>
+    <ID>2</ID>
+    <ComponentIDs>3,1</ComponentIDs>
+    <Width>40</Width>
+    <Name>Bullet - Cai Bang 2</Name>
+  </Data>
+  <Data>
+    <ID>3</ID>
+    <ComponentIDs>4,1</ComponentIDs>
+    <Width>50</Width>
+    <Name>Bullet - Cai Bang 3</Name>
+  </Data>
+  <Data>
+    <ID>4</ID>
+    <ComponentIDs>5,1</ComponentIDs>
+    <Width>40</Width>
+    <Name>Bullet - Nga Mi</Name>
+  </Data>
+  <Data>
+    <ID>5</ID>
+    <ComponentIDs>6,33</ComponentIDs>
+    <Width>100</Width>
+    <Name>Effect - Tam Nga Tue Nguyet</Name>
+  </Data>
+  <Data>
+    <ID>6</ID>
+    <ComponentIDs>7,8</ComponentIDs>
+    <Width>60</Width>
+    <Name>Effect - Phi Long Tai Thien - Bullet (Exposive)</Name>
+  </Data>
+  <Data>
+    <ID>7</ID>
+    <ComponentIDs>7</ComponentIDs>
+    <Width>200</Width>
+    <Name>Effect - Phi Long Tai Thien</Name>
+  </Data>
+  <Data>
+    <ID>8</ID>
+    <ComponentIDs>9,10,11</ComponentIDs>
+    <Width>100</Width>
+    <Name>Effect - Thai Cuc Kiem Vu</Name>
+  </Data>
+  <Data>
+    <ID>9</ID>
+    <ComponentIDs>12</ComponentIDs>
+    <Name>Status - Kim Cuong Bat Hoai - Shield</Name>
+  </Data>
+  <Data>
+    <ID>10</ID>
+    <ComponentIDs>13</ComponentIDs>
+    <Name>Status - Kim Cuong Bat Hoai - Buff</Name>
+  </Data>
+  <Data>
+    <ID>11</ID>
+    <ComponentIDs>14</ComponentIDs>
+    <Name>Status - Su Tu Hong - Explosion</Name>
+  </Data>
+  <Data>
+    <ID>12</ID>
+    <ComponentIDs>15</ComponentIDs>
+    <Name>Status - Kim Cuong Bat Hoai - Damage</Name>
+  </Data>
+  <Data>
+    <ID>13</ID>
+    <ComponentIDs>16</ComponentIDs>
+    <Name>Effect - Khang Long Huu Hoi</Name>
+    <Width>300</Width>
+  </Data>
+  <Data>
+    <ID>14</ID>
+    <ComponentIDs>17</ComponentIDs>
+    <Width>150</Width>
+    <Name>Effect - Than Long Bai Vi</Name>
+  </Data>
+  <Data>
+    <ID>15</ID>
+    <ComponentIDs>18</ComponentIDs>
+    <Width>100</Width>
+    <Name>Effect - Bat Cau Trieu Thien</Name>
+  </Data>
+  <Data>
+    <ID>16</ID>
+    <ComponentIDs>19</ComponentIDs>
+    <Name>Effect - Bong Da Ac Cau</Name>
+    <Width>300</Width>
+  </Data>
+  <Data>
+    <ID>17</ID>
+    <ComponentIDs>20</ComponentIDs>
+    <Width>50</Width>
+    <Name>Effect - Thien Ha Vo Cau</Name>
+  </Data>
+  <Data>
+    <ID>18</ID>
+    <ComponentIDs>21</ComponentIDs>
+    <Name>Status - Thien Ha Vo Cau - Explosion</Name>
+  </Data>
+  <Data>
+    <ID>19</ID>
+    <ComponentIDs>22</ComponentIDs>
+    <Name>Status - Dao Dao Chi Yeu</Name>
+  </Data>
+  <Data>
+    <ID>20</ID>
+    <ComponentIDs>23</ComponentIDs>
+    <Name>Status - Dao Dao Chi Yeu</Name>
+  </Data>
+  <Data>
+    <ID>21</ID>
+    <ComponentIDs>24</ComponentIDs>
+    <Name>Status - Dao Dao Chi Yeu</Name>
+  </Data>
+  <Data>
+    <ID>22</ID>
+    <ComponentIDs>25</ComponentIDs>
+    <Name>Status - Huu So Tu</Name>
+  </Data>
+  <Data>
+    <ID>23</ID>
+    <ComponentIDs>41</ComponentIDs>
+    <Name>Status - Increased Critical Chance</Name>
+  </Data>
+  <Data>
+    <ID>24</ID>
+    <ComponentIDs>27</ComponentIDs>
+    <Name>Status - Huu So Tu</Name>
+  </Data>
+  <Data>
+    <ID>25</ID>
+    <ComponentIDs>26,45</ComponentIDs>
+    <Name>Bullet - Cuu Thien Xich 2</Name>
+    <Width>35</Width>
+  </Data>
+  <Data>
+    <ID>26</ID>
+    <ComponentIDs>29</ComponentIDs>
+    <Name>Status - Thien Am Tran Ma Khuc</Name>
+  </Data>
+  <Data>
+    <ID>27</ID>
+    <ComponentIDs>66</ComponentIDs>
+    <Name>Effect - Ho Ly Mi Thuat</Name>
+    <Width>100</Width>
+  </Data>
+  <Data>
+    <ID>28</ID>
+    <ComponentIDs>31</ComponentIDs>
+    <Name>Status - Thien Am Tran Ma Khuc</Name>
+  </Data>
+  <Data>
+    <ID>29</ID>
+    <ComponentIDs>32</ComponentIDs>
+    <Name>Status - Bat Diet Bat Tuyet - Heal</Name>
+  </Data>
+  <Data>
+    <ID>30</ID>
+    <ComponentIDs>35</ComponentIDs>
+    <Name>Status - Bat Diet Bat Tuyet - Shield 1</Name>
+  </Data>
+  <Data>
+    <ID>31</ID>
+    <ComponentIDs>37</ComponentIDs>
+    <Name>Status - Bat Diet Bat Tuyet - Shield 2</Name>
+  </Data>
+  <Data>
+    <ID>32</ID>
+    <ComponentIDs/>
+    <Name/>
+  </Data>
+  <Data>
+    <ID>33</ID>
+    <ComponentIDs>38</ComponentIDs>
+    <Name>Status - Tam Nga Tue Nguyet - Debuff</Name>
+  </Data>
+  <Data>
+    <ID>34</ID>
+    <ComponentIDs>39</ComponentIDs>
+    <Name>Status - Tam Nga Tue Nguyet - Heal</Name>
+  </Data>
+  <Data>
+    <ID>35</ID>
+    <ComponentIDs>40</ComponentIDs>
+    <Name>Status - Thoi Song Vong Nguyet - Shield</Name>
+  </Data>
+  <Data>
+    <ID>36</ID>
+    <ComponentIDs>152</ComponentIDs>
+    <Name>Status - Giam Giap</Name>
+  </Data>
+  <Data>
+    <ID>37</ID>
+    <ComponentIDs>42</ComponentIDs>
+    <Name>Status - Thoi Song Vong Nguyet - Explosion</Name>
+  </Data>
+  <Data>
+    <ID>38</ID>
+    <ComponentIDs>43</ComponentIDs>
+    <Name>Effect - Moc Hoa Lien Tram 1</Name>
+    <Width>250</Width>
+  </Data>
+  <Data>
+    <ID>39</ID>
+    <ComponentIDs>44</ComponentIDs>
+    <Name>Effect - Moc Hoa Lien Tram 2</Name>
+    <Width>250</Width>
+  </Data>
+  <Data>
+    <ID>40</ID>
+    <ComponentIDs>64</ComponentIDs>
+    <Name>Status - Trieu Hoi Hac Tu</Name>
+  </Data>
+  <Data>
+    <ID>41</ID>
+    <ComponentIDs>46</ComponentIDs>
+    <Name>Status - Nhan Kiem Hop Nhat</Name>
+  </Data>
+  <Data>
+    <ID>42</ID>
+    <ComponentIDs>47</ComponentIDs>
+    <Name>Effect - Tam Hoanh Sao Nguyet</Name>
+    <Width>350</Width>
+  </Data>
+  <Data>
+    <ID>43</ID>
+    <ComponentIDs>48</ComponentIDs>
+    <Name>Status - Tam Hoanh Sao Nguyet</Name>
+    <Width>0</Width>
+  </Data>
+  <Data>
+    <ID>44</ID>
+    <ComponentIDs>49</ComponentIDs>
+    <Name>Status - Kiet Suc</Name>
+    <Width>0</Width>
+  </Data>
+  <Data>
+    <ID>45</ID>
+    <Width>550</Width>
+    <ComponentIDs>50,51,61</ComponentIDs>
+    <Name>Effect - Cuu Uu Tu Trach</Name>
+  </Data>
+  <Data>
+    <ID>46</ID>
+    <ComponentIDs>52</ComponentIDs>
+    <Width>120</Width>
+    <Name>Effect - Thau Hon Thuat</Name>
+  </Data>
+  <Data>
+    <ID>47</ID>
+    <ComponentIDs>54,55</ComponentIDs>
+    <Width>140</Width>
+    <Name>Effect - Vo Dang Mien Chuong</Name>
+  </Data>
+  <Data>
+    <ID>48</ID>
+    <ComponentIDs>56,57</ComponentIDs>
+    <Width>140</Width>
+    <Name>Effect - Vo Dang Mien Chuong</Name>
+  </Data>
+  <Data>
+    <ID>49</ID>
+    <ComponentIDs>159,160</ComponentIDs>
+    <Name>Effect - Bach Doc Trach</Name>
+    <Width>350</Width>
+  </Data>
+  <Data>
+    <ID>50</ID>
+    <ComponentIDs>59</ComponentIDs>
+    <Name>Effect - Bat Quai Chuong</Name>
+    <Width>300</Width>
+  </Data>
+  <Data>
+    <ID>51</ID>
+    <ComponentIDs>60</ComponentIDs>
+    <Width>1300</Width>
+    <Name>Effect - Man Thien Huyet Hoa Vu</Name>
+  </Data>
+  <Data>
+    <ID>52</ID>
+    <ComponentIDs>53,62</ComponentIDs>
+    <Name>Status - Thau Hon Thuat</Name>
+  </Data>
+  <Data>
+    <ID>53</ID>
+    <ComponentIDs>63</ComponentIDs>
+    <Name>Effect - Trieu Hoi Hac Tu</Name>
+    <Width>50</Width>
+  </Data>
+  <Data>
+    <ID/>
+    <ComponentIDs/>
+    <Name/>
+  </Data>
+  <Data>
+    <ID>55</ID>
+    <ComponentIDs>65</ComponentIDs>
+    <Name>Status - Giam Khang Tho</Name>
+  </Data>
+  <Data>
+    <ID>56</ID>
+    <ComponentIDs>153</ComponentIDs>
+    <Name>Status - Duong Luc Hoan</Name>
+  </Data>
+  <Data>
+    <ID>57</ID>
+    <ComponentIDs>68,67</ComponentIDs>
+    <Name>Status - Man Thien Huyet Hoa Vu</Name>
+  </Data>
+  <Data>
+    <ID>58</ID>
+    <ComponentIDs>132</ComponentIDs>
+    <Name>Bullet - Tam Vi Ho - Nu</Name>
+    <Width>40</Width>
+  </Data>
+  <Data>
+    <ID>59</ID>
+    <ComponentIDs>69,131</ComponentIDs>
+    <Width>50</Width>
+    <Name>Bullet - Vo Dang</Name>
+  </Data>
+  <Data>
+    <ID>60</ID>
+    <ComponentIDs>70,1</ComponentIDs>
+    <Width>60</Width>
+    <OffsetY>30</OffsetY>
+    <Name>Bullet - Minh Giao</Name>
+  </Data>
+  <Data>
+    <ID>61</ID>
+    <ComponentIDs>71</ComponentIDs>
+    <Width>120</Width>
+    <Name>Bullet - Con Do Say Ruou</Name>
+  </Data>
+  <Data>
+    <ID>62</ID>
+    <ComponentIDs>72,73</ComponentIDs>
+    <Width>80</Width>
+    <Name>Effect - Moc Hoa Cong</Name>
+  </Data>
+  <Data>
+    <ID>63</ID>
+    <ComponentIDs>74</ComponentIDs>
+    <Width>100</Width>
+    <Name>Effect - Doc Co Cuu Kiem - Runner</Name>
+  </Data>
+  <Data>
+    <ID>64</ID>
+    <ComponentIDs>75</ComponentIDs>
+    <Name>Effect - Doc Co Cuu Kiem 2</Name>
+  </Data>
+  <Data>
+    <ID>65</ID>
+    <ComponentIDs>76</ComponentIDs>
+    <Name>Effect - Doc Co Cuu Kiem 3</Name>
+  </Data>
+  <Data>
+    <ID>66</ID>
+    <ComponentIDs>77</ComponentIDs>
+    <Name>Effect - Doc Co Cuu Kiem 1</Name>
+  </Data>
+  <Data>
+    <ID>67</ID>
+    <ComponentIDs>78</ComponentIDs>
+    <Name>Effect - Doc Co Cuu Kiem 4</Name>
+  </Data>
+  <Data>
+    <ID>68</ID>
+    <ComponentIDs>79</ComponentIDs>
+    <Name>Effect - Doc Co Cuu Kiem 5</Name>
+  </Data>
+  <Data>
+    <ID>69</ID>
+    <ComponentIDs>80</ComponentIDs>
+    <Name>Effect - Song Kiem Hop Bich - Duong Qua</Name>
+    <Width>50</Width>
+  </Data>
+  <Data>
+    <ID>70</ID>
+    <ComponentIDs>81</ComponentIDs>
+    <Name>Effect - Song Kiem Hop Bich - Tieu Long Nu</Name>
+    <Width>50</Width>
+  </Data>
+  <Data>
+    <ID>71</ID>
+    <ComponentIDs>82,1</ComponentIDs>
+    <Width>80</Width>
+    <Name>Bullet - Quai Ngu Elite</Name>
+  </Data>
+  <Data>
+    <ID>72</ID>
+    <Name>Status - Thiet Nguu Cong</Name>
+    <ComponentIDs>83</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>73</ID>
+    <Name>Effect - No Loi Chi</Name>
+    <ComponentIDs>84,85</ComponentIDs>
+    <Width>100</Width>
+  </Data>
+  <Data>
+    <ID>74</ID>
+    <Name>Bullet - Boss Ho</Name>
+    <ComponentIDs>86,90</ComponentIDs>
+    <Width>150</Width>
+  </Data>
+  <Data>
+    <ID>75</ID>
+    <Name>Effect - Boss Ho</Name>
+    <ComponentIDs>87,91</ComponentIDs>
+    <Width>300</Width>
+  </Data>
+  <Data>
+    <ID>76</ID>
+    <Name>Bullet - Boss Dai Bang</Name>
+    <ComponentIDs>88,90</ComponentIDs>
+    <Width>100</Width>
+  </Data>
+  <Data>
+    <ID>77</ID>
+    <Name>Effect - Dai Bang</Name>
+    <ComponentIDs>89</ComponentIDs>
+    <Width>150</Width>
+  </Data>
+  <Data>
+    <ID>78</ID>
+    <Name>Effect - Bat Thao Tam Xa</Name>
+    <ComponentIDs>92</ComponentIDs>
+    <Width>150</Width>
+  </Data>
+  <Data>
+    <ID>79</ID>
+    <Name>Status - Khien Nuoc - Shield</Name>
+    <ComponentIDs>93</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>80</ID>
+    <Name>Bullet - Cuong Thi</Name>
+    <ComponentIDs>94,95</ComponentIDs>
+    <Width>90</Width>
+  </Data>
+  <Data>
+    <ID>81</ID>
+    <Name>Effect - Sinh Tu Bua</Name>
+    <ComponentIDs>96</ComponentIDs>
+    <Width>300</Width>
+  </Data>
+  <Data>
+    <ID>82</ID>
+    <Name>Bullet - Quai Ngu Boss</Name>
+    <ComponentIDs>97</ComponentIDs>
+    <Width>150</Width>
+  </Data>
+  <Data>
+    <ID>83</ID>
+    <Name>Effect - Quai Ngu</Name>
+    <ComponentIDs>98</ComponentIDs>
+    <Width>200</Width>
+  </Data>
+  <Data>
+    <ID>84</ID>
+    <Name>Bullet - Tam Vi Ho Boss</Name>
+    <ComponentIDs>99</ComponentIDs>
+    <Width>200</Width>
+  </Data>
+  <Data>
+    <ID>85</ID>
+    <Name>Effect - Tam Vi Ho Boss</Name>
+    <ComponentIDs>100</ComponentIDs>
+    <Width>300</Width>
+  </Data>
+  <Data>
+    <ID>86</ID>
+    <Name>Status - Khat Thien Thao Dia</Name>
+    <ComponentIDs>101</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>87</ID>
+    <Name>Status - Tieu Dieu Cong</Name>
+    <ComponentIDs>102</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>88</ID>
+    <Name>Status - Nga Mi Passsive - Hoi Mau</Name>
+    <ComponentIDs>103</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>89</ID>
+    <Name>Status - Nga Mi Passive - Thanh Tay</Name>
+    <ComponentIDs>104</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>90</ID>
+    <Name>Status - Thai Cuc Than Cong</Name>
+    <ComponentIDs>105</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>91</ID>
+    <Name>Bullet - Ly Mac Sau</Name>
+    <ComponentIDs>106,107</ComponentIDs>
+    <Width>50</Width>
+  </Data>
+  <Data>
+    <ID>92</ID>
+    <Name>Effect - Bang Phach Ngan Cham</Name>
+    <ComponentIDs>108</ComponentIDs>
+    <Width>450</Width>
+  </Data>
+  <Data>
+    <ID>93</ID>
+    <ComponentIDs>109,34</ComponentIDs>
+    <Width>80</Width>
+    <Name>Bullet - Kim Luan Phap Vuong</Name>
+  </Data>
+  <Data>
+    <ID>94</ID>
+    <ComponentIDs>110</ComponentIDs>
+    <Width>180</Width>
+    <Name>Effect - Long Tuong Bat Nha Cong</Name>
+  </Data>
+  <Data>
+    <ID>95</ID>
+    <Name>Effect - Than Long Bai Vi Toi Thuong</Name>
+    <ComponentIDs>111</ComponentIDs>
+    <Width>150</Width>
+  </Data>
+  <Data>
+    <ID>96</ID>
+    <Name>Status - Thai At Kiem</Name>
+    <ComponentIDs>112</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>97</ID>
+    <Name>Bullet - Nhen</Name>
+    <ComponentIDs>113</ComponentIDs>
+    <Width>100</Width>
+  </Data>
+  <Data>
+    <ID>98</ID>
+    <Name>Effect - Nhen</Name>
+    <ComponentIDs>114</ComponentIDs>
+    <Width>600</Width>
+  </Data>
+  <Data>
+    <ID>99</ID>
+    <Name>Bullet - Cuu Thien Xich</Name>
+    <ComponentIDs>115,116</ComponentIDs>
+    <Width>35</Width>
+  </Data>
+  <Data>
+    <ID>100</ID>
+    <Name>Effect - Nhat Tieu Doat Menh</Name>
+    <ComponentIDs>117</ComponentIDs>
+    <Width>50</Width>
+  </Data>
+  <Data>
+    <ID>101</ID>
+    <Name>Bullet - Au Duong Phong</Name>
+    <ComponentIDs>118</ComponentIDs>
+    <Width>30</Width>
+  </Data>
+  <Data>
+    <ID>102</ID>
+    <Name>Effect - Hac Phien Khoi Phong</Name>
+    <ComponentIDs>119</ComponentIDs>
+    <Width>120</Width>
+  </Data>
+  <Data>
+    <ID>103</ID>
+    <Name>Status - Luong Nghi Kiem</Name>
+    <ComponentIDs>120</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>104</ID>
+    <Name>Status - Su Tu Hong - Bleeding</Name>
+    <ComponentIDs>121</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>105</ID>
+    <Name>Status - Thanh Hoa Than Cong</Name>
+    <ComponentIDs>122</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>106</ID>
+    <Name>Status - No Loi Chi - Explosion</Name>
+    <ComponentIDs>85</ComponentIDs>
+    <Width>100</Width>
+  </Data>
+  <Data>
+    <ID>107</ID>
+    <Name>Status - Moc Hoa Cong</Name>
+    <ComponentIDs>73</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>108</ID>
+    <Name>Bullet - Doan Chi Binh</Name>
+    <ComponentIDs>123,1</ComponentIDs>
+    <Width>40</Width>
+  </Data>
+  <Data>
+    <ID>109</ID>
+    <Name>Bullet - Doan Chi Binh - Special</Name>
+    <ComponentIDs>124,1</ComponentIDs>
+    <Width>80</Width>
+  </Data>
+  <Data>
+    <ID>110</ID>
+    <Name>Status - Huyet Doc Buc</Name>
+    <ComponentIDs>125,126</ComponentIDs>
+    <Width/>
+  </Data>
+  <Data>
+    <ID>111</ID>
+    <Name>Effect - That Tinh Kiem</Name>
+    <ComponentIDs>127,128,129</ComponentIDs>
+    <Width>20</Width>
+  </Data>
+  <Data>
+    <ID>112</ID>
+    <Name>Status - That Tinh Kiem</Name>
+    <ComponentIDs>130</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>113</ID>
+    <Name>Bullet - Ke Trom Kinh Thu</Name>
+    <ComponentIDs>133</ComponentIDs>
+    <Width>100</Width>
+  </Data>
+  <Data>
+    <ID>114</ID>
+    <Name>Bullet - Son Tac Doi Chu</Name>
+    <ComponentIDs>134</ComponentIDs>
+    <Width>100</Width>
+  </Data>
+  <Data>
+    <ID>115</ID>
+    <Name>Bullet - Phan Do Vo Dang</Name>
+    <ComponentIDs>135</ComponentIDs>
+    <Width>50</Width>
+  </Data>
+  <Data>
+    <ID>116</ID>
+    <Name>Bullet - Tam Vi Ho Elite</Name>
+    <ComponentIDs>136</ComponentIDs>
+    <Width>50</Width>
+  </Data>
+  <Data>
+    <ID>117</ID>
+    <Name>Bullet - Nhen Doc Elite</Name>
+    <ComponentIDs>137</ComponentIDs>
+    <Width>80</Width>
+  </Data>
+  <Data>
+    <ID>118</ID>
+    <Name>Bullet - Phan Do Thien Long</Name>
+    <ComponentIDs>138</ComponentIDs>
+    <Width>50</Width>
+  </Data>
+  <Data>
+    <ID>119</ID>
+    <Name>Bullet - Ke Trom Mo</Name>
+    <ComponentIDs>139,140</ComponentIDs>
+    <Width>150</Width>
+  </Data>
+  <Data>
+    <ID>120</ID>
+    <Name>Bullet - Diem Thuong Son Tac</Name>
+    <ComponentIDs>141</ComponentIDs>
+    <Width>60</Width>
+  </Data>
+  <Data>
+    <ID>121</ID>
+    <Name>Bullet - De Tu Canh Gac</Name>
+    <ComponentIDs>142</ComponentIDs>
+    <Width>180</Width>
+  </Data>
+  <Data>
+    <ID>122</ID>
+    <ComponentIDs>143</ComponentIDs>
+    <Name>Status - Ne</Name>
+  </Data>
+  <Data>
+    <ID>123</ID>
+    <Name>Status - Focus</Name>
+    <ComponentIDs>144</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>124</ID>
+    <Name>Effect - Thien Thach Can</Name>
+    <ComponentIDs>145</ComponentIDs>
+    <Width>250</Width>
+  </Data>
+  <Data>
+    <ID>125</ID>
+    <Name>Status - Dich Can Kinh</Name>
+    <ComponentIDs>146</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>126</ID>
+    <Name>Effect - Dich Can Kinh</Name>
+    <ComponentIDs>147</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>127</ID>
+    <Name>Bullet - Thai Cuc Than Cong</Name>
+    <ComponentIDs>148,149</ComponentIDs>
+    <Width>60</Width>
+  </Data>
+  <Data>
+    <ID>128</ID>
+    <Name>Bullet - Thai Thanh Than Khi</Name>
+    <ComponentIDs>150,151</ComponentIDs>
+    <Width>60</Width>
+  </Data>
+  <Data>
+    <ID>129</ID>
+    <Name>Status - Khoa 1</Name>
+    <ComponentIDs>58</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>130</ID>
+    <Name>Status - Khoa 2</Name>
+    <ComponentIDs>154</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>131</ID>
+    <Name>Status - Khoa 3</Name>
+    <ComponentIDs>155</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>132</ID>
+    <Name>Status - Khoa No</Name>
+    <ComponentIDs>156</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>133</ID>
+    <Name>Status - Hoat Dao</Name>
+    <ComponentIDs>157</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>134</ID>
+    <Name>Status - Huyet Dao</Name>
+    <ComponentIDs>158</ComponentIDs>
+  </Data>
+  <Data>
+    <ID>135</ID>
+    <Name>Bullet - Chau Tinh Tinh</Name>
+    <ComponentIDs>161,162</ComponentIDs>
+    <Width>50</Width>
+  </Data>
+  <Data>
+    <ID>136</ID>
+    <ComponentIDs>163</ComponentIDs>
+    <Name>Effect - Nhu Lai Than Chuong</Name>
+    <Width>350</Width>
+  </Data>
+  <Data>
+    <ID>137</ID>
+    <ComponentIDs>164</ComponentIDs>
+    <Name>Status - Chau Tinh Tinh - Debuff</Name>
+  </Data>
+  <Data>
+    <ID>138</ID>
+    <ComponentIDs>165</ComponentIDs>
+    <Name>Status - Chau Tinh Tinh - Buff</Name>
+  </Data>
+  <Data>
+    <ID>139</ID>
+    <ComponentIDs>166</ComponentIDs>
+    <Name>Status - Bach Doc Xuyen Tam</Name>
+  </Data>
+  <Data>
+    <ID>140</ID>
+    <ComponentIDs>167</ComponentIDs>
+    <Name>Status - Kim Cang Phuc Ma T3</Name>
+  </Data>
+  <Data>
+    <ID>141</ID>
+    <ComponentIDs>168</ComponentIDs>
+    <Name>Status - Silent</Name>
+  </Data>
+  <Data>
+    <ID>142</ID>
+    <ComponentIDs>169</ComponentIDs>
+    <Name>Status - Tăng độ chính xác</Name>
+  </Data>
+</root>

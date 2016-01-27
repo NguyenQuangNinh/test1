@@ -1,0 +1,4637 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<ServerID><![CDATA[1]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[2]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[3]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[4]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[5]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[6]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[7]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[8]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[9]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[10]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[11]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[12]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[13]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+	<Data>
+		<ServerID><![CDATA[14]]></ServerID>
+		<Name><![CDATA[]]></Name>
+		<Events>
+			<Event>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Tặng vàng nạp thẻ]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp thẻ đến các mốc bên dưới sẽ nhận được các phần thưởng sau:]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2456]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2457]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2458]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2459]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2460]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[50000]]></Value>
+						<Title><![CDATA[Nạp 50000 Vàng]]></Title>
+						<Rewards><![CDATA[2461]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Nấu bánh Chưng Tết]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Có thể ghép Bó Hoa Hồng Hái lộc đầu năm]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Sử dụng 200 vật phẩm]]></Title>
+						<Rewards><![CDATA[2650]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[400]]></Value>
+						<Title><![CDATA[Sử dụng 400 vật phẩm]]></Title>
+						<Rewards><![CDATA[2651]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[600]]></Value>
+						<Title><![CDATA[Sử dụng 600 vật phẩm]]></Title>
+						<Rewards><![CDATA[2652]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[800]]></Value>
+						<Title><![CDATA[Sử dụng 800 vật phẩm]]></Title>
+						<Rewards><![CDATA[2653]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Sử dụng 1000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1200]]></Value>
+						<Title><![CDATA[Sử dụng 1200 vật phẩm]]></Title>
+						<Rewards><![CDATA[3034]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1400]]></Value>
+						<Title><![CDATA[Sử dụng 1400 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1600]]></Value>
+						<Title><![CDATA[Sử dụng 1600 vật phẩm]]></Title>
+						<Rewards><![CDATA[3035]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1800]]></Value>
+						<Title><![CDATA[Sử dụng 1800 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Sử dụng 2000 vật phẩm]]></Title>
+						<Rewards><![CDATA[3036]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[2000]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,30]]></Source>
+					<Dest><![CDATA[1,377]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[2]]></Type>
+				<Name><![CDATA[Gói bánh Tét]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>31/01/2015 - 06/02/2015</font><br>Đầu năm may mắn]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+				</Milestones>
+				<MaxCombination><![CDATA[50]]></MaxCombination>
+				<MaxUse><![CDATA[800]]></MaxUse>
+				<Equation>
+					<Source><![CDATA[1,28,1,29]]></Source>
+					<Dest><![CDATA[1,376]]></Dest>
+				</Equation>
+			</Event>
+			<Event>
+				<ID><![CDATA[3]]></ID>
+				<Type><![CDATA[3]]></Type>
+				<Name><![CDATA[Kế hoạch trưởng thành]]></Name>
+				<Desc><![CDATA[Mua gói quà, đến mốc thời gian nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-11-07 00:00:00]]></Begin>
+				<End><![CDATA[2018-01-23 23:59:00]]></End>
+				<EndReceive><![CDATA[2018-01-23 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[10]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[2]]></Value>
+						<Title><![CDATA[Nhận vàng sau 2 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4]]></Value>
+						<Title><![CDATA[Nhận vàng sau 4 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6]]></Value>
+						<Title><![CDATA[Nhận vàng sau 6 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8]]></Value>
+						<Title><![CDATA[Nhận vàng sau 8 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10]]></Value>
+						<Title><![CDATA[Nhận vàng sau 10 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[12]]></Value>
+						<Title><![CDATA[Nhận vàng sau 12 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[14]]></Value>
+						<Title><![CDATA[Nhận vàng sau 14 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[16]]></Value>
+						<Title><![CDATA[Nhận vàng sau 16 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[18]]></Value>
+						<Title><![CDATA[Nhận vàng sau 18 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20]]></Value>
+						<Title><![CDATA[Nhận vàng sau 20 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[22]]></Value>
+						<Title><![CDATA[Nhận vàng sau 22 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[24]]></Value>
+						<Title><![CDATA[Nhận vàng sau 24 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[26]]></Value>
+						<Title><![CDATA[Nhận vàng sau 26 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[28]]></Value>
+						<Title><![CDATA[Nhận vàng sau 28 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30]]></Value>
+						<Title><![CDATA[Nhận vàng sau 30 ngày]]></Title>
+						<Rewards><![CDATA[2352]]></Rewards>
+					</Milestone>
+				</Milestones>
+				<ItemActive>
+					<Price><![CDATA[1000]]></Price>
+					<IconURL><![CDATA[resource/image/item/bi_kip.png]]></IconURL>
+					<Desc><![CDATA[Gói quà trưởng thành]]></Desc>
+				</ItemActive>
+			</Event>
+			<Event>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[0]]></Type>
+				<Name><![CDATA[Hoàn trả vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Sử dụng vàng nhận lại được vàng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Tiêu 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2462]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Tiêu 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2463]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[4000]]></Value>
+						<Title><![CDATA[Tiêu 4000 Vàng]]></Title>
+						<Rewards><![CDATA[2464]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[6000]]></Value>
+						<Title><![CDATA[Tiêu 6000 Vàng]]></Title>
+						<Rewards><![CDATA[2467]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[8000]]></Value>
+						<Title><![CDATA[Tiêu 8000 Vàng]]></Title>
+						<Rewards><![CDATA[2466]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Tiêu 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2468]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Tiêu 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2469]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+			<Event>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Name><![CDATA[Phần thưởng nạp vàng]]></Name>
+				<Desc><![CDATA[Thời gian: <font color='#00FF00'>07/02/2015 - 26/02/2015</font><br>Khi nạp đến các mốc bên dưới nhận thưởng]]></Desc>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2015-02-07 00:00:00]]></Begin>
+				<End><![CDATA[2015-02-26 23:59:00]]></End>
+				<EndReceive><![CDATA[2015-02-26 23:59:00]]></EndReceive>
+				<LevelRequirement><![CDATA[1]]></LevelRequirement>
+				<Milestones>
+					<Milestone>
+						<Value><![CDATA[200]]></Value>
+						<Title><![CDATA[Nạp 200 Vàng]]></Title>
+						<Rewards><![CDATA[2470,2471]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[500]]></Value>
+						<Title><![CDATA[Nạp 500 Vàng]]></Title>
+						<Rewards><![CDATA[2473,2472,2474]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[1000]]></Value>
+						<Title><![CDATA[Nạp 1000 Vàng]]></Title>
+						<Rewards><![CDATA[2477,2475,2581]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[2000]]></Value>
+						<Title><![CDATA[Nạp 2000 Vàng]]></Title>
+						<Rewards><![CDATA[2478,2582,2583]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[5000]]></Value>
+						<Title><![CDATA[Nạp 5000 Vàng]]></Title>
+						<Rewards><![CDATA[2482,2584,2585,2586]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[10000]]></Value>
+						<Title><![CDATA[Nạp 10000 Vàng]]></Title>
+						<Rewards><![CDATA[2486,2487,2587,2588]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[20000]]></Value>
+						<Title><![CDATA[Nạp 20000 Vàng]]></Title>
+						<Rewards><![CDATA[2491,2490,2492,2495,2494]]></Rewards>
+					</Milestone>
+					<Milestone>
+						<Value><![CDATA[30000]]></Value>
+						<Title><![CDATA[Nạp 30000 Vàng]]></Title>
+						<Rewards><![CDATA[2496,2497,2498,2589,2499]]></Rewards>
+					</Milestone>
+				</Milestones>
+			</Event>
+		</Events>
+	</Data>
+</Datas>

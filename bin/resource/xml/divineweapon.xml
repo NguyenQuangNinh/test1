@@ -1,0 +1,1308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<ID><![CDATA[1]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Đồ Long Đao (hệ Kim)]]></Name>
+		<Level><![CDATA[1]]></Level>
+		<Element><![CDATA[3]]></Element>
+		<NumOfAttrib><![CDATA[2]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[10]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[30]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>				
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>				
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[100]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>				
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>				
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[100]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>		
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Kim]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/dolongdao1.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/dolongdaobig1.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_green_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[2]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Đồ Long Đao (hệ Kim)]]></Name>
+		<Level><![CDATA[2]]></Level>
+		<Element><![CDATA[3]]></Element>
+		<NumOfAttrib><![CDATA[3]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[30]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[50]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[200]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[200]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 2]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Kim]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/dolongdao2.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/dolongdaobig2.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_blue_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[3]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Đồ Long Đao (hệ Kim)]]></Name>
+		<Level><![CDATA[3]]></Level>
+		<Element><![CDATA[3]]></Element>
+		<NumOfAttrib><![CDATA[4]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[50]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[70]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[300]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[300]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 3]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Kim]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/dolongdao3.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/dolongdaobig3.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_red_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[4]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Đồ Long Đao (hệ Kim)]]></Name>
+		<Level><![CDATA[4]]></Level>
+		<Element><![CDATA[3]]></Element>
+		<NumOfAttrib><![CDATA[5]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[70]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[100]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[20]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[400]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[39]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[400]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 4]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Kim]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/dolongdao4.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/dolongdaobig4.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_purple_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[5]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Đồ Long Đao (hệ Kim)]]></Name>
+		<Level><![CDATA[5]]></Level>
+		<Element><![CDATA[3]]></Element>
+		<NumOfAttrib><![CDATA[6]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[100]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[25]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[20]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 5]]></Name>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[500]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe></StarUpgradeRecipe>
+		<Note><![CDATA[lv 5]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Kim]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/dolongdao5.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/dolongdaobig5.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_yellow_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[6]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Ỷ Thiên Kiếm (hệ Thủy)]]></Name>
+		<Level><![CDATA[1]]></Level>
+		<Element><![CDATA[4]]></Element>
+		<NumOfAttrib><![CDATA[2]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[10]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[30]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>			
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[100]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[100]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 1]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Thủy]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/ythienkiem1.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/ythienkiembig1.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_green_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[7]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Ỷ Thiên Kiếm (hệ Thủy)]]></Name>
+		<Level><![CDATA[2]]></Level>
+		<Element><![CDATA[4]]></Element>
+		<NumOfAttrib><![CDATA[3]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[30]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[50]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[200]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[200]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 2]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Thủy]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/ythienkiem2.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/ythienkiembig2.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_blue_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[8]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Ỷ Thiên Kiếm (hệ Thủy)]]></Name>
+		<Level><![CDATA[3]]></Level>
+		<Element><![CDATA[4]]></Element>
+		<NumOfAttrib><![CDATA[4]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[50]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[70]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[300]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[300]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 3]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Thủy]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/ythienkiem3.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/ythienkiembig3.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_red_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[9]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Ỷ Thiên Kiếm (hệ Thủy)]]></Name>
+		<Level><![CDATA[4]]></Level>
+		<Element><![CDATA[4]]></Element>
+		<NumOfAttrib><![CDATA[5]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[70]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[100]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[20]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[400]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[39]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[400]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 4]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Thủy]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/ythienkiem4.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/ythienkiembig4.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_purple_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[10]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Ỷ Thiên Kiếm (hệ Thủy)]]></Name>
+		<Level><![CDATA[5]]></Level>
+		<Element><![CDATA[4]]></Element>
+		<NumOfAttrib><![CDATA[6]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[100]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[25]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[20]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 5]]></Name>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[500]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe></StarUpgradeRecipe>
+		<Note><![CDATA[lv 5]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Thủy]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/ythienkiem5.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/ythienkiembig5.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_yellow_border.banim]]></BAnimURL>
+	</Data>	
+	<Data>
+		<ID><![CDATA[11]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Huyền Thiết Kiếm (hệ Hỏa)]]></Name>
+		<Level><![CDATA[1]]></Level>
+		<Element><![CDATA[1]]></Element>
+		<NumOfAttrib><![CDATA[2]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[10]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[30]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>			
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[100]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[100]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 1]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Hỏa]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/huyenthietkiem1.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/huyenthietkiembig1.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_green_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[12]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Huyền Thiết Kiếm (hệ Hỏa)]]></Name>
+		<Level><![CDATA[2]]></Level>
+		<Element><![CDATA[1]]></Element>
+		<NumOfAttrib><![CDATA[3]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[30]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[50]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[200]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[200]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 2]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Hỏa]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/huyenthietkiem2.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/huyenthietkiembig2.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_blue_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[13]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Huyền Thiết Kiếm (hệ Hỏa)]]></Name>
+		<Level><![CDATA[3]]></Level>
+		<Element><![CDATA[1]]></Element>
+		<NumOfAttrib><![CDATA[4]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[50]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[70]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[300]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[300]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 3]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Hỏa]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/huyenthietkiem3.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/huyenthietkiembig3.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_red_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[14]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Huyền Thiết Kiếm (hệ Hỏa)]]></Name>
+		<Level><![CDATA[4]]></Level>
+		<Element><![CDATA[1]]></Element>
+		<NumOfAttrib><![CDATA[5]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[70]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[100]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[20]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[400]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[39]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[400]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 4]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Hỏa]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/huyenthietkiem4.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/huyenthietkiembig4.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_purple_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[15]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Huyền Thiết Kiếm (hệ Hỏa)]]></Name>
+		<Level><![CDATA[5]]></Level>
+		<Element><![CDATA[1]]></Element>
+		<NumOfAttrib><![CDATA[6]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[100]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[25]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[20]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 5]]></Name>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[500]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe></StarUpgradeRecipe>
+		<Note><![CDATA[lv 5]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Hỏa]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/huyenthietkiem5.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/huyenthietkiembig5.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_yellow_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[16]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Thất Tinh Kiếm (hệ Thổ)]]></Name>
+		<Level><![CDATA[1]]></Level>
+		<Element><![CDATA[2]]></Element>
+		<NumOfAttrib><![CDATA[2]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[10]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[30]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>			
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[100]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[100]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 1]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Thổ]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/thattinhkiem1.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/thattinhkiembig1.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_green_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[17]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Thất Tinh Kiếm (hệ Thổ)]]></Name>
+		<Level><![CDATA[2]]></Level>
+		<Element><![CDATA[2]]></Element>
+		<NumOfAttrib><![CDATA[3]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[30]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[50]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[200]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[200]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 2]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Thổ]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/thattinhkiem2.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/thattinhkiembig2.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_blue_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[18]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Thất Tinh Kiếm (hệ Thổ)]]></Name>
+		<Level><![CDATA[3]]></Level>
+		<Element><![CDATA[2]]></Element>
+		<NumOfAttrib><![CDATA[4]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[50]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[70]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[300]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[300]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 3]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Thổ]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/thattinhkiem3.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/thattinhkiembig3.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_red_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[19]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Thất Tinh Kiếm (hệ Thổ)]]></Name>
+		<Level><![CDATA[4]]></Level>
+		<Element><![CDATA[2]]></Element>
+		<NumOfAttrib><![CDATA[5]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[70]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[100]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[20]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[400]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[39]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[400]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 4]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Thổ]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/thattinhkiem4.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/thattinhkiembig4.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_purple_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[20]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Thất Tinh Kiếm (hệ Thổ)]]></Name>
+		<Level><![CDATA[5]]></Level>
+		<Element><![CDATA[2]]></Element>
+		<NumOfAttrib><![CDATA[6]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[100]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[25]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[20]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 5]]></Name>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[500]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe></StarUpgradeRecipe>
+		<Note><![CDATA[lv 5]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Thổ]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/thattinhkiem5.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/thattinhkiembig5.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_yellow_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[21]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Kim Xà Kiếm (hệ Mộc)]]></Name>
+		<Level><![CDATA[1]]></Level>
+		<Element><![CDATA[5]]></Element>
+		<NumOfAttrib><![CDATA[2]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[10]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[30]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>			
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[100]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[36]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[100]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 1]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Mộc]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/kimxakiem1.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/kimxakiembig1.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_green_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[22]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Kim Xà Kiếm (hệ Mộc)]]></Name>
+		<Level><![CDATA[2]]></Level>
+		<Element><![CDATA[5]]></Element>
+		<NumOfAttrib><![CDATA[3]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[30]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[50]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[200]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[37]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[200]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 2]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Mộc]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/kimxakiem2.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/kimxakiembig2.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_blue_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[23]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Kim Xà Kiếm (hệ Mộc)]]></Name>
+		<Level><![CDATA[3]]></Level>
+		<Element><![CDATA[5]]></Element>
+		<NumOfAttrib><![CDATA[4]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[50]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[70]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[300]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[38]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[300]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 3]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Mộc]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/kimxakiem3.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/kimxakiembig3.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_red_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[24]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Kim Xà Kiếm (hệ Mộc)]]></Name>
+		<Level><![CDATA[4]]></Level>
+		<Element><![CDATA[5]]></Element>
+		<NumOfAttrib><![CDATA[5]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[70]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[100]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[20]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[400]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[39]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[1]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[400]]></Quantity>
+			</Material>
+		</StarUpgradeRecipe>
+		<Note><![CDATA[lv 4]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Mộc]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/kimxakiem4.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/kimxakiembig4.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_purple_border.banim]]></BAnimURL>
+	</Data>
+	<Data>
+		<ID><![CDATA[25]]></ID>
+		<Type><![CDATA[50]]></Type>
+		<Name><![CDATA[Kim Xà Kiếm (hệ Mộc)]]></Name>
+		<Level><![CDATA[5]]></Level>
+		<Element><![CDATA[5]]></Element>
+		<NumOfAttrib><![CDATA[6]]></NumOfAttrib>
+		<MaxAttribLevel><![CDATA[100]]></MaxAttribLevel>
+		<NextMaxAttribLevel><![CDATA[]]></NextMaxAttribLevel>
+		<AttribUpgradeRecipe>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 1]]></Name>
+				<ID><![CDATA[31]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[25]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 2]]></Name>
+				<ID><![CDATA[32]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[20]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 3]]></Name>
+				<ID><![CDATA[33]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[15]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 4]]></Name>
+				<ID><![CDATA[34]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[10]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Nguyên liệu cấp 5]]></Name>
+				<ID><![CDATA[35]]></ID>
+				<Type><![CDATA[51]]></Type>
+				<Quantity><![CDATA[5]]></Quantity>
+			</Material>
+			<Material>
+				<Name><![CDATA[Bạc]]></Name>
+				<ID><![CDATA[0]]></ID>
+				<Type><![CDATA[1]]></Type>
+				<Quantity><![CDATA[500]]></Quantity>
+			</Material>
+		</AttribUpgradeRecipe>
+		<StarUpgradeRecipe></StarUpgradeRecipe>
+		<Note><![CDATA[lv 5]]></Note>
+		<Description><![CDATA[Dùng trang bị cho nhân vật hệ Mộc]]></Description>
+		<IconURL><![CDATA[resource/image/item/thanbinh/kimxakiem5.png]]></IconURL>
+		<BigIconURL><![CDATA[resource/image/item/thanbinh/kimxakiembig5.png]]></BigIconURL>
+		<BAnimURL><![CDATA[resource/anim/ui/dw_yellow_border.banim]]></BAnimURL>
+	</Data>
+</Datas>

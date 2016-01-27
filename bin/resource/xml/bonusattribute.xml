@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<ID><![CDATA[1]]></ID>
+		<Name><![CDATA[10 phần trăm Sức mạnh(Strength)]]></Name>
+		<AttributeType><![CDATA[4]]></AttributeType>
+		<BeginValue><![CDATA[10]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[2]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[2]]></ID>
+		<Name><![CDATA[10 phần trăm Nhanh nhẹn(Agility)]]></Name>
+		<AttributeType><![CDATA[5]]></AttributeType>
+		<BeginValue><![CDATA[10]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[2]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[3]]></ID>
+		<Name><![CDATA[10 phần trăm Trí tuệ(Intelligent)]]></Name>
+		<AttributeType><![CDATA[6]]></AttributeType>
+		<BeginValue><![CDATA[10]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[2]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[4]]></ID>
+		<Name><![CDATA[10 phần trăm Sinh mệnh(Vitality)]]></Name>
+		<AttributeType><![CDATA[7]]></AttributeType>
+		<BeginValue><![CDATA[10]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[2]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[5]]></ID>
+		<Name><![CDATA[FLAT STR I]]></Name>
+		<AttributeType><![CDATA[4]]></AttributeType>
+		<BeginValue><![CDATA[30]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[6]]></ID>
+		<Name><![CDATA[FLAT STR II]]></Name>
+		<AttributeType><![CDATA[4]]></AttributeType>
+		<BeginValue><![CDATA[50]]></BeginValue>
+		<ValuePerLevel><![CDATA[6]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[7]]></ID>
+		<Name><![CDATA[FLAT STR III]]></Name>
+		<AttributeType><![CDATA[4]]></AttributeType>
+		<BeginValue><![CDATA[70]]></BeginValue>
+		<ValuePerLevel><![CDATA[12]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[8]]></ID>
+		<Name><![CDATA[FLAT STR IV]]></Name>
+		<AttributeType><![CDATA[4]]></AttributeType>
+		<BeginValue><![CDATA[100]]></BeginValue>
+		<ValuePerLevel><![CDATA[18]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[9]]></ID>
+		<Name><![CDATA[FLAT STR V]]></Name>
+		<AttributeType><![CDATA[4]]></AttributeType>
+		<BeginValue><![CDATA[180]]></BeginValue>
+		<ValuePerLevel><![CDATA[30]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[10]]></ID>
+		<Name><![CDATA[FLAT AGI I]]></Name>
+		<AttributeType><![CDATA[5]]></AttributeType>
+		<BeginValue><![CDATA[30]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[11]]></ID>
+		<Name><![CDATA[FLAT AGI II]]></Name>
+		<AttributeType><![CDATA[5]]></AttributeType>
+		<BeginValue><![CDATA[50]]></BeginValue>
+		<ValuePerLevel><![CDATA[6]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[12]]></ID>
+		<Name><![CDATA[FLAT AGI III]]></Name>
+		<AttributeType><![CDATA[5]]></AttributeType>
+		<BeginValue><![CDATA[70]]></BeginValue>
+		<ValuePerLevel><![CDATA[12]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[13]]></ID>
+		<Name><![CDATA[FLAT AGI IV]]></Name>
+		<AttributeType><![CDATA[5]]></AttributeType>
+		<BeginValue><![CDATA[100]]></BeginValue>
+		<ValuePerLevel><![CDATA[18]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[14]]></ID>
+		<Name><![CDATA[FLAT AGI V]]></Name>
+		<AttributeType><![CDATA[5]]></AttributeType>
+		<BeginValue><![CDATA[180]]></BeginValue>
+		<ValuePerLevel><![CDATA[30]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[15]]></ID>
+		<Name><![CDATA[FLAT P.DMG I]]></Name>
+		<AttributeType><![CDATA[405]]></AttributeType>
+		<BeginValue><![CDATA[80]]></BeginValue>
+		<ValuePerLevel><![CDATA[8]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[16]]></ID>
+		<Name><![CDATA[FLAT P.DMG II]]></Name>
+		<AttributeType><![CDATA[405]]></AttributeType>
+		<BeginValue><![CDATA[120]]></BeginValue>
+		<ValuePerLevel><![CDATA[16]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[17]]></ID>
+		<Name><![CDATA[FLAT P.DMG III]]></Name>
+		<AttributeType><![CDATA[405]]></AttributeType>
+		<BeginValue><![CDATA[160]]></BeginValue>
+		<ValuePerLevel><![CDATA[32]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[18]]></ID>
+		<Name><![CDATA[FLAT P.DMG IV]]></Name>
+		<AttributeType><![CDATA[405]]></AttributeType>
+		<BeginValue><![CDATA[320]]></BeginValue>
+		<ValuePerLevel><![CDATA[64]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[19]]></ID>
+		<Name><![CDATA[FLAT P.DMG V]]></Name>
+		<AttributeType><![CDATA[405]]></AttributeType>
+		<BeginValue><![CDATA[640]]></BeginValue>
+		<ValuePerLevel><![CDATA[128]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[20]]></ID>
+		<Name><![CDATA[FLAT CRIT I]]></Name>
+		<AttributeType><![CDATA[407]]></AttributeType>
+		<BeginValue><![CDATA[8]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[21]]></ID>
+		<Name><![CDATA[FLAT CRIT II]]></Name>
+		<AttributeType><![CDATA[407]]></AttributeType>
+		<BeginValue><![CDATA[10]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[22]]></ID>
+		<Name><![CDATA[FLAT CRIT III]]></Name>
+		<AttributeType><![CDATA[407]]></AttributeType>
+		<BeginValue><![CDATA[12]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[23]]></ID>
+		<Name><![CDATA[FLAT CRIT IV]]></Name>
+		<AttributeType><![CDATA[407]]></AttributeType>
+		<BeginValue><![CDATA[15]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[24]]></ID>
+		<Name><![CDATA[FLAT CRIT V]]></Name>
+		<AttributeType><![CDATA[407]]></AttributeType>
+		<BeginValue><![CDATA[20]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[25]]></ID>
+		<Name><![CDATA[FLAT CRIT DMG I]]></Name>
+		<AttributeType><![CDATA[409]]></AttributeType>
+		<BeginValue><![CDATA[20]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[26]]></ID>
+		<Name><![CDATA[FLAT CRIT DMG II]]></Name>
+		<AttributeType><![CDATA[409]]></AttributeType>
+		<BeginValue><![CDATA[40]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[27]]></ID>
+		<Name><![CDATA[FLAT CRIT DMG III]]></Name>
+		<AttributeType><![CDATA[409]]></AttributeType>
+		<BeginValue><![CDATA[60]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[28]]></ID>
+		<Name><![CDATA[FLAT CRIT DMG IV]]></Name>
+		<AttributeType><![CDATA[409]]></AttributeType>
+		<BeginValue><![CDATA[90]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[29]]></ID>
+		<Name><![CDATA[FLAT CRIT DMG V]]></Name>
+		<AttributeType><![CDATA[409]]></AttributeType>
+		<BeginValue><![CDATA[120]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[30]]></ID>
+		<Name><![CDATA[FLAT AP I]]></Name>
+		<AttributeType><![CDATA[406]]></AttributeType>
+		<BeginValue><![CDATA[100]]></BeginValue>
+		<ValuePerLevel><![CDATA[20]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[31]]></ID>
+		<Name><![CDATA[FLAT AP II]]></Name>
+		<AttributeType><![CDATA[406]]></AttributeType>
+		<BeginValue><![CDATA[200]]></BeginValue>
+		<ValuePerLevel><![CDATA[40]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[32]]></ID>
+		<Name><![CDATA[FLAT AP III]]></Name>
+		<AttributeType><![CDATA[406]]></AttributeType>
+		<BeginValue><![CDATA[400]]></BeginValue>
+		<ValuePerLevel><![CDATA[80]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[33]]></ID>
+		<Name><![CDATA[FLAT AP IV]]></Name>
+		<AttributeType><![CDATA[406]]></AttributeType>
+		<BeginValue><![CDATA[800]]></BeginValue>
+		<ValuePerLevel><![CDATA[160]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[34]]></ID>
+		<Name><![CDATA[FLAT AP V]]></Name>
+		<AttributeType><![CDATA[406]]></AttributeType>
+		<BeginValue><![CDATA[1600]]></BeginValue>
+		<ValuePerLevel><![CDATA[240]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[35]]></ID>
+		<Name><![CDATA[FLAT SKILL CRIT I]]></Name>
+		<AttributeType><![CDATA[408]]></AttributeType>
+		<BeginValue><![CDATA[8]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[36]]></ID>
+		<Name><![CDATA[FLAT SKILL CRIT II]]></Name>
+		<AttributeType><![CDATA[408]]></AttributeType>
+		<BeginValue><![CDATA[10]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[37]]></ID>
+		<Name><![CDATA[FLAT SKILL CRIT III]]></Name>
+		<AttributeType><![CDATA[408]]></AttributeType>
+		<BeginValue><![CDATA[12]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[38]]></ID>
+		<Name><![CDATA[FLAT SKILL CRIT IV]]></Name>
+		<AttributeType><![CDATA[408]]></AttributeType>
+		<BeginValue><![CDATA[15]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[39]]></ID>
+		<Name><![CDATA[FLAT SKILL CRIT V]]></Name>
+		<AttributeType><![CDATA[408]]></AttributeType>
+		<BeginValue><![CDATA[20]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[40]]></ID>
+		<Name><![CDATA[FLAT SKILL CRIT DMG I]]></Name>
+		<AttributeType><![CDATA[410]]></AttributeType>
+		<BeginValue><![CDATA[20]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[41]]></ID>
+		<Name><![CDATA[FLAT SKILL CRIT DMG II]]></Name>
+		<AttributeType><![CDATA[410]]></AttributeType>
+		<BeginValue><![CDATA[40]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[42]]></ID>
+		<Name><![CDATA[FLAT SKILL CRIT DMG III]]></Name>
+		<AttributeType><![CDATA[410]]></AttributeType>
+		<BeginValue><![CDATA[60]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[43]]></ID>
+		<Name><![CDATA[FLAT SKILL CRIT DMG IV]]></Name>
+		<AttributeType><![CDATA[410]]></AttributeType>
+		<BeginValue><![CDATA[90]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[44]]></ID>
+		<Name><![CDATA[FLAT SKILL CRIT DMG V]]></Name>
+		<AttributeType><![CDATA[410]]></AttributeType>
+		<BeginValue><![CDATA[120]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[45]]></ID>
+		<Name><![CDATA[FLAT PIERCE I]]></Name>
+		<AttributeType><![CDATA[411]]></AttributeType>
+		<BeginValue><![CDATA[44]]></BeginValue>
+		<ValuePerLevel><![CDATA[3]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[46]]></ID>
+		<Name><![CDATA[FLAT PIERCE II]]></Name>
+		<AttributeType><![CDATA[411]]></AttributeType>
+		<BeginValue><![CDATA[88]]></BeginValue>
+		<ValuePerLevel><![CDATA[6]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[47]]></ID>
+		<Name><![CDATA[FLAT PIERCE III]]></Name>
+		<AttributeType><![CDATA[411]]></AttributeType>
+		<BeginValue><![CDATA[144]]></BeginValue>
+		<ValuePerLevel><![CDATA[12]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[48]]></ID>
+		<Name><![CDATA[FLAT PIERCE IV]]></Name>
+		<AttributeType><![CDATA[411]]></AttributeType>
+		<BeginValue><![CDATA[212]]></BeginValue>
+		<ValuePerLevel><![CDATA[18]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[49]]></ID>
+		<Name><![CDATA[FLAT PIERCE V]]></Name>
+		<AttributeType><![CDATA[411]]></AttributeType>
+		<BeginValue><![CDATA[281]]></BeginValue>
+		<ValuePerLevel><![CDATA[28]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[50]]></ID>
+		<Name><![CDATA[FLAT BLOCK RATE I]]></Name>
+		<AttributeType><![CDATA[416]]></AttributeType>
+		<BeginValue><![CDATA[36]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[51]]></ID>
+		<Name><![CDATA[FLAT BLOCK RATE II]]></Name>
+		<AttributeType><![CDATA[416]]></AttributeType>
+		<BeginValue><![CDATA[72]]></BeginValue>
+		<ValuePerLevel><![CDATA[4]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[52]]></ID>
+		<Name><![CDATA[FLAT BLOCK RATE III]]></Name>
+		<AttributeType><![CDATA[416]]></AttributeType>
+		<BeginValue><![CDATA[128]]></BeginValue>
+		<ValuePerLevel><![CDATA[8]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[53]]></ID>
+		<Name><![CDATA[FLAT BLOCK RATE IV]]></Name>
+		<AttributeType><![CDATA[416]]></AttributeType>
+		<BeginValue><![CDATA[196]]></BeginValue>
+		<ValuePerLevel><![CDATA[16]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[54]]></ID>
+		<Name><![CDATA[FLAT BLOCK RATE V]]></Name>
+		<AttributeType><![CDATA[416]]></AttributeType>
+		<BeginValue><![CDATA[256]]></BeginValue>
+		<ValuePerLevel><![CDATA[24]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[55]]></ID>
+		<Name><![CDATA[FLAT INT I]]></Name>
+		<AttributeType><![CDATA[6]]></AttributeType>
+		<BeginValue><![CDATA[30]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[56]]></ID>
+		<Name><![CDATA[FLAT INT II]]></Name>
+		<AttributeType><![CDATA[6]]></AttributeType>
+		<BeginValue><![CDATA[50]]></BeginValue>
+		<ValuePerLevel><![CDATA[6]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[57]]></ID>
+		<Name><![CDATA[FLAT INT III]]></Name>
+		<AttributeType><![CDATA[6]]></AttributeType>
+		<BeginValue><![CDATA[70]]></BeginValue>
+		<ValuePerLevel><![CDATA[12]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[58]]></ID>
+		<Name><![CDATA[FLAT INT IV]]></Name>
+		<AttributeType><![CDATA[6]]></AttributeType>
+		<BeginValue><![CDATA[100]]></BeginValue>
+		<ValuePerLevel><![CDATA[18]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[59]]></ID>
+		<Name><![CDATA[FLAT INT V]]></Name>
+		<AttributeType><![CDATA[6]]></AttributeType>
+		<BeginValue><![CDATA[180]]></BeginValue>
+		<ValuePerLevel><![CDATA[30]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[60]]></ID>
+		<Name><![CDATA[FLAT ARMOR I]]></Name>
+		<AttributeType><![CDATA[401]]></AttributeType>
+		<BeginValue><![CDATA[60]]></BeginValue>
+		<ValuePerLevel><![CDATA[4]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[61]]></ID>
+		<Name><![CDATA[FLAT ARMOR II]]></Name>
+		<AttributeType><![CDATA[401]]></AttributeType>
+		<BeginValue><![CDATA[80]]></BeginValue>
+		<ValuePerLevel><![CDATA[8]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[62]]></ID>
+		<Name><![CDATA[FLAT ARMOR III]]></Name>
+		<AttributeType><![CDATA[401]]></AttributeType>
+		<BeginValue><![CDATA[120]]></BeginValue>
+		<ValuePerLevel><![CDATA[16]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[63]]></ID>
+		<Name><![CDATA[FLAT ARMOR IV]]></Name>
+		<AttributeType><![CDATA[401]]></AttributeType>
+		<BeginValue><![CDATA[160]]></BeginValue>
+		<ValuePerLevel><![CDATA[32]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[64]]></ID>
+		<Name><![CDATA[FLAT ARMOR V]]></Name>
+		<AttributeType><![CDATA[401]]></AttributeType>
+		<BeginValue><![CDATA[320]]></BeginValue>
+		<ValuePerLevel><![CDATA[64]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[65]]></ID>
+		<Name><![CDATA[FLAT MAG RESIST I]]></Name>
+		<AttributeType><![CDATA[402]]></AttributeType>
+		<BeginValue><![CDATA[60]]></BeginValue>
+		<ValuePerLevel><![CDATA[4]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[66]]></ID>
+		<Name><![CDATA[FLAT MAG RESIST I]]></Name>
+		<AttributeType><![CDATA[402]]></AttributeType>
+		<BeginValue><![CDATA[80]]></BeginValue>
+		<ValuePerLevel><![CDATA[8]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[67]]></ID>
+		<Name><![CDATA[FLAT MAG RESIST I]]></Name>
+		<AttributeType><![CDATA[402]]></AttributeType>
+		<BeginValue><![CDATA[120]]></BeginValue>
+		<ValuePerLevel><![CDATA[16]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[68]]></ID>
+		<Name><![CDATA[FLAT MAG RESIST I]]></Name>
+		<AttributeType><![CDATA[402]]></AttributeType>
+		<BeginValue><![CDATA[160]]></BeginValue>
+		<ValuePerLevel><![CDATA[32]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[69]]></ID>
+		<Name><![CDATA[FLAT MAG RESIST I]]></Name>
+		<AttributeType><![CDATA[402]]></AttributeType>
+		<BeginValue><![CDATA[320]]></BeginValue>
+		<ValuePerLevel><![CDATA[64]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[70]]></ID>
+		<Name><![CDATA[1  Kháng hỏa(Fire Resist)]]></Name>
+		<AttributeType><![CDATA[421]]></AttributeType>
+		<BeginValue><![CDATA[5]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[71]]></ID>
+		<Name><![CDATA[1  Kháng hỏa(Fire Resist)]]></Name>
+		<AttributeType><![CDATA[421]]></AttributeType>
+		<BeginValue><![CDATA[7]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[72]]></ID>
+		<Name><![CDATA[1  Kháng hỏa(Fire Resist)]]></Name>
+		<AttributeType><![CDATA[421]]></AttributeType>
+		<BeginValue><![CDATA[9]]></BeginValue>
+		<ValuePerLevel><![CDATA[3]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[73]]></ID>
+		<Name><![CDATA[1  Kháng hỏa(Fire Resist)]]></Name>
+		<AttributeType><![CDATA[421]]></AttributeType>
+		<BeginValue><![CDATA[11]]></BeginValue>
+		<ValuePerLevel><![CDATA[4]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[74]]></ID>
+		<Name><![CDATA[1  Kháng hỏa(Fire Resist)]]></Name>
+		<AttributeType><![CDATA[421]]></AttributeType>
+		<BeginValue><![CDATA[15]]></BeginValue>
+		<ValuePerLevel><![CDATA[5]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[75]]></ID>
+		<Name><![CDATA[1  Kháng thổ(Earth Resist)]]></Name>
+		<AttributeType><![CDATA[422]]></AttributeType>
+		<BeginValue><![CDATA[5]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[76]]></ID>
+		<Name><![CDATA[1  Kháng thổ(Earth Resist)]]></Name>
+		<AttributeType><![CDATA[422]]></AttributeType>
+		<BeginValue><![CDATA[7]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[77]]></ID>
+		<Name><![CDATA[1  Kháng thổ(Earth Resist)]]></Name>
+		<AttributeType><![CDATA[422]]></AttributeType>
+		<BeginValue><![CDATA[9]]></BeginValue>
+		<ValuePerLevel><![CDATA[3]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[78]]></ID>
+		<Name><![CDATA[1  Kháng thổ(Earth Resist)]]></Name>
+		<AttributeType><![CDATA[422]]></AttributeType>
+		<BeginValue><![CDATA[11]]></BeginValue>
+		<ValuePerLevel><![CDATA[4]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[79]]></ID>
+		<Name><![CDATA[1  Kháng thổ(Earth Resist)]]></Name>
+		<AttributeType><![CDATA[422]]></AttributeType>
+		<BeginValue><![CDATA[15]]></BeginValue>
+		<ValuePerLevel><![CDATA[5]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[80]]></ID>
+		<Name><![CDATA[1  Kháng kim(Metal Resist)]]></Name>
+		<AttributeType><![CDATA[423]]></AttributeType>
+		<BeginValue><![CDATA[5]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[81]]></ID>
+		<Name><![CDATA[1  Kháng kim(Metal Resist)]]></Name>
+		<AttributeType><![CDATA[423]]></AttributeType>
+		<BeginValue><![CDATA[7]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[82]]></ID>
+		<Name><![CDATA[1  Kháng kim(Metal Resist)]]></Name>
+		<AttributeType><![CDATA[423]]></AttributeType>
+		<BeginValue><![CDATA[9]]></BeginValue>
+		<ValuePerLevel><![CDATA[3]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[83]]></ID>
+		<Name><![CDATA[1  Kháng kim(Metal Resist)]]></Name>
+		<AttributeType><![CDATA[423]]></AttributeType>
+		<BeginValue><![CDATA[11]]></BeginValue>
+		<ValuePerLevel><![CDATA[4]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[84]]></ID>
+		<Name><![CDATA[1  Kháng kim(Metal Resist)]]></Name>
+		<AttributeType><![CDATA[423]]></AttributeType>
+		<BeginValue><![CDATA[15]]></BeginValue>
+		<ValuePerLevel><![CDATA[5]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[85]]></ID>
+		<Name><![CDATA[1  Kháng mộc(Wood Resist)]]></Name>
+		<AttributeType><![CDATA[420]]></AttributeType>
+		<BeginValue><![CDATA[5]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[86]]></ID>
+		<Name><![CDATA[1  Kháng mộc(Wood Resist)]]></Name>
+		<AttributeType><![CDATA[420]]></AttributeType>
+		<BeginValue><![CDATA[7]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[87]]></ID>
+		<Name><![CDATA[1  Kháng mộc(Wood Resist)]]></Name>
+		<AttributeType><![CDATA[420]]></AttributeType>
+		<BeginValue><![CDATA[9]]></BeginValue>
+		<ValuePerLevel><![CDATA[3]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[88]]></ID>
+		<Name><![CDATA[1  Kháng mộc(Wood Resist)]]></Name>
+		<AttributeType><![CDATA[420]]></AttributeType>
+		<BeginValue><![CDATA[11]]></BeginValue>
+		<ValuePerLevel><![CDATA[4]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[89]]></ID>
+		<Name><![CDATA[1  Kháng mộc(Wood Resist)]]></Name>
+		<AttributeType><![CDATA[420]]></AttributeType>
+		<BeginValue><![CDATA[15]]></BeginValue>
+		<ValuePerLevel><![CDATA[5]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[90]]></ID>
+		<Name><![CDATA[1  Kháng thủy(Water Resist)]]></Name>
+		<AttributeType><![CDATA[424]]></AttributeType>
+		<BeginValue><![CDATA[5]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[91]]></ID>
+		<Name><![CDATA[1  Kháng thủy(Water Resist)]]></Name>
+		<AttributeType><![CDATA[424]]></AttributeType>
+		<BeginValue><![CDATA[7]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[92]]></ID>
+		<Name><![CDATA[1  Kháng thủy(Water Resist)]]></Name>
+		<AttributeType><![CDATA[424]]></AttributeType>
+		<BeginValue><![CDATA[9]]></BeginValue>
+		<ValuePerLevel><![CDATA[3]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[93]]></ID>
+		<Name><![CDATA[1  Kháng thủy(Water Resist)]]></Name>
+		<AttributeType><![CDATA[424]]></AttributeType>
+		<BeginValue><![CDATA[11]]></BeginValue>
+		<ValuePerLevel><![CDATA[4]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[94]]></ID>
+		<Name><![CDATA[1  Kháng thủy(Water Resist)]]></Name>
+		<AttributeType><![CDATA[424]]></AttributeType>
+		<BeginValue><![CDATA[15]]></BeginValue>
+		<ValuePerLevel><![CDATA[5]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[95]]></ID>
+		<Name><![CDATA[1  Sinh lực tối đa(MaxHP)]]></Name>
+		<AttributeType><![CDATA[3]]></AttributeType>
+		<BeginValue><![CDATA[500]]></BeginValue>
+		<ValuePerLevel><![CDATA[120]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[96]]></ID>
+		<Name><![CDATA[1  Sinh lực tối đa(MaxHP)]]></Name>
+		<AttributeType><![CDATA[3]]></AttributeType>
+		<BeginValue><![CDATA[1500]]></BeginValue>
+		<ValuePerLevel><![CDATA[240]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[97]]></ID>
+		<Name><![CDATA[1  Sinh lực tối đa(MaxHP)]]></Name>
+		<AttributeType><![CDATA[3]]></AttributeType>
+		<BeginValue><![CDATA[3000]]></BeginValue>
+		<ValuePerLevel><![CDATA[480]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[98]]></ID>
+		<Name><![CDATA[TRẬN - KIM trận - Line 1 : + Sinh Lực hệ Kim]]></Name>
+		<AttributeType><![CDATA[3]]></AttributeType>
+		<BeginValue><![CDATA[1000]]></BeginValue>
+		<ValuePerLevel><![CDATA[400]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[99]]></ID>
+		<Name><![CDATA[TRẬN - KIM trận - Line 2 : + Kháng Mộc ALL]]></Name>
+		<AttributeType><![CDATA[420]]></AttributeType>
+		<BeginValue><![CDATA[15]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[100]]></ID>
+		<Name><![CDATA[TRẬN - KIM trận - Line 3 : + STR ALL]]></Name>
+		<AttributeType><![CDATA[4]]></AttributeType>
+		<BeginValue><![CDATA[250]]></BeginValue>
+		<ValuePerLevel><![CDATA[15]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[101]]></ID>
+		<Name><![CDATA[TRẬN - KIM trận - Line 3 : + Armor hệ KIM]]></Name>
+		<AttributeType><![CDATA[401]]></AttributeType>
+		<BeginValue><![CDATA[1000]]></BeginValue>
+		<ValuePerLevel><![CDATA[50]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[102]]></ID>
+		<Name><![CDATA[TRẬN - THỦY trận - Line 1 : + Sinh Lực hệ Thủy]]></Name>
+		<AttributeType><![CDATA[3]]></AttributeType>
+		<BeginValue><![CDATA[1000]]></BeginValue>
+		<ValuePerLevel><![CDATA[400]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[103]]></ID>
+		<Name><![CDATA[TRẬN - THỦY trận - Line 2 : + Kháng Hỏa ALL]]></Name>
+		<AttributeType><![CDATA[421]]></AttributeType>
+		<BeginValue><![CDATA[15]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[104]]></ID>
+		<Name><![CDATA[TRẬN - THỦY trận - Line 3 : + INT ALL]]></Name>
+		<AttributeType><![CDATA[6]]></AttributeType>
+		<BeginValue><![CDATA[250]]></BeginValue>
+		<ValuePerLevel><![CDATA[15]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[105]]></ID>
+		<Name><![CDATA[TRẬN - THỦY trận - Line 3 : + SkillCrit Chance hệ THỦY]]></Name>
+		<AttributeType><![CDATA[408]]></AttributeType>
+		<BeginValue><![CDATA[25]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[106]]></ID>
+		<Name><![CDATA[TRẬN - MỘC trận - Line 1 : + Sát Thương hệ Mộc]]></Name>
+		<AttributeType><![CDATA[2]]></AttributeType>
+		<BeginValue><![CDATA[550]]></BeginValue>
+		<ValuePerLevel><![CDATA[50]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[107]]></ID>
+		<Name><![CDATA[TRẬN - MỘC trận - Line 2 : + Kháng THỔ ALL]]></Name>
+		<AttributeType><![CDATA[422]]></AttributeType>
+		<BeginValue><![CDATA[15]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[108]]></ID>
+		<Name><![CDATA[TRẬN - MỘC trận - Line 3 : + AGI ALL]]></Name>
+		<AttributeType><![CDATA[5]]></AttributeType>
+		<BeginValue><![CDATA[250]]></BeginValue>
+		<ValuePerLevel><![CDATA[15]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[109]]></ID>
+		<Name><![CDATA[TRẬN - MỘC trận - Line 3 : + CritDMG hệ MỘC]]></Name>
+		<AttributeType><![CDATA[409]]></AttributeType>
+		<BeginValue><![CDATA[10]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[110]]></ID>
+		<Name><![CDATA[TRẬN - THỔ trận - Line 1 : + AGI hệ THỔ]]></Name>
+		<AttributeType><![CDATA[5]]></AttributeType>
+		<BeginValue><![CDATA[100]]></BeginValue>
+		<ValuePerLevel><![CDATA[20]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[111]]></ID>
+		<Name><![CDATA[TRẬN - THỔ trận - Line 2 : + kháng THỦY ALL]]></Name>
+		<AttributeType><![CDATA[424]]></AttributeType>
+		<BeginValue><![CDATA[15]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[112]]></ID>
+		<Name><![CDATA[TRẬN - THỔ trận - Line 3 : + AGI ALL]]></Name>
+		<AttributeType><![CDATA[5]]></AttributeType>
+		<BeginValue><![CDATA[250]]></BeginValue>
+		<ValuePerLevel><![CDATA[15]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[113]]></ID>
+		<Name><![CDATA[TRẬN - THỔ trận - Line 3 : + block hệ THỔ]]></Name>
+		<AttributeType><![CDATA[416]]></AttributeType>
+		<BeginValue><![CDATA[1000]]></BeginValue>
+		<ValuePerLevel><![CDATA[50]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[114]]></ID>
+		<Name><![CDATA[TRẬN - HỎA trận - Line 1 : + DMG hệ HỎA]]></Name>
+		<AttributeType><![CDATA[2]]></AttributeType>
+		<BeginValue><![CDATA[550]]></BeginValue>
+		<ValuePerLevel><![CDATA[50]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[115]]></ID>
+		<Name><![CDATA[TRẬN - HỎA trận - Line 2 : + kháng KIM ALL]]></Name>
+		<AttributeType><![CDATA[423]]></AttributeType>
+		<BeginValue><![CDATA[15]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[116]]></ID>
+		<Name><![CDATA[TRẬN - HỎA trận - Line 3 : + Pierce ALL]]></Name>
+		<AttributeType><![CDATA[411]]></AttributeType>
+		<BeginValue><![CDATA[100]]></BeginValue>
+		<ValuePerLevel><![CDATA[75]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[117]]></ID>
+		<Name><![CDATA[TRẬN - HỎA trận - Line 3 : + SkillCrit Chance hệ HỎA]]></Name>
+		<AttributeType><![CDATA[408]]></AttributeType>
+		<BeginValue><![CDATA[25]]></BeginValue>
+		<ValuePerLevel><![CDATA[0]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[118]]></ID>
+		<Name><![CDATA[TRẬN - BÁT QUÁI trận - Line 1: Kháng KIM]]></Name>
+		<AttributeType><![CDATA[423]]></AttributeType>
+		<BeginValue><![CDATA[1]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[119]]></ID>
+		<Name><![CDATA[TRẬN - BÁT QUÁI trận - Line 1: Kháng MỘC]]></Name>
+		<AttributeType><![CDATA[420]]></AttributeType>
+		<BeginValue><![CDATA[1]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[120]]></ID>
+		<Name><![CDATA[TRẬN - BÁT QUÁI trận - Line 1: Kháng THỦY]]></Name>
+		<AttributeType><![CDATA[424]]></AttributeType>
+		<BeginValue><![CDATA[1]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[121]]></ID>
+		<Name><![CDATA[TRẬN - BÁT QUÁI trận - Line 1: Kháng HỎA]]></Name>
+		<AttributeType><![CDATA[421]]></AttributeType>
+		<BeginValue><![CDATA[1]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[122]]></ID>
+		<Name><![CDATA[TRẬN - BÁT QUÁI trận - Line 1: Kháng THỔ]]></Name>
+		<AttributeType><![CDATA[422]]></AttributeType>
+		<BeginValue><![CDATA[1]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[123]]></ID>
+		<Name><![CDATA[TRẬN - BÁT QUÁI trận - Line 2: + VIT ALL]]></Name>
+		<AttributeType><![CDATA[7]]></AttributeType>
+		<BeginValue><![CDATA[100]]></BeginValue>
+		<ValuePerLevel><![CDATA[10]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[124]]></ID>
+		<Name><![CDATA[TRẬN - BÁT QUÁI trận - Line 2: + STR ALL]]></Name>
+		<AttributeType><![CDATA[4]]></AttributeType>
+		<BeginValue><![CDATA[100]]></BeginValue>
+		<ValuePerLevel><![CDATA[10]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[125]]></ID>
+		<Name><![CDATA[TRẬN - BÁT QUÁI trận - Line 2: + AGI ALL]]></Name>
+		<AttributeType><![CDATA[5]]></AttributeType>
+		<BeginValue><![CDATA[100]]></BeginValue>
+		<ValuePerLevel><![CDATA[10]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[126]]></ID>
+		<Name><![CDATA[TRẬN - BÁT QUÁI trận - Line 2: + INT ALL]]></Name>
+		<AttributeType><![CDATA[6]]></AttributeType>
+		<BeginValue><![CDATA[100]]></BeginValue>
+		<ValuePerLevel><![CDATA[10]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[127]]></ID>
+		<Name><![CDATA[TRẬN - BÁT QUÁI trận - Line 3: + AP ALL]]></Name>
+		<AttributeType><![CDATA[406]]></AttributeType>
+		<BeginValue><![CDATA[1200]]></BeginValue>
+		<ValuePerLevel><![CDATA[20]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[128]]></ID>
+		<Name><![CDATA[Khí Mệnh + Kháng Ngũ Hành]]></Name>
+		<AttributeType><![CDATA[404]]></AttributeType>
+		<BeginValue><![CDATA[1]]></BeginValue>
+		<ValuePerLevel><![CDATA[1]]></ValuePerLevel>
+		<ValueType><![CDATA[1]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[129]]></ID>
+		<Name><![CDATA[Kháng Mộc I]]></Name>
+		<AttributeType><![CDATA[430]]></AttributeType>
+		<BeginValue><![CDATA[8]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[14]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[130]]></ID>
+		<Name><![CDATA[Kháng Hỏa I]]></Name>
+		<AttributeType><![CDATA[431]]></AttributeType>
+		<BeginValue><![CDATA[8]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[14]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[131]]></ID>
+		<Name><![CDATA[Kháng Thổ I]]></Name>
+		<AttributeType><![CDATA[432]]></AttributeType>
+		<BeginValue><![CDATA[8]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[14]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[132]]></ID>
+		<Name><![CDATA[Kháng Kim I]]></Name>
+		<AttributeType><![CDATA[433]]></AttributeType>
+		<BeginValue><![CDATA[8]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[14]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[133]]></ID>
+		<Name><![CDATA[Kháng Thủy I]]></Name>
+		<AttributeType><![CDATA[434]]></AttributeType>
+		<BeginValue><![CDATA[8]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[14]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[134]]></ID>
+		<Name><![CDATA[Khắc mộc I]]></Name>
+		<AttributeType><![CDATA[420]]></AttributeType>
+		<BeginValue><![CDATA[8]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[14]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[135]]></ID>
+		<Name><![CDATA[Khắc Hỏa I]]></Name>
+		<AttributeType><![CDATA[421]]></AttributeType>
+		<BeginValue><![CDATA[8]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[14]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[136]]></ID>
+		<Name><![CDATA[Khắc Thổ I]]></Name>
+		<AttributeType><![CDATA[422]]></AttributeType>
+		<BeginValue><![CDATA[8]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[14]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[137]]></ID>
+		<Name><![CDATA[Khắc Kim I]]></Name>
+		<AttributeType><![CDATA[423]]></AttributeType>
+		<BeginValue><![CDATA[8]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[14]]></ValueType>
+	</Data>
+	<Data>
+		<ID><![CDATA[138]]></ID>
+		<Name><![CDATA[Khắc Thủy I]]></Name>
+		<AttributeType><![CDATA[424]]></AttributeType>
+		<BeginValue><![CDATA[8]]></BeginValue>
+		<ValuePerLevel><![CDATA[2]]></ValuePerLevel>
+		<ValueType><![CDATA[14]]></ValueType>
+	</Data>
+</Datas>

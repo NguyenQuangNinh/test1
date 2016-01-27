@@ -1,0 +1,2123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<ID><![CDATA[1]]></ID>
+		<Name><![CDATA[ Nga My - Đào Đào Chi Yêu - Thức 1 - Heal all team members ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[11,12,13,80]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[1]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[2]]></ID>
+		<Name><![CDATA[ Nga My - Đào Đào Chi Yêu - Thức 2 - Heal by time all team members ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[12,13,80]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[2]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[3]]></ID>
+		<Name><![CDATA[ Nga My - Đào Đào Chi Yêu - Thức 3 - Buff Amor + Mag Rest on team members ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[13,80]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[3,4]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[4]]></ID>
+		<Name><![CDATA[ Cái Bang - Kháng Long Hữu Hối - Tạo Bullet cho 3 thức ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[19,20,21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[36]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[5]]></ID>
+		<Name><![CDATA[ Thiếu Lâm - Xá Thân Quyết - Thức 1 - Charge + Miễn nhiễm knockback ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[3,4,5,79]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[8,9]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[6]]></ID>
+		<Name><![CDATA[ Thiếu Lâm - Xá Thân Quyết - Thức 2 - Làm chậm đối phương ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[3,4,5,79]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[10]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[7]]></ID>
+		<Name><![CDATA[ Thiếu Lâm - Xá Thân Quyết - Thức 3 - Giam ngoai cong cua doi phuong trung don ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[3,4,5,79]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[11]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[8]]></ID>
+		<Name><![CDATA[ Nga My Kiếm - Tam Nga Tế Nguyệt - Tạo bullet contains effects cho thức 1 (khởi tạo) ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[8,9,10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[13]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[9]]></ID>
+		<Name><![CDATA[ Cái Bang - Phi Long Tại Thiên - Thức 1 tạo bullet ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[19,20,21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[14]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[10]]></ID>
+		<Name><![CDATA[ Cái Bang - Phi Long Tại Thiên - Thức 2 tạo bullet ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[20,21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[15]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[11]]></ID>
+		<Name><![CDATA[ Cái Bang - Phi Long Tại Thiên - Thức 3 tạo bullet ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[16]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[12]]></ID>
+		<Name><![CDATA[ Thiếu Lâm - Sư Tử Hống - Thức 1, gây sát thương, làm choáng ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[3,4,5,79]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[17,18]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[13]]></ID>
+		<Name><![CDATA[ Thiếu Lâm - Sư Tử Hống - Thức 2, xuất huyết ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[4,5,79]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[19]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[14]]></ID>
+		<Name><![CDATA[ Thiếu Lâm - Sư Tử Hống - Thức 3, buff tăng kháng nội, ngoại, ngũ hành ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[5,79]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[20,21,22]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[15]]></ID>
+		<Name><![CDATA[]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[23]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[16]]></ID>
+		<Name><![CDATA[Nga My Kiếm - Tam Nga Tế Nguyệt - Thức 1 (bulletx3), gây sát thương và đẩy lùi x 3 mục tiêu]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[8,9,10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[24,25]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[17]]></ID>
+		<Name><![CDATA[Nga My Kiếm - Tam Nga Tế Nguyệt - Thức 2 , giảm sát thương của mục tiêu trúng phải]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[9,10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[26]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[18]]></ID>
+		<Name><![CDATA[Nga My Kiếm - Tam Nga Tế Nguyệt - Trigger condition của thức 3 : trigger effect khi gây sát thương nội công]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[27]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[19]]></ID>
+		<Name><![CDATA[ Cái Bang - Phi Long Tại Thiên - Thức 1, gây sát thương và nổ lan ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[19,20,21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[28,29]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[20]]></ID>
+		<Name><![CDATA[ Cái Bang - Phi Long Tại Thiên - Thức 2, gây sát thương thêm lần 2 ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[20,21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[30,408]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[21]]></ID>
+		<Name><![CDATA[ Cái Bang - Phi Long Tại Thiên - Thức 3, gây sát thương lần 3 ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[31,409]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[22]]></ID>
+		<Name><![CDATA[Thiếu Lâm - Kim Cương Bất Hoại - Aura thức 1, tăng kháng ngoại và ngũ hành]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[3,4,5,79]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[32,33]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[23]]></ID>
+		<Name><![CDATA[Thiếu Lâm - Kim Cương Bất Hoại - Aura thức 2, gây sát thương]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[4,5,79]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[34]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[24]]></ID>
+		<Name><![CDATA[Thiếu Lâm - Kim Cương Bất Hoại - Aura thức 3, làm chậm]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[5,79]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[35]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[25]]></ID>
+		<Name><![CDATA[Cái Bang Chưởng - Kháng Long Hữu Hối - Thức 1, gây sát thương lên vùng chỉ định]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[19,20,21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[5]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[26]]></ID>
+		<Name><![CDATA[Cái Bang Chưởng - Kháng Long Hữu Hối - Thức 2, gây sát thương lần 2]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[20,21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[6]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[27]]></ID>
+		<Name><![CDATA[Cái Bang Chưởng - Kháng Long Hữu Hối - Thức 3, làm choáng]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[7,359]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[28]]></ID>
+		<Name><![CDATA[]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[3,4,5]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[37,328]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[29]]></ID>
+		<Name><![CDATA[]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[4,5]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[38]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[30]]></ID>
+		<Name><![CDATA[]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[5]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[39]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[31]]></ID>
+		<Name><![CDATA[Thiếu Lâm - Kim Cương Bất Hoại - Tạo Aura]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[3,4,5,79]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[40]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[32]]></ID>
+		<Name><![CDATA[Nga My Kiếm - Tam Nga Tế Nguyệt - Thức 3, hồi phục HP dựa trên sát thương đã gây ra ở thức 1]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[41]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[33]]></ID>
+		<Name><![CDATA[Nga Mi - Hữu Sở Tư - Thức 1, buff kháng ngoại và nội all team]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[11,12,13,80]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[42,43]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[34]]></ID>
+		<Name><![CDATA[Nga Mi - Hữu Sở Tư - Thức 2, buff critChance Nội Ngoại all team]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[12,13,80]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[44,45]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[35]]></ID>
+		<Name><![CDATA[Nga Mi - Hữu Sở Tư - Thức 3, buff critDMG Nội Ngoại all team]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[13,80]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[46,47]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[36]]></ID>
+		<Name><![CDATA[Nga Mi - Thiên Âm Trấn Ma Khúc - Thức 1, buff HP team, damage all enemies]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[11,12,13,80]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[48,49]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[37]]></ID>
+		<Name><![CDATA[]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[50]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[38]]></ID>
+		<Name><![CDATA[Nga Mi - Thiên Âm Trấn Ma Khúc - Thức 2, clear all harmful effects]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[12,13,80]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[406,51]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[39]]></ID>
+		<Name><![CDATA[Nga Mi - Thiên Âm Trấn Ma Khúc - Thức 3, tạo khiên kháng hiệu ứng đẩy lùi cho team ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[13,80]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[407,52]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[40]]></ID>
+		<Name><![CDATA[Nga My - Thôi Song Vọng Nguyệt - thuc 1, tạo giáp hấp thụ sát thương ngoại ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[8,9,10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[53]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[41]]></ID>
+		<Name><![CDATA[Nga My - Thôi Song Vọng Nguyệt - thuc 2, hồi HP theo lượng sát thương đã hấp thụ ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[9,10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[54]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[42]]></ID>
+		<Name><![CDATA[Nga My - Thôi Song Vọng Nguyệt - thuc 3, tạo aura xác định bán kính gây sát thương ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[55]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[43]]></ID>
+		<Name><![CDATA[Nga My - Thôi Song Vọng Nguyệt - thuc 3, gây sát thương cho đối phương trên vùng aura xác định ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[56]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[44]]></ID>
+		<Name><![CDATA[ Nga My - Bất Diệt Bất Tuyệt - thuc 1, hồi sinh lực bản thân ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[8,9,10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[57]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[45]]></ID>
+		<Name><![CDATA[ Nga My - Bất Diệt Bất Tuyệt - thuc 2, thanh tẩy toàn bộ hiệu ứng bất lợi ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[9,10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[58,59]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[46]]></ID>
+		<Name><![CDATA[ Nga My - Bất Diệt Bất Tuyệt - thức 3, tạo khiên chắn miễn nhiễm toàn bộ mọi loại sát thương ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[60,305]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[47]]></ID>
+		<Name><![CDATA[ Cái Bang - Bổng Đả Ác Cẩu - Tạo bullet hiệu ứng ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[61]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[48]]></ID>
+		<Name><![CDATA[ Cái Bang - Bổng Đả Ác Cẩu - Thức 1, gây sát thương và đẩy lùi ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[16,17,18,82]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[62,63]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[49]]></ID>
+		<Name><![CDATA[ Cái Bang - Bổng Đả Ác Cẩu - Thức 2, gây xuất huyết theo thời gian ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[17,18,82]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[64]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[50]]></ID>
+		<Name><![CDATA[ Cái Bang - Bổng Đả Ác Cẩu - Thức 3, làm choáng sau khi đánh bật ở thức 2 ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[18,82]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[65]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[51]]></ID>
+		<Name><![CDATA[ Cái Bang - Bát Cẩu Triều Thiên - Tạo bullet effect ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[16,17,18,82]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[66]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[52]]></ID>
+		<Name><![CDATA[ Cái Bang - Bát Cẩu Triều Thiên - Thức 1 - gây sát thương lên vùng ngẫu nhiên, gây choáng nhẹ ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[16,17,18,82]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[67,306]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[53]]></ID>
+		<Name><![CDATA[ Cái Bang - Bát Cẩu Triều Thiên - Thức 2, tăng chính xác của bản thân trong một thời gian ngắn ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[17,18,82]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[402,68]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[54]]></ID>
+		<Name><![CDATA[ Cái Bang - Bát Cẩu Triều Thiên - Thức 3, tăng kháng đẩy lùi (giảm khoảng cách đẩy), trong một thời gian ngắn ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[18,82]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[403,69]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[55]]></ID>
+		<Name><![CDATA[ Cái Bang - Thiên Hạ Vô Cẩu - Tạo bullet contains effects cho thức 1 và 2 ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[16,17,18,82]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[70]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[56]]></ID>
+		<Name><![CDATA[ Cái Bang - Thiên Hạ Vô Cẩu - Thức 1 - Gây sát thương và đẩy lùi ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[16,17,18,82]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[71,72]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[57]]></ID>
+		<Name><![CDATA[ Cái Bang - Thiên Hạ Vô Cẩu - Thức 2 - Làm chậm ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[17,18,82]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[73]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[58]]></ID>
+		<Name><![CDATA[ Cái Bang - Thiên Hạ Vô Cẩu - Tạo bullet contains effects cho thức 3 ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[18,82]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[74]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[59]]></ID>
+		<Name><![CDATA[ Cái Bang - Thiên Hạ Vô Cẩu - Thức 3 - Gây sát thương ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[18,82]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[75]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[60]]></ID>
+		<Name><![CDATA[ Cái Bang - Thần Long Bãi Vĩ - Tạo bullet contains effects cho thức 1 ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[82]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[61]]></ID>
+		<Name><![CDATA[ Cái Bang - Thần Long Bãi Vĩ - Thức 1, gây dmg, đánh bật, giảm kháng hỏa all enemies]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[19,20,21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[76,77,78]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[62]]></ID>
+		<Name><![CDATA[ Cái Bang - Thần Long Bãi Vĩ - Thức 2, gây sát thương bạo kích nội công ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[20,21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[80]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[63]]></ID>
+		<Name><![CDATA[ Cái Bang - Thần Long Bãi Vĩ - Thức 3, tạo hiệu ứng xuất huyết ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[21,83]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[81]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[64]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Liên Trảm - Thức 1, tạo bóng]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[24,25,26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[38]]></ClientEffectID>
+		<ArrEffects><![CDATA[83,85,189]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[66]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Liên Trảm - Thức 1 - Tạo bóng bước 2]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[24,25,26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[84,307]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[67]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Liên Trảm - Thức 2 - Tạo bóng]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[25,26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[39]]></ClientEffectID>
+		<ArrEffects><![CDATA[86]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[68]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Liên Trảm - Thức 2 - Bóng 3, gây dmg]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[25,26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[87]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[69]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Liên Trảm - Thức 3 - Bóng bước thứ 4]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[40]]></ClientEffectID>
+		<ArrEffects><![CDATA[88,89]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[70]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Liên Trảm - bong - thuc 3 - charge 4]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[90]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[71]]></ID>
+		<Name><![CDATA[Xoa sat thuong ngoai cong hap thu]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[91]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[72]]></ID>
+		<Name><![CDATA[Xoa sat thuong noi cong hap thu]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[92]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[73]]></ID>
+		<Name><![CDATA[Minh Giáo - Âm Dương Quyết - Thức 1 - Tạo ra phân ảnh 1, %stats, special: life steal]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[24,25,26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[93]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[74]]></ID>
+		<Name><![CDATA[Minh Giáo - Âm Dương Quyết - Thức 2 - Tạo phân ảnh 2, %stats, special: nhận toàn bộ sát thương trong thời gian tồn tại ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[25,26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[94]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[75]]></ID>
+		<Name><![CDATA[Minh Giáo - Âm Dương Quyết - Thức 3 - Tạo phân ảnh 3, %stats, no special]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[95]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[76]]></ID>
+		<Name><![CDATA[Minh Giáo - Huyết Hoa Cuồng Loạn Đao - Thức 1 - Biến hình, nhận các trạng thái buff đặc biệt]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[24,25,26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[105,96,97,98,99,100,103,369]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[77]]></ID>
+		<Name><![CDATA[Minh Giáo - Huyết Hoa Cuồng Loạn Đao - Thức 2 , điều kiện phản dmg (nhận dmg) ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[25,26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[101]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[78]]></ID>
+		<Name><![CDATA[Minh Giáo - Huyết Hoa Cuồng Loạn Đao - Thức 2 - phản damage]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[25,26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[102]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[79]]></ID>
+		<Name><![CDATA[Minh Giáo - Huyết Hoa Cuồng Loạn Đao - Thức 3 - Hồi phục HP]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[104]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[80]]></ID>
+		<Name><![CDATA[Võ Đang - Tam Hoàn Sáo Nguyệt - tạo bullet cơ bản cho thức 1]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[32,33,34,86]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[106]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[81]]></ID>
+		<Name><![CDATA[Võ Đang - Tam Hoàn Sáo Nguyệt - Thức 2 - làm mù]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[33,34,86]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[107,404,109]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[82]]></ID>
+		<Name><![CDATA[Võ Đang - Tam Hoàn Sáo Nguyệt - Thức 3 - bullet gây sát thương cộng thêm ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[34,86]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[405,419]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[83]]></ID>
+		<Name><![CDATA[Võ Đang - Thái Cực Kiếm Vũ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[110,111]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[84]]></ID>
+		<Name><![CDATA[Võ Đang - Thái Cực Kiếm Vũ - Thức 1, 7 bullets]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[32,33,34,86]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[112,113,114,115,116,117,118]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[85]]></ID>
+		<Name><![CDATA[Võ Đang - Thái Cực Kiếm Vũ - Thức 2, 2 bullets]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[33,34,86]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[119,120]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[86]]></ID>
+		<Name><![CDATA[Võ Đang - Thái Cực Kiếm Vũ - Thức 3, 3 bullets]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[34,86]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[121,122,123]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[87]]></ID>
+		<Name><![CDATA[Võ Đang - Nhân Kiếm Hợp Nhất - Thức 1, buff mọi thứ cho bản thân ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[32,33,34,86]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[124,125,126,127,128,193]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[88]]></ID>
+		<Name><![CDATA[Võ Đang - Nhân Kiếm Hợp Nhất - Thức 2, trả lại fury point, tăng sát thương ngoại]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[33,34,86]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[129,401]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[89]]></ID>
+		<Name><![CDATA[Võ Đang - Nhân Kiếm Hợp Nhất - Thức 3, gia tăng sát thương bạo kích]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[34,86]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[130]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[90]]></ID>
+		<Name><![CDATA[Võ Đang - Võ Đang Miên Chưởng - Thuc 1]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[35,36,37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[131]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[91]]></ID>
+		<Name><![CDATA[Võ Đang - Võ Đang Miên Chưởng - Thuc 1 - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[35,36,37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[132,133]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[92]]></ID>
+		<Name><![CDATA[Võ Đang - Võ Đang Miên Chưởng - Thức 2 - giảm kháng thổ của mục tiêu]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[36,37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[134]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[93]]></ID>
+		<Name><![CDATA[Võ Đang - Võ Đang Miên Chưởng - Thức 3, bắn thêm một bullet, sát thương lớn hơn]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[135]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[94]]></ID>
+		<Name><![CDATA[Võ Đang - Võ Đang Miên Chưởng - Thuc 3 - sát thương của bullet 3]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[136]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[95]]></ID>
+		<Name><![CDATA[Võ Đang - Bát Quái Chưởng - Thức 1, tạo bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[35,36,37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[137]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[96]]></ID>
+		<Name><![CDATA[Võ Đang - Bát Quái Chưởng - Thức 1, sát thương của bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[35,36,37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[138]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[98]]></ID>
+		<Name><![CDATA[Võ Đang - Bát Quái Chưởng - Thức 3, gây choáng và giảm kháng thổ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[190,421,140,141]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[99]]></ID>
+		<Name><![CDATA[Võ Đang - Thái Thanh Thần Khí - Thức 1, tăng 100% xảy ra passive Thái Thực Thần Công]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[35,36,37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[387,142,370]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[100]]></ID>
+		<Name><![CDATA[Võ Đang - Thái Thanh Thần Khí - Thức 2, tăng % bạo kích ngoại công]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[36,37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[143]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[101]]></ID>
+		<Name><![CDATA[Võ Đang - Thái Thanh Thần Khí - Thức 3, xuyên giáp]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[389,144,191]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[102]]></ID>
+		<Name><![CDATA[Minh Giáo - Thâu Hồn Thuật - Thức 1, tạo MA ám]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[27,28,29,85]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[145]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[103]]></ID>
+		<Name><![CDATA[Minh Giáo - Thâu Hồn Thuật - hiệu quả của bullet thức 1 : gây sát thương, giảm kháng mộc, câm lặng]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[27,28,29,85]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[148,147,146,373]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[104]]></ID>
+		<Name><![CDATA[Minh Giáo - Thâu Hồn Thuật - Thức 2: gây sát thương nổ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[28,29,85]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[149,150]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[105]]></ID>
+		<Name><![CDATA[Minh Giáo - Thâu Hồn Thuật - Thức 3: hồi phục HP theo % sát thương từ thức 2]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[29,85]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[151]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[106]]></ID>
+		<Name><![CDATA[Minh Giáo - Cửu U Tử Trạch - Thức 1, tạo vùng độc khởi đầu]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[27,28,29,85]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[152]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[107]]></ID>
+		<Name><![CDATA[Minh Giáo - Cửu U Tử Trạch - Hiệu quả thức 1 của vùng độc : dmg per second]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[27,28,29,85]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[153]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[108]]></ID>
+		<Name><![CDATA[Minh Giáo - Cửu U Tử Trạch - Hiệu quả thức 2 của vùng độc : slow enemies]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[28,29,85]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[154]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[109]]></ID>
+		<Name><![CDATA[Minh Giáo - Cửu U Tử Trạch - Hiệu quả thức 3 của vùng độc : - nộ khí của đối phương]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[29,85]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[155]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[110]]></ID>
+		<Name><![CDATA[Minh Giáo -  Mãn Thiên Huyết Hoa Vũ - Thức 1]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[27,28,29,85]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[156,158]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[111]]></ID>
+		<Name><![CDATA[Minh Giáo -  Mãn Thiên Huyết Hoa Vũ - Thức 2: gây sát thương lần 2]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[28,29,85]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[159]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[112]]></ID>
+		<Name><![CDATA[Minh Giáo -  Mãn Thiên Huyết Hoa Vũ - Thức 3: gây sát thương lần 3]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[29,85]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[160]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[113]]></ID>
+		<Name><![CDATA[Xoa sat thuong gay ra duoc luu lai]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[161]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[114]]></ID>
+		<Name><![CDATA[Xoa sat thuong nhan phai duoc luu lai]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[162]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[115]]></ID>
+		<Name><![CDATA[Nga My - Băng Cơ Ngọc Cốt (basic passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[30]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[163,164]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[116]]></ID>
+		<Name><![CDATA[Nga My - Băng Cơ Ngọc Cốt (basic passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[165]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[117]]></ID>
+		<Name><![CDATA[Nga My - Thanh Âm Phạn Xượng (ranger passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[15]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[166,167]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[118]]></ID>
+		<Name><![CDATA[Nga My - Thanh Âm Phạn Xượng (ranger passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[168]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[119]]></ID>
+		<Name><![CDATA[Nga My - Lưu Thủy Ngọc Cốt (melee passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[25]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[169,325]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[120]]></ID>
+		<Name><![CDATA[Cái Bang - Khất Thiên Thảo Địa (basic passive) : Hồi máu theo thời gian, currentHP càng thấp, regenHP càng cao]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[171]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[121]]></ID>
+		<Name><![CDATA[Cái Bang - Túy Điệp Cuồng Vũ (melee passive) - trigger condition]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[172]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[122]]></ID>
+		<Name><![CDATA[Cái Bang - Túy Điệp Cuồng Vũ (melee passive) - hiệu quả gây ministun và sát thương]]></Name>
+		<ArrRatePerLevel><![CDATA[50]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[173,310]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[123]]></ID>
+		<Name><![CDATA[Cái Bang - Tiêu Diêu Công (ranger passive) : Trigger condition]]></Name>
+		<ArrRatePerLevel><![CDATA[25]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[174]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[124]]></ID>
+		<Name><![CDATA[Cái Bang - Tiêu Diêu Công (ranger passive) : Tạo bullet gây ra sát thương cho đối phương]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[360]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[125]]></ID>
+		<Name><![CDATA[Cái Bang - Tiêu Diêu Công (ranger passive) : Hiệu quả gây sát thương lan]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[176]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[126]]></ID>
+		<Name><![CDATA[Hon Thien Cong]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[177]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[127]]></ID>
+		<Name><![CDATA[Dich Can Kinh]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[178,357]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[128]]></ID>
+		<Name><![CDATA[Võ Đang - Tọa Vọng Vô Ngã (basic passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[179]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[129]]></ID>
+		<Name><![CDATA[Võ Đang - Thiên Địa Vô Cực (melee passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[180,181]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[130]]></ID>
+		<Name><![CDATA[Võ Đang - Thái Cực Thần Công (ranger passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[20]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[182]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[131]]></ID>
+		<Name><![CDATA[Minh Giáo - Thánh Hỏa Phần Tâm (basic passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[183,184]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[132]]></ID>
+		<Name><![CDATA[Minh Giáo - Càn Khôn Đại Na Di (melee passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[185]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[133]]></ID>
+		<Name><![CDATA[Minh Giáo - Thánh Hỏa Thần Công (ranger passive) : Trigger condition]]></Name>
+		<ArrRatePerLevel><![CDATA[25]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[186]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[134]]></ID>
+		<Name><![CDATA[Minh Giáo - Thánh Hỏa Thần Công (ranger passive) : Hiệu ứng gây sát thương theo thời gian]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[187]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[135]]></ID>
+		<Name><![CDATA[Võ Đang - Bát Quái Chưởng - Tạo bullet thứ 2, thức 2]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[36,37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[190]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[136]]></ID>
+		<Name><![CDATA[Võ Đang - Thái Thanh Thần Khí]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[192]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[137]]></ID>
+		<Name><![CDATA[Thiet Trao]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[194]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[138]]></ID>
+		<Name><![CDATA[Thiet Trao - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[195,322]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[139]]></ID>
+		<Name><![CDATA[Passive Hoi Fp]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[196]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[140]]></ID>
+		<Name><![CDATA[No Hoa]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[197]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[141]]></ID>
+		<Name><![CDATA[No Hoa - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[198,199]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[142]]></ID>
+		<Name><![CDATA[Nga My - Phong Hoa Tuyết Nguyệt (1st active skill)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[200,330]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[143]]></ID>
+		<Name><![CDATA[Cái Bang - Bạt Thảo Tầm Xà (1st active skill) - tạo bullet (type: in front of)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[201]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[144]]></ID>
+		<Name><![CDATA[Cái Bang - Bạt Thảo Tầm Xà (1st active skill) - hiệu quả skill : gây sát thương và đánh lui trên diện rộng]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[202,203]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[145]]></ID>
+		<Name><![CDATA[Võ Đang - Nộ Lôi Chỉ (1st active skill) - tạo bullet thường]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[204]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[146]]></ID>
+		<Name><![CDATA[Võ Đang - Nộ Lôi Chỉ (1st active skill) - hiệu quả bullet : gây sát thương và đánh lui mục tiêu]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[205,206]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[147]]></ID>
+		<Name><![CDATA[Thiếu Lâm - Thiết Ngưu Công (1st active skill)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[207,208,329]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[148]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Công (1st active skill) - Tạo bullet (Type: Normal) ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[209]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[149]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Công (1st active skill) - Hiệu quả kỹ năng (bullet) ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[210,211]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[150]]></ID>
+		<Name><![CDATA[Cửu Âm Chân Kinh (passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[20]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[212,213]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[151]]></ID>
+		<Name><![CDATA[Độc Cô Cửu Kiếm (Dương Quá) - Dương Quá lướt tới chem]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[348,349,350,351,353]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[152]]></ID>
+		<Name><![CDATA[Độc Cô Cửu Kiếm (Dương Quá) - Hiệu quả khi lướt tới : gây sát thương và làm câm lặng]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[216,311,327]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[153]]></ID>
+		<Name><![CDATA[Song Kiếm Hợp Bích (Dương Quá - Tiểu Long Nữ) - Tạo bullet (18 bullets) ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[217]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[154]]></ID>
+		<Name><![CDATA[Song Kiếm Hợp Bích (Dương Quá - Tiểu Long Nữ) - Hiệu quả mỗi bullet : gây sát thương + làm choáng]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[218,219]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[155]]></ID>
+		<Name><![CDATA[Ngọc Nữ Tâm Kinh (Tiểu Long Nữ passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[220,221]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[156]]></ID>
+		<Name><![CDATA[Ngọc Nữ Kiếm Pháp (Tiểu Long Nữ active skill)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[222,223]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[157]]></ID>
+		<Name><![CDATA[Băng Tâm Tiên Tử (Lý Mạc Sầu passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[224,226]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[158]]></ID>
+		<Name><![CDATA[Băng Tâm Tiên Tử (Lý Mạc Sầu passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[25]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[225]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[159]]></ID>
+		<Name><![CDATA[Băng Phách Ngân Châm (Lý Mạc Sầu active skill)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[227]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[160]]></ID>
+		<Name><![CDATA[Quách Tĩnh - Thần Long Bãi Vĩ Tối Thượng]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[231]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[161]]></ID>
+		<Name><![CDATA[Quách Tĩnh - Thần Long Bãi Vĩ Tối Thượng - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[232,233,234]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[162]]></ID>
+		<Name><![CDATA[Khien Nuoc]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[235]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[163]]></ID>
+		<Name><![CDATA[Bach Doc Trach]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[236]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[164]]></ID>
+		<Name><![CDATA[Bach Doc Trach - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[237,238]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[165]]></ID>
+		<Name><![CDATA[Mi Thuat]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[239,240]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[166]]></ID>
+		<Name><![CDATA[Thiet Trao (Ho Tinh)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[241]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[167]]></ID>
+		<Name><![CDATA[Thiet Trao (Ho Tinh) - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[242,322]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[168]]></ID>
+		<Name><![CDATA[Luong Nghi Kiem]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[387,243,244,245,361]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[169]]></ID>
+		<Name><![CDATA[Cừu Thiên Xích - Nhất Tiêu Đoạt Mệnh - tạo bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[246]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[170]]></ID>
+		<Name><![CDATA[Cừu Thiên Xích - Nhất Tiêu Đoạt Mệnh - hiệu quả của bullet : gây sát thương, đẩy lùi, giảm giáp]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[247,248,249]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[171]]></ID>
+		<Name><![CDATA[Công Tôn Chỉ - Tuyệt Tình Trảm - Tạo bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[250]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[172]]></ID>
+		<Name><![CDATA[Công Tôn Chỉ - Tuyệt Tình Trảm - hiệu ứng của bullet : gây sát thương và đẩy lùi toàn bộ mục tiêu trước mặt]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[251,252]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[173]]></ID>
+		<Name><![CDATA[Cầm Nã Thủ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[253,254]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[174]]></ID>
+		<Name><![CDATA[Cầm Nã Thủ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[255,256]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[175]]></ID>
+		<Name><![CDATA[Sinh Tử Bùa (Cương Thi Elite)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[257]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[176]]></ID>
+		<Name><![CDATA[Sinh Tử Bùa (Cương Thi Elite) - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[258,259]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[177]]></ID>
+		<Name><![CDATA[Sinh Tử Bùa (Cương Thi Elite) - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[260]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[178]]></ID>
+		<Name><![CDATA[Cầm Nã Thủ (Trom Mo Cam Dau)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[261,262]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[179]]></ID>
+		<Name><![CDATA[Cầm Nã Thủ (Trom Mo Cam Dau)]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[263,264]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[180]]></ID>
+		<Name><![CDATA[Triệu Chí Kính - Thái Ất Kiếm]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[265,266,267]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[181]]></ID>
+		<Name><![CDATA[Hac Phien Khoi Phong]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[268]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[182]]></ID>
+		<Name><![CDATA[Hac Phien Khoi Phong - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[269,270]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[183]]></ID>
+		<Name><![CDATA[Tieu Vo Tuong Cong]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[271]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[184]]></ID>
+		<Name><![CDATA[Tieu Vo Tuong Cong]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[272]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[185]]></ID>
+		<Name><![CDATA[Tieu Vo Tuong Cong - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[273,274]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[186]]></ID>
+		<Name><![CDATA[Kim Luân Pháp Vương - Long Tượng Bát Nhã Công - Tạo bullet ]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[275]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[187]]></ID>
+		<Name><![CDATA[Kim Luân Pháp Vương - Long Tượng Bát Nhã Công - Hiệu quả bullet : gây sát thương, đẩy lùi rồi làm choáng]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[276,277,278]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[188]]></ID>
+		<Name><![CDATA[Passive boss the gioi]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[279]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[189]]></ID>
+		<Name><![CDATA[Dieu]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[280]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[190]]></ID>
+		<Name><![CDATA[Dieu - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[281]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[191]]></ID>
+		<Name><![CDATA[Hoang Kim Ho]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[282,283,284,285,286,287]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[192]]></ID>
+		<Name><![CDATA[Hoang Kim Ho - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[288]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[193]]></ID>
+		<Name><![CDATA[Cuong Thi Dau Linh]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[289]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[194]]></ID>
+		<Name><![CDATA[Cuong Thi Dau Linh - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[290]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[195]]></ID>
+		<Name><![CDATA[Quai Ngu Cam Dau]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[291,292]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[196]]></ID>
+		<Name><![CDATA[Quai Ngu Cam Dau]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[292]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[197]]></ID>
+		<Name><![CDATA[Tam Vi Ho]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[293]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[198]]></ID>
+		<Name><![CDATA[Huyết Hoạt Đao]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[294,295,296,297]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[199]]></ID>
+		<Name><![CDATA[Nhen Doc]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[298,299,300]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[200]]></ID>
+		<Name><![CDATA[Nhen Doc - bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[304]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[201]]></ID>
+		<Name><![CDATA[Cai Bang Chuong - Phi Long Tai Thien - tao bullet no]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[308]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[202]]></ID>
+		<Name><![CDATA[Cai Bang Chuong - Phi Long Tai Thien - hieu ung gay sat thuong cua bullet no]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[309]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[203]]></ID>
+		<Name><![CDATA[Cái Bang - Túy Điệp Cuồng Vũ (melee passive) - hiệu quả gây sát thương theo thời gian]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[310]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[204]]></ID>
+		<Name><![CDATA[Hoàng Dung - Đả Cẩu Bổng Trận (passive) - Tăng né tránh và chính xác theo mỗi 1% lost_HP]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[312,313]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[205]]></ID>
+		<Name><![CDATA[Hoàng Dung - Lạc Anh Miên Chưởng - Tạo bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[314]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[206]]></ID>
+		<Name><![CDATA[Hoàng Dung - Lạc Anh Miên Chưởng - hiệu ứng gây sát thương và giảm kháng ngũ hành]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[315,316]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[207]]></ID>
+		<Name><![CDATA[Tây Độc - Cáp Mô Công (passive) - Tạo bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[50]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[317]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[208]]></ID>
+		<Name><![CDATA[Tây Độc - Cáp Mô Công (passive) - phản damage]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[318]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[209]]></ID>
+		<Name><![CDATA[Tây Độc - Linh Xà Quyền]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[319,344,345,346,347]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[210]]></ID>
+		<Name><![CDATA[Ran Xanh Lon]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[320]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[211]]></ID>
+		<Name><![CDATA[Ran Xanh Lon - hoi mau]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[321]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[212]]></ID>
+		<Name><![CDATA[Nga My - Lưu Thủy Ngọc Cốt (melee passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[323,324]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[213]]></ID>
+		<Name><![CDATA[Võ Đang - Thái Cực Thần Công (ranger passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[388,326]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[214]]></ID>
+		<Name><![CDATA[Băng Phách Ngân Châm (Lý Mạc Sầu active skill)]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[228,229,230]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[215]]></ID>
+		<Name><![CDATA[Thien Thach Can]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[331]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[216]]></ID>
+		<Name><![CDATA[Thien Thach Can - hieu qua]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[332,333]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[217]]></ID>
+		<Name><![CDATA[Huyet Doc Buc]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[334,335]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[218]]></ID>
+		<Name><![CDATA[Huyet Doc Buc - hieu qua]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[336]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[219]]></ID>
+		<Name><![CDATA[Thiet Sa Chuong]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[337]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[220]]></ID>
+		<Name><![CDATA[Thiet Sa Chuong - hieu qua]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[338,339,340]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[221]]></ID>
+		<Name><![CDATA[That Tinh Kiem]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[341]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[222]]></ID>
+		<Name><![CDATA[That Tinh Kiem - hieu qua]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[342,343]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[223]]></ID>
+		<Name><![CDATA[Độc Cô Cửu Kiếm (Dương Quá) - Hiệu quả khi lướt tới]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[352]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[224]]></ID>
+		<Name><![CDATA[Phat Bong Ap Cau]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[354]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[225]]></ID>
+		<Name><![CDATA[Phat Bong Ap Cau - hieu qua]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[355,356]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[226]]></ID>
+		<Name><![CDATA[Thiếu Lâm - Dịch Cân Kinh (Côn passive)]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[358]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[227]]></ID>
+		<Name><![CDATA[Toan Chan Tam Phap]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[362,363,364]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[228]]></ID>
+		<Name><![CDATA[Thiet Tru]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[365]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[229]]></ID>
+		<Name><![CDATA[Hac Phien Tam Cong]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[366]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[230]]></ID>
+		<Name><![CDATA[Vong Thanh Phat Kinh]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[367,368]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[231]]></ID>
+		<Name><![CDATA[Võ Đang - Tam Hoàn Sáo Nguyệt - Thức 1 - gây damage]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[32,33,34,86]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[108]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[232]]></ID>
+		<Name><![CDATA[Passive Hoi Fp II]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[371]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[233]]></ID>
+		<Name><![CDATA[Passive Hoi Fp III]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[372]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[234]]></ID>
+		<Name><![CDATA[Nga My Kiếm - Tạo bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[9,10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[374]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[235]]></ID>
+		<Name><![CDATA[Nga My Kiếm - Tạo bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[375,418]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[236]]></ID>
+		<Name><![CDATA[Nga My Kiếm - Tam Nga Tế Nguyệt - Thức 2 (bulletx3), gây sát thương 3 mục tiêu]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[9,10,81]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[25]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[237]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Liên Trảm - Thức 1 - Tạo bóng bước 1]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[24,25,26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[377]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[238]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Liên Trảm - Thức 1 - Tạo bóng bước 2]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[24,25,26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[84,307,379]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[239]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Liên Trảm - Thức 2 - Tạo bóng bước 3]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[25,26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[87,381]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[240]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Liên Trảm - Thức 3 - Tạo bóng bước 4]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[90]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[241]]></ID>
+		<Name><![CDATA[Minh Giáo - Mộc Hỏa Liên Trảm - Thức 3]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[26,84]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[89]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[242]]></ID>
+		<Name><![CDATA[]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[385]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[243]]></ID>
+		<Name><![CDATA[]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[386]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[244]]></ID>
+		<Name><![CDATA[Tieu Giap Cong]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[390,391]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[245]]></ID>
+		<Name><![CDATA[Tieu Giap Cong]]></Name>
+		<ArrRatePerLevel><![CDATA[30]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[392,393]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[246]]></ID>
+		<Name><![CDATA[Duong Luc Hoan]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[394]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[247]]></ID>
+		<Name><![CDATA[Huyet Dao]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[395]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[248]]></ID>
+		<Name><![CDATA[Huyet Dao]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[396]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[249]]></ID>
+		<Name><![CDATA[Hoat Dao]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[397,400]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[250]]></ID>
+		<Name><![CDATA[Hoat Dao]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[398]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[251]]></ID>
+		<Name><![CDATA[Hoat Dao]]></Name>
+		<ArrRatePerLevel><![CDATA[0]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[399]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[252]]></ID>
+		<Name><![CDATA[Cái Bang - Khất Thiên Thảo Địa (basic passive) : Hồi máu theo thời gian, currentHP càng thấp, regenHP càng cao]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[410]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[253]]></ID>
+		<Name><![CDATA[Châu Tinh Tinh - Như Lai Thần Chưởng]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[411]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[254]]></ID>
+		<Name><![CDATA[Châu Tinh Tinh - Như Lai Thần Chưởng - Gây sát thương lên vùng chỉ định]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[412,413,414]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[255]]></ID>
+		<Name><![CDATA[Châu Tinh Tinh - Tiếu Di Lặc Thần Công]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[415]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[256]]></ID>
+		<Name><![CDATA[Châu Tinh Tinh - Tiếu Di Lặc Thần Công]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[416,423]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[257]]></ID>
+		<Name><![CDATA[Châu Tinh Tinh - Tiếu Di Lặc Thần Công]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[417]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[258]]></ID>
+		<Name><![CDATA[Võ Đang - Bát Quái Chưởng - Thức 2]]></Name>
+		<ArrRatePerLevel><![CDATA[100,100,100,100,100,100,100,100,100,100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[36,37,87]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[420,422]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[259]]></ID>
+		<Name><![CDATA[Hoàng Dung - Bổng Đả Song Khuyển - Tạo bullet]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[424]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[260]]></ID>
+		<Name><![CDATA[Hoàng Dung - Bổng Đả Song Khuyển - thuc 1]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[425]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[261]]></ID>
+		<Name><![CDATA[Hoàng Dung - Bổng Đả Song Khuyển - thuc 2]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[426]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[262]]></ID>
+		<Name><![CDATA[Hoàng Dung - Bổng Đả Song Khuyển - thuc 2]]></Name>
+		<ArrRatePerLevel><![CDATA[]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[427,428]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[263]]></ID>
+		<Name><![CDATA[Hoàng Dung - Bổng Đả Song Khuyển - thuc 3]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[429]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[264]]></ID>
+		<Name><![CDATA[Hoàng Dung - Tĩnh Tâm Quyết - thuc 1]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[430]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[265]]></ID>
+		<Name><![CDATA[Hoàng Dung - Tĩnh Tâm Quyết - thuc 1]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[431]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[266]]></ID>
+		<Name><![CDATA[Hoàng Dung - Tĩnh Tâm Quyết - thuc 2]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[432]]></ArrEffects>
+	</Data>
+	<Data>
+		<ID><![CDATA[267]]></ID>
+		<Name><![CDATA[Hoàng Dung - Tĩnh Tâm Quyết - thuc 3]]></Name>
+		<ArrRatePerLevel><![CDATA[100]]></ArrRatePerLevel>
+		<ArrClassRequire><![CDATA[]]></ArrClassRequire>
+		<ClientEffectID><![CDATA[0]]></ClientEffectID>
+		<ArrEffects><![CDATA[433]]></ArrEffects>
+	</Data>
+</Datas>

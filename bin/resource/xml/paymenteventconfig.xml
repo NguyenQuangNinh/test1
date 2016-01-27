@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Datas>
+	<Data>
+		<EventID><![CDATA[1]]></EventID>
+		<Name><![CDATA[Nạp xu nhận thưởng]]></Name>
+		<Desc><![CDATA[Đua top]]></Desc>
+		<Servers>
+			<Server>
+				<ServerID><![CDATA[1]]></ServerID>
+				<Enable><![CDATA[0]]></Enable>
+				<Begin><![CDATA[2014-07-31 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-02 23:59:00]]></End>
+				<EndReceive><![CDATA[2014-08-04 23:59:00]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[2]]></ServerID>
+				<Enable><![CDATA[0]]></Enable>
+				<Begin><![CDATA[2014-07-31 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-02 23:59:00]]></End>
+				<EndReceive><![CDATA[2014-08-04 23:59:00]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[3]]></ServerID>
+				<Enable><![CDATA[0]]></Enable>
+				<Begin><![CDATA[2014-07-31 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-02 23:59:00]]></End>
+				<EndReceive><![CDATA[2014-08-04 23:59:00]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[4]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-08-03 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-05 23:59:00]]></End>
+				<EndReceive><![CDATA[2014-08-07 23:59:00]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[5]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-08-04 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-06 23:59:00]]></End>
+				<EndReceive><![CDATA[2014-08-08 23:59:00]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[6]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-08-06 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-08 23:59:00]]></End>
+				<EndReceive><![CDATA[2014-08-10 23:59:00]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[7]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-08-10 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-12 00:00:00]]></End>
+				<EndReceive><![CDATA[2014-08-14 23:59:00]]></EndReceive>
+			</Server>
+		</Servers>
+		<PaymentRewards>
+			<PaymentReward>
+				<RequirementXu><![CDATA[200]]></RequirementXu>
+				<Rewards><![CDATA[1944,1948,1949]]></Rewards>
+			</PaymentReward>
+			<PaymentReward>
+				<RequirementXu><![CDATA[500]]></RequirementXu>
+				<Rewards><![CDATA[1945,1950,1951]]></Rewards>
+			</PaymentReward>
+			<PaymentReward>
+				<RequirementXu><![CDATA[1000]]></RequirementXu>
+				<Rewards><![CDATA[1946,1952,1953]]></Rewards>
+			</PaymentReward>
+			<PaymentReward>
+				<RequirementXu><![CDATA[2000]]></RequirementXu>
+				<Rewards><![CDATA[1947,1954,1955]]></Rewards>
+			</PaymentReward>
+		</PaymentRewards>
+	</Data>
+	<Data>
+		<EventID><![CDATA[2]]></EventID>
+		<Name><![CDATA[Nạp xu nhận thưởng]]></Name>
+		<Desc><![CDATA[Sau khi đua top]]></Desc>
+		<Servers>
+			<Server>
+				<ServerID><![CDATA[1]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-07-31 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-02 23:59:00]]></End>
+				<EndReceive><![CDATA[2014-08-04 23:59:00]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[2]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-07-31 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-02 23:59:00]]></End>
+				<EndReceive><![CDATA[2014-08-04 23:59:00]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[3]]></ServerID>
+				<Enable><![CDATA[1]]></Enable>
+				<Begin><![CDATA[2014-07-31 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-02 23:59:00]]></End>
+				<EndReceive><![CDATA[2014-08-04 23:59:00]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[4]]></ServerID>
+				<Enable><![CDATA[0]]></Enable>
+				<Begin><![CDATA[2014-08-03 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-05 23:59:00]]></End>
+				<EndReceive><![CDATA[2014-08-07 23:59:00]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[5]]></ServerID>
+				<Enable><![CDATA[0]]></Enable>
+				<Begin><![CDATA[2014-08-04 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-06 23:59:00]]></End>
+				<EndReceive><![CDATA[2014-08-08 23:59:00]]></EndReceive>
+			</Server>
+			<Server>
+				<ServerID><![CDATA[6]]></ServerID>
+				<Enable><![CDATA[0]]></Enable>
+				<Begin><![CDATA[2014-08-06 00:00:00]]></Begin>
+				<End><![CDATA[2014-08-08 23:59:00]]></End>
+				<EndReceive><![CDATA[2014-08-10 23:59:00]]></EndReceive>
+			</Server>
+		</Servers>
+		<PaymentRewards>
+			<PaymentReward>
+				<RequirementXu><![CDATA[100]]></RequirementXu>
+				<Rewards><![CDATA[2002,2003,2004]]></Rewards>
+			</PaymentReward>
+			<PaymentReward>
+				<RequirementXu><![CDATA[200]]></RequirementXu>
+				<Rewards><![CDATA[2005,2006,2007]]></Rewards>
+			</PaymentReward>
+			<PaymentReward>
+				<RequirementXu><![CDATA[500]]></RequirementXu>
+				<Rewards><![CDATA[2008,2009,2010]]></Rewards>
+			</PaymentReward>
+			<PaymentReward>
+				<RequirementXu><![CDATA[1000]]></RequirementXu>
+				<Rewards><![CDATA[2011,2012,2013]]></Rewards>
+			</PaymentReward>
+			<PaymentReward>
+				<RequirementXu><![CDATA[2000]]></RequirementXu>
+				<Rewards><![CDATA[2014,2015]]></Rewards>
+			</PaymentReward>
+		</PaymentRewards>
+	</Data>
+</Datas>
